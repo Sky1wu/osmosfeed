@@ -1,90 +1,2166 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-24T00:28:36.647Z</id>
+    <id>urn:2023-10-25T00:28:15.805Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T00:28:36.647Z</updated>
+    <updated>2023-10-25T00:28:15.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[[问与答] 服务接受请求过多就崩溃]]></title>
-        <id>https://www.v2ex.com/t/984724#reply0</id>
-        <link href="https://www.v2ex.com/t/984724#reply0"/>
-        <updated>2023-10-24T00:26:17.000Z</updated>
-        <summary type="html"><![CDATA[我同一时间给服务器发送 1000 个 ajax 请求，服务器就崩了，得重启。
-万一有人想搞我的网站，也同时发 1000 个 ajax 过来，那我网站不就崩了？
-有没有办法让服务器接受大量请求不崩溃的办法？]]></summary>
+        <title type="html"><![CDATA[[问与答] 求个可以匿名短信或者短信代发的平台]]></title>
+        <id>https://www.v2ex.com/t/985119#reply0</id>
+        <link href="https://www.v2ex.com/t/985119#reply0"/>
+        <updated>2023-10-25T00:28:10.000Z</updated>
+        <summary type="html"><![CDATA[微信上公众号的匿名短信 还是相当于实名了。 电报上的群发 数量太多也用不上。。求推荐。。不涉及任何违法短信 。只是希望把心里话告诉别人]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 各位架构师，服务调用链路上某个服务报错怎么排查？]]></title>
-        <id>https://www.v2ex.com/t/984723#reply0</id>
-        <link href="https://www.v2ex.com/t/984723#reply0"/>
-        <updated>2023-10-24T00:25:12.000Z</updated>
-        <summary type="html"><![CDATA[服务 A 调用服务 B ，服务 B 再调用服务 C...，整个链路上如果某个服务报错，怎么排查？如何查看 A 传递给 B 的参数？如果 B 有多个副本，怎么知道是哪个副本抛异常？]]></summary>
+        <title type="html"><![CDATA[[问与答] 代理到阿里云，在双十一参加抢购是否会有优势？]]></title>
+        <id>https://www.v2ex.com/t/985118#reply0</id>
+        <link href="https://www.v2ex.com/t/985118#reply0"/>
+        <updated>2023-10-25T00:23:35.000Z</updated>
+        <summary type="html"><![CDATA[最近看上了一个活动，前 50 名半折。
+如果将设备代理到阿里云杭州服务器上，在抢购时是否会具有优势？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[JetBrains] 1024 了， idea 来一波买一送一吧]]></title>
-        <id>https://www.v2ex.com/t/984722#reply0</id>
-        <link href="https://www.v2ex.com/t/984722#reply0"/>
-        <updated>2023-10-24T00:18:26.000Z</updated>
-        <summary type="html"><![CDATA[等等党的失败，原本想着再降价，结果还涨得更多了]]></summary>
+        <title type="html"><![CDATA[[问与答] 老哥们脱发如何解决]]></title>
+        <id>https://www.v2ex.com/t/985117#reply1</id>
+        <link href="https://www.v2ex.com/t/985117#reply1"/>
+        <updated>2023-10-25T00:19:00.000Z</updated>
+        <summary type="html"><![CDATA[如题
+抖音上看到那些直播卖米诺的是不是智商税
+都想买假发戴了   
+请各位同病相怜的老哥指条明路]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[PHP] 有在武汉的小伙伴吗？ 11-20k 招一个 PHP 后端]]></title>
-        <id>https://www.v2ex.com/t/984721#reply1</id>
-        <link href="https://www.v2ex.com/t/984721#reply1"/>
-        <updated>2023-10-24T00:08:53.000Z</updated>
-        <summary type="html"><![CDATA[岗位描述:
-负责公司 SAAS 产品的研发与维护
-岗位要求:
-1 、了解大型电商或营销 sass 系统的底层架构设计、原理;
-2 、精通了解 thinkphp 、laravel 框架，深入理解 MVC 原理、中间件等;
-2 、精通高负载、高并发的技术架构，熟悉分布式系统的架构设计;
-3 、精通数据库、分布式数据存储，熟悉高流量平台的后台系统设计与开发;
-4 、负责过大型项目，数据库容灾、系统宕机时问题处理、解决方案;
-5 、熟悉 linux 服务器相关操作，运行环境维护，高负载高并发监控;
-6 、管理过技术团队，对人员考核、项目开发进度管理有经验者优先考虑。
+        <title type="html"><![CDATA[[问与答] 外人准备在成都买房，感觉有点无从下手的感觉]]></title>
+        <id>https://www.v2ex.com/t/985116#reply1</id>
+        <link href="https://www.v2ex.com/t/985116#reply1"/>
+        <updated>2023-10-25T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA[成都很大，而且楼盘众多，也不知道哪些区域以及楼盘品质特点是什么，希望尽量以新房 or 二手清水房为主，不考虑什么炒房之类的，就是父母退休后居住，周边能有成熟商超购物方便点。一时真不知道如何下手，该如何从头开始找房]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] go 有办法调用基础库 golang.org/x/crypto 的私有结构和方法吗？]]></title>
+        <id>https://www.v2ex.com/t/985115#reply2</id>
+        <link href="https://www.v2ex.com/t/985115#reply2"/>
+        <updated>2023-10-24T23:47:58.000Z</updated>
+        <summary type="html"><![CDATA[开源项目 https://github.com/trzsz/trzsz-ssh 想支持 ssh ControlMaster 的功能。
+go 基础库 golang.org/x/crypto 有个 PR https://go-review.googlesource.com/c/crypto/+/383374 还没合入。
+有办法在不 fork 基础库 golang.org/x/crypto 的情况下，优雅地在自己的项目实现这个 PR 的逻辑吗？
+import "golang.org/x/crypto/ssh"
 
-技能要求:
-1 、php 技能要求:精通 php ，能编写 php 扩展，深入理解 MVC 原理，熟练使用 thinkphp 、laravel 等主流框架，熟练使用 swoole;
-2 、数据库技能要求:MySQL 数据表设计，索引数据结构及索引优化，存储引擎类型的理解及使用，了解 innodb 引擎数据在硬盘上的保存方式和加载方式;高并发下 sql 优化，nosql 缓存、读写分离、分库分表等解决方案的实现;
-3 、缓存技能要求:熟练使用 Redis 、
-Memecache 服务，了解缓存设计模式，避免缓存攻击;
-4 、服务器技能要求:熟练使用使用 linux ，编写 linux 脚本，配置部署 web 服务器，优化提高服务器并发。
+func NewControlClientConn(c net.Conn) (ssh.Conn, <-chan ssh.NewChannel, <-chan *ssh.Request, error) {
+  conn := &ssh.connection{     ■ undefined: ssh.connection
+    sshConn: ssh.sshConn{conn: c},     ■ undefined: ssh.sshConn
+  }
+  var err error
+  if conn.transport, err = handshakeControlProxy(c); err != nil {
+    return nil, nil, nil, fmt.Errorf("ssh: control proxy handshake failed; %v", err)
+  }
+  conn.mux = ssh.newMux(conn.transport)     ■ undefined: ssh.newMux
+  return conn, conn.mux.incomingChannels, conn.mux.incomingRequests, nil
+}
 
-微信:bmV3MjAxOTA3MjQ=]]></summary>
+
+handshakeControlProxy 这个函数很好办，直接从 PR 中复制出来就行了。
+问题：上面的 ssh.connection、ssh.sshConn 和 ssh.newMux 依赖很深，发现很难直接 copy 出来。]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[OpenAI] iOS 版的 chatgpt 是不是取消了一些账号的语音对话功能？今天打开准备用的时候发现没了？]]></title>
-        <id>https://www.v2ex.com/t/984720#reply0</id>
-        <link href="https://www.v2ex.com/t/984720#reply0"/>
-        <updated>2023-10-24T00:01:51.000Z</updated>
-        <summary type="html"><![CDATA[今天早上把 iOS 版的 ChatGPT 升级到了最新版，打开用的时候发现语音对话功能没有了，是不是取消了一些账号的语音对话功能？]]></summary>
+        <title type="html"><![CDATA[[Android] 大家在安卓上都是用的什么输入法？]]></title>
+        <id>https://www.v2ex.com/t/985113#reply14</id>
+        <link href="https://www.v2ex.com/t/985113#reply14"/>
+        <updated>2023-10-24T23:32:52.000Z</updated>
+        <summary type="html"><![CDATA[现在我用的是讯飞输入法，不过没给联网权限。想找一款能够同时兼顾安全隐私与效率的]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[PHP] ultraedit PHP 函数如何高亮显示?]]></title>
-        <id>https://www.v2ex.com/t/984719#reply0</id>
-        <link href="https://www.v2ex.com/t/984719#reply0"/>
-        <updated>2023-10-23T23:36:43.000Z</updated>
-        <summary type="html"><![CDATA[我在 windows 下,使用 28.20 的版本,
-我想知道,怎么把 php 的内置函数,高亮显示?
-我记得以前 php 的函数都是紫色显示的,但是不知道从什么时候开始,现在是白色显示了.谢谢指点]]></summary>
+        <title type="html"><![CDATA[苹果在美国正式推出分期付款服务 Apple Pay Later]]></title>
+        <id>https://www.ithome.com/0/727/366.htm</id>
+        <link href="https://www.ithome.com/0/727/366.htm"/>
+        <updated>2023-10-24T23:09:07.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，苹果公司此前推出了一项新的支付服务，名为“Apple Pay Later”，该服务允许用户在购买商品时选择分期付款的方式，无需支付利息。这项服务于 2022 年 6 月首次公布，原计划在去年年底正式上线，但由于一些原因，推迟到今年 3 月底以“早期访问”的方式逐步推出。现在，这项服务已经对美国所有的 iPhone 用户正式开放。
+
+Apple Pay Later 服务允许美国 iPhone 和 Mac 用户在六周内将付款分成四期进行，无需支付额外的利息或费用。该服务将在线上和线下任何支持 Apple Pay 的商店使用，当用户使用 Apple Pay 购物时，他们可以选择分拆费用，购买页面将详细说明个人付款的金额和到期时间。
+IT之家注意到，除了“Apple Pay Later”，苹果公司今天还有其他的官方消息。一方面，预期的 iOS 17.1 系统更新并没有如期发布；另一方面，苹果宣布将于北京时间 10 月 31 日上午 8 点举行主题为“来势迅猛”的线上特别活动，届时或将有新品发布。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌母公司 Alphabet 2023Q3 营收 767 亿美元，同比增长 11%]]></title>
+        <id>https://www.ithome.com/0/727/364.htm</id>
+        <link href="https://www.ithome.com/0/727/364.htm"/>
+        <updated>2023-10-24T22:21:00.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，谷歌母公司 Alphabet 本周二公布了今年第 3 季度财报，营收 767 亿美元，同比增长 11%，超出了华尔街预期。然而，由于云业务的收入低于分析师的预测，该公司股价在盘后交易中下跌约 5%。
+
+广告仍然是谷歌的核心业务和主要利润驱动力。广告收入为达到 596.5 亿美元（IT之家备注：当前约 4360.41 亿元人民币），同比增长 9.5%。
+YouTube 广告具体增长了 12.5%，达到 79.5 亿美元，超过分析师预期的 78.2 亿美元。该视频平台帮助抵消了谷歌广告业务其他领域的通胀压力。
+
+谷歌的广告网络下降了 2.6%，不过，这比 2023 年第二季度报告的 5% 的损失有所改善。
+Alphabet 的云部门 Google Cloud 本季度收入为 84.1 亿美元，低于 StreetAccount 预测的 86.4 亿美元。尽管如此，云销售额仍同比增长 22%，因为该公司的目标是挑战市场领导者亚马逊网络服务和微软 Azure。
+Alphabet 首席财务官露丝・波拉特 (Ruth Porat) 表示：“在搜索和 YouTube 的显著增长以及云的发展势头的推动下，我们业务的基本实力在第三季度再次显现，收入达 770 亿美元，同比增长 11%。我们将继续专注于明智的资本配置，以实现可持续的财务价值”。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软公布 FY24 Q1 财报：收入 565 亿美元，同比增长 13%；净利润 223 亿美元，增长 27%]]></title>
+        <id>https://www.ithome.com/0/727/362.htm</id>
+        <link href="https://www.ithome.com/0/727/362.htm"/>
+        <updated>2023-10-24T21:40:08.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，微软发布了 2024 年第 1 财季（截至 2023 年 9 月 30 日）财报，营收 565 亿美元，相比较去年同期增长 13%，按固定汇率计算增长 12%。
+
+IT之家在此附上财报主要内容如下：
+
+营业利润为 269 亿美元，增长 25%（按固定汇率计算增长 24%）
+
+净利润为 223 亿美元，增长 27%（按固定汇率计算增长 26%）
+
+稀释后每股收益为 2.99 美元，增长 27%（按固定汇率计算增长 26%）
+
+这一增长主要得益于云和 Azure 产品的大幅增长，整个 Intelligent Cloud 部门同比增长 19%。
+
+
+Productivity and Business Processes 部门收入达到 186 亿美元，增长 13%（按固定汇率计算增长 12%）。
+
+Office 商业和消费者产品增长 15%，按固定汇率计算 14%，Microsoft Dynamics 产品和云服务大幅增长 22%，按固定汇率计算 21%；LinkedIn 在裁员 600 多人之后，业绩也实现了 8% 的同比增长。
+微软公司最大的收入增长依然来自云投资，包括 Microsoft Azure 在内的 Intelligent Cloud 部门实现收入 243 亿美元，同比增长 19%。Azure 服务器产品和云服务增长了 21%，而所有其他云服务增长了 28%，按固定汇率计算为 26%。
+
+以消费者为中心的更多个人计算部门本季度实际上实现了同比增长，尽管增幅不大。该部门的收入为 137 亿美元，小幅增长 3%（按固定汇率计算为 2%）。
+得益于 Windows OEM 收入增长 4%，以及 Windows 商业产品和云服务收入增长 8%，微软 Windows 收入小幅增长 5%。搜索和新闻广告收入也增长了 10%（按固定汇率计算为 9%）。
+
+微软本财季收入唯一大幅下降的是设备业务（包括 Surface 和 Xbox 游戏主机）收入同比下降 22%，延续了我们最近几个季度看到的趋势。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不用精细金属掩模，消息称三星有兴趣探索 OLED 面板新生产工艺]]></title>
+        <id>https://www.ithome.com/0/727/361.htm</id>
+        <link href="https://www.ithome.com/0/727/361.htm"/>
+        <updated>2023-10-24T21:16:10.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，根据韩媒 The Elec 报道，三星显示（Samsung Display）正探索新的 OLED 面板生产工艺，重点是可以绕过精细金属掩模（FMM）。
+消息称三星显示参加了今年 5 月举办的 Society of Information Display 活动，在展示了 OLED 面板的新生产技术后引发的。
+
+IT之家注：精细金属掩模是 OLED 蒸镀工艺中的消耗性核心零部件，其主要作用是在 OLED 生产过程中沉积 RGB 有机物质并形成像素，在需要的地方准确且精细地沉积有机物质，提高产品的分辨率和良率。
+分辨率越高，像素数越多，就需要更加微细和精巧的孔，在一张金属掩模板上约有 2000 万个孔，工艺难度较大。
+目前用于智能手机和智能手表的所有 OLED 面板在生产过程中，均使用了精细金属掩模，该行业的最大供应商为大日本印刷株式会（Dai Nippon Printing）。
+精细金属掩模存在诸多工艺挑战，并不适合生产尺寸超过 15-17 英寸的 OLED 面板。目前 FMM 生产 6 英寸 OLED 面板的良率仅为 30% 左右，而更大的面板良率必然更低。
+因此，17 英寸至 30 英寸的 OLED 面板尺寸对于显示面板厂商来说是一个新的领域，也是他们选择何种生产技术的一个相当头疼的问题。
+过去五年来，人们一直在谈论不使用 FMM 的 OLED 面板生产，但 JDI 去年推出的 eLEAP 技术增加了人们的兴趣。
+日本半导体能源实验室（SEL）还申请了与不使用 FMM 生产 OLED 面板相关的专利；而另一个来自维信诺，称为 Visionox Intelligent Pixelisation（ViP）。
+内部消息源表示三星显示对此类技术表现出兴趣，但由于获取技术专利等目前仍在考虑中。该公司习惯在进入新市场时通过获得所有相关专利和技术来完全控制市场，以防止竞争对手进入。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 看到有很些老哥发了离职贴，我想请问一下离职后你们的社保、医保是自己交吗？想了解一下离职后又不想上班，社保、医保怎么处理。]]></title>
+        <id>https://www.v2ex.com/t/985111#reply5</id>
+        <link href="https://www.v2ex.com/t/985111#reply5"/>
+        <updated>2023-10-24T20:42:09.000Z</updated>
+        <summary type="html"><![CDATA[问与答 - @HUZHUANGZHUANG -]]></summary>
         <author>
             <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[69.5 万条用户评论洞察：苹果 iPhone 15 Pro 系列满意度 72% 创下新低]]></title>
+        <id>https://www.ithome.com/0/727/359.htm</id>
+        <link href="https://www.ithome.com/0/727/359.htm"/>
+        <updated>2023-10-24T20:38:30.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，国外调查机构 PerfectRec 利用谷歌收集了 69.5 万条用户评价，表示苹果 iPhone 15 Pro 系列机型的满意度正逐渐下滑，只有 72% 的用户打出五星好评。
+
+IT之家注：本次调查的用户评论固然会有一些偏激或者极端的用户评价，但在 69.5 万条的大样本量中，还是可以看出大部分消费者对苹果 iPhone 15 Pro 机型的满意度情况。
+
+根据调查结果，iPhone 13 Pro 机型的满意度最高，有 84% 的人打出了五星好评；而 iPhone 14 Pro 机型的满意度为 76%，iPhone 15 Pro 机型再下降 4 个百分点，创下历史新低。
+
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲消费者组织称苹果“碳中和”提法存在误导性]]></title>
+        <id>https://www.ithome.com/0/727/358.htm</id>
+        <link href="https://www.ithome.com/0/727/358.htm"/>
+        <updated>2023-10-24T20:21:56.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 Alejandro86 的线索投递！
+IT之家 10 月 25 日消息，苹果今年 9 月召开的秋季特别活动中，推出了两款“碳中和”产品-- Apple Wach Series 9 和 Apple Watch Ultra 2，不过这一说法今天被欧洲消费者组织 BEUC 驳斥为“虚假”，是一种“气候洗白行为”。
+
+
+
+苹果公司在官方新闻稿《Apple 推出首批碳中和系列产品》中表示：
+
+每一款碳中和 Apple Watch 均符合下列严格标准：制造过程采用 100% 清洁电力，回收材料或可再生材料占总重量的 30%，50% 的运输不涉及空运 4。在这些举措的结合下，全部表款均实现了减排至少 75% 的成果。Apple 将利用高质量碳排放权来抵消剩余的少量温室气体排放，从而实现产品碳足迹的碳中和。
+
+根据《金融时报》报道，欧洲消费者组织 BEUC 已发布禁令，禁止苹果公司使用该术语：
+
+在欧盟长期严厉打击“洗绿”行为后，这家美国科技巨头决定依靠积分来抵消每块新手表产生的 7-12 公斤温室气体排放，这引起了消费者群体的强烈反应。
+
+欧洲消费者组织 BEUC 总干事莫妮克・戈延斯 (Monique Goyens) 向英国《金融时报》表示：
+
+碳中和的说法在科学上是不准确的，并且会误导消费者。欧盟最近决定禁止碳中和声明，将清除市场上的此类虚假信息，Apple Watch 也不例外。
+
+IT之家注：BEUC 是由来自 31 个国家的 45 个独立消费者组织组成的伞式组织，其主要作用是在欧盟机构中代表他们并捍卫欧洲消费者的利益。
+非营利组织 Carbon Market Watch 政策官员吉尔斯・杜弗拉斯尼（Gilles Dufrasne）表示：
+
+让消费者产生购买这款手表对气候完全没有影响的印象是一种误导，是一种增加销量的技巧而已。
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[NAS] Mac mini 加万兆网口当 NAS 用]]></title>
+        <id>https://www.v2ex.com/t/985110#reply7</id>
+        <link href="https://www.v2ex.com/t/985110#reply7"/>
+        <updated>2023-10-24T20:11:56.000Z</updated>
+        <summary type="html"><![CDATA[想升级万兆 NAS 突然发现 Mac mini 加万兆网口意外的有性价比。Mac mini 丐版：M2 芯片，10Gb 以太网，两个雷雳 4 端口。官网价格 5249 ，不比 ds923+ 性价比高吗？
+接一个 USB4 NVMe SSD 盒子可以跑满 40Gbps 。 再接两个 USB‑A 16TB 。Docker 网上据说兼容很好。Emby 也有 M2 版（ M2 应该硬解没问题）。Cloudflare Tunnel 也应该能用。qBitTorrent 也有支持 Apple Silicon 。就差一个文件管理系统了，不行就用 kodexplorer （又不是不能用，还能跑不满上传？），在家用 SMB 。
+总结就是除了 Docker 兼容未知（毕竟取决于容器），我用得到的 NAS 应用应该都没问题。 
+麻烦各位大佬看看有什么我没想到的问题。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Flutter] flutter 初学者的疑问，如何组织页面和代码]]></title>
+        <id>https://www.v2ex.com/t/985109#reply2</id>
+        <link href="https://www.v2ex.com/t/985109#reply2"/>
+        <updated>2023-10-24T19:55:16.000Z</updated>
+        <summary type="html"><![CDATA[最近开始学习 flutter ，对着官方文档看了一段时间，感觉需要练习一下。官方的例子也不少，所以我想着如果把他们整合到一起应该也不错，用 drawer 做个导航，每一个选项就是一个展示页面。
+所以界面结构应该是这样的，这样看来似乎只需要将 body 处的组件独立出来就好了。
+Appbar
+Body
+Drawer
+但是似乎又有些不对，因为提供 route 功能的是 MaterialApp ，所以看起来似乎每一个页面都应该是完整的 scaffold ，包括 appbar 和 drawer 这些。但是 appbar 和 drawer 貌似又是公用的。
+所以这时候应该怎么组织才比较合理呢？希望老哥们指点一下。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通推出 Snapdragon Seamless，打造跨系统跨设备无缝连接体验]]></title>
+        <id>https://www.ithome.com/0/727/357.htm</id>
+        <link href="https://www.ithome.com/0/727/357.htm"/>
+        <updated>2023-10-24T19:45:52.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，高通公司在今天举办的骁龙峰会上，正式公布了跨平台技术 Snapdragon Seamless，可实现跨多个操作系统的多个设备的无缝连接，共享外设和数据。
+
+高通公司表示目前已经和微软、谷歌、小米、华硕、荣耀、联想和 OPPO 等公司展开合作，打造由 Snapdragon Seamless 支持的多设备体验，并预计最早从今年开始登陆全球设备平台。
+这项技术可以让运行安卓、Windows 和其它系统的骁龙设备相互发现并共享信息，从而作为一个集成系统运行。
+
+根据德勤 2023 年互联消费者调查，现在每个美国家庭平均拥有 21 台不同的数字设备，而且他们之间的沟通往往不太顺畅，尤其是来自不同制造商的设备。这会减少消费者的选择，并造成锁定，让消费者感觉只能选择一家制造商，这样他们的设备才能协同工作。
+借助 Snapdragon Seamless，设备制造商和操作系统合作伙伴可以增强和扩展消费者的多设备体验，IT之家基于高通博文，简要介绍下应用场景：
+
+鼠标和键盘可以在电脑、手机和平板电脑上无缝工作。
+
+文件和窗口可以在不同类型的设备上拖放。
+
+耳机可以根据音频源的优先级智能切换。
+
+XR 可以扩展智能手机的功能。
+
+高通可穿戴设备和混合信号解决方案副总裁兼总经理 Dino Bekis 表示：“Snapdragon Seamless 从根本上打破了 OEM、设备和操作系统之间的障碍。它是唯一真正将用户放在第一位的跨设备解决方案。”
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通发布 S7 / Pro 音频芯片：AI 性能提升 100 倍，支持 XPAN 连接和 192kHz 无损]]></title>
+        <id>https://www.ithome.com/0/727/356.htm</id>
+        <link href="https://www.ithome.com/0/727/356.htm"/>
+        <updated>2023-10-24T19:36:03.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
+IT之家 10 月 25 日消息，高通今天在发布骁龙 8 Gen 3 和 X Elite 处理器的同时，还面向耳机、扬声器和移动计算平台，推出了全新的 S7 和 S7 Pro-Gen 1 音频芯片。
+
+
+新的音频平台具有高性能、低功耗、设备上人工智能和先进的连接功能，该平台的计算能力是上一代平台的六倍，人工智能能力几乎是上一代平台的 100 倍，并且以低功耗实现了新的超高端性能。
+
+S7 Pro 声音平台率先支持高通扩展个人区域网络技术（XPAN） 和 Micropower Wi-Fi 连接，提供比蓝牙更卓越的音频范围。
+
+
+S7 和 S7 pro 还具有设备端人工智能功能，可实现更好的音频个性化。它还支持高达 192kHz 的无损音乐和增强的游戏多通道空间音频，还支持 Qualcomm Seamless，以实现更好的跨设备连接。IT之家在此附上相关说明文档如下：
+
+
+高通副总裁 Dino Bekis 表示：
+
+这些平台为超低功耗的高性能声音树立了新的基准。它们配备了先进的技术，与设备上的人工智能协同工作，无论您身在何处，无论是在会议、社交、游戏、听音乐还是只是需要一些安静的时间，都能提供身临其境的个性化音频体验。
+S7 Pro 平台采用我们的微功耗 Wi-Fi 和革命性的 Qualcomm® XPAN 技术，通过实现整个家庭和建筑音频覆盖、支持高达 192kHz 的多通道无损音乐流和增强的游戏多通道空间音频。
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通骁龙 8 Gen 3 首发名单出炉：含魅族、蔚来、荣耀、小米、OPPO、vivo 等]]></title>
+        <id>https://www.ithome.com/0/727/355.htm</id>
+        <link href="https://www.ithome.com/0/727/355.htm"/>
+        <updated>2023-10-24T19:33:34.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，高通今天在夏威夷举办骁龙峰会，正式宣布了骁龙 8 Gen 3 处理器，将会成为 2024 年安卓旗舰的标配处理器。
+
+据介绍，搭载骁龙 8 Gen 3 的旗舰安卓设备预计将在未来几周内上市。首批厂商将包括：
+三星、华硕、荣耀、iQOO、魅族、蔚来、努比亚、一加、OPPO、真我、Redmi、红魔、索尼、vivo、小米和中兴。
+
+正如IT之家所报道，骁龙 8 Gen 3 性能比前代产品提高了 30%，能效提高 20%。它还提供了 25% 的 GPU 性能提升和 20% 的能效提升，而 Adreno 750 GPU GPU 还支持硬件光线追踪和 240 FPS 游戏。
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通宣布骁龙 8 Gen 3 处理器：CPU 性能提升 30%、GPU 提升 25%]]></title>
+        <id>https://www.ithome.com/0/727/354.htm</id>
+        <link href="https://www.ithome.com/0/727/354.htm"/>
+        <updated>2023-10-24T19:14:36.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
+IT之家 10 月 25 日消息，高通今天在夏威夷举办骁龙峰会，正式宣布了骁龙 8 Gen 3 处理器，将会成为 2024 年安卓旗舰的标配处理器。
+
+
+
+
+AI 特性
+骁龙 8 Gen 3 是高通首款专为生成式人工智能而精心设计的移动平台。高通骁龙 8 Gen 3 处理器最大的升级在 AI 引擎，可以在设备上运行生成式 AI 模型，上市初期将会支持 20 多种 AI 模型。
+
+骁龙 8 Gen 3 处理器还主打各种 AI 相机功能，例如从图像和视频中删除对象、创建假背景、增强照片的某些部分、实时拍摄 HDR 照片、以及创建同时使用前摄和后摄拍摄的 Vlogger 视图模式。
+高通高级副总裁兼移动手机总经理 Chris Patrick 表示：
+
+Snapdragon 8 Gen 3 在整个系统中注入了高性能人工智能，为消费者提供一流的性能和非凡的体验。该平台开启了生成式人工智能的新时代，使用户能够生成独特的内容，帮助提高生产力，并实现其他突破性用例。
+每年，我们都会着手设计领先的功能和技术，为我们最新的 Snapdragon 8 系列移动平台和下一代旗舰 Android 提供动力设备。Snapdragon 8 Gen 3 能够满足您的需求。
+
+规格
+高通骁龙 8 Gen 3 处理器基于 Qualcomm Kryo 64 位架构，采用 4nm 工艺。IT之家在此附上主要规格信息如下：
+
+1 个基于 Arm Cortex-X4 技术的主处理器核心，主频最高可达 3.3 GHz
+
+5 个最高 3.2GHz 的性能核心
+
+2 个最高 2.3GHz 的效率核心
+
+据高通称，新款 8 Gen 3 的性能比前代产品提高了 30%，能效提高了 20%。它还提供了 25% 的 GPU 性能提升和 20% 的能效提升。Adreno 750 GPU GPU 支持硬件光线追踪和 240 FPS 游戏。
+
+Snapdragon 8 Gen 3 还支持 5G，并配备 Snapdragon X75 5G 调制解调器、LPDDR5X RAM 支持、UFS 4.0 支持、Wi-Fi 7、Quad HD + 显示支持（刷新率高达 144Hz）和 60Hz 刷新率下的 4K 分辨率。它还具有蓝牙 5.4，并支持 108 MP 摄像头，以 120 FPS 录制高达 4k 的视频。
+
+
+全新的 Snapdragon 8 Gen 3 还支持 Qualcomm Seamless，可以连接到 S7 和 S7 pro 音频平台。
+骁龙 8 Gen 3 将会成为 2024 年安卓旗舰的标配处理器，三星 Galaxy S24 会率先搭载该处理器，后续 realme 真我和一加将会推出相关产品。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通骁龙 X Elite 处理器发布：支持 Win12，可本地运行 130 亿参数 AI 大模型]]></title>
+        <id>https://www.ithome.com/0/727/353.htm</id>
+        <link href="https://www.ithome.com/0/727/353.htm"/>
+        <updated>2023-10-24T19:11:03.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，2023 的高通峰会现在正式开始，高通推出的第一款产品就是为 PC 产品设计的全新骁龙 X 平台，其旗舰产品命名为“骁龙 X Elite”。
+
+骁龙 X Elite 采用定制 Oryon CPU，基于 4nm 工艺打造，采用 12 颗 3.8GHz 大核，支持双核睿频至 4.3GHz，内存带宽 136GB/s，缓存总数 42MB。IT之家汇总骁龙 X Elite 规格如下：
+
+规格
+
+CPUQualcomm Oryon CPU，64 位架构，12 核，最高 3.8 GHz，单核和双核 Boost，最高 4.3 GHz
+GPUQualcomm Adreno GPU，4.6 TFLOPs，支持 DX12
+NPUQualcomm Hexagon NPU，45 TOPs
+内存LPDDR5x，8533 MT/s 速率，最高 64GB，136 GB/s 带宽，8 通道
+存储SD v3.0、PCIe Gen 4 NVMe、UFS 4.0
+节点4nm
+显示Qualcomm Adreno DPU，高达 UHD 120Hz，支持 HDR10
+连接Snapdragon X65 5G 调制解调器，10 Gbps 速度，支持 Wi-Fi 7、低功耗蓝牙 5.4
+
+其他AV1 编码、4K HDR 视频解码、采用 Snapdragon Sound Tech Suite 的无损音效、每秒 30 个令牌的设备上生成 AI、“企业级”安全性
+
+虽然不支持雷电 4 或 5，但它支持最多 3 个 USB 4.0 以及 2 个 USB 3.2 Gen 2 和 1 个 eUSB2。借助 DP1.4，它可以支持最多三个 4K UHD 显示器（60Hz）或两个 5K 显示器。
+
+作为对比，微软的 Xbox Series S 的算力仅为 4 TFlops（Series X 为 12.15 TFlops）。
+高通首席执行官 Cristiano Amon 表示，它在单线程性能方面比苹果 12 核的 M2 Max 核英特尔 14 核酷睿 i7-1355U 更强，而且在达到 M2 Max 峰值性能时候功耗只有对方的 1/3，在达到 i7-1355U 或  i7-1360P 峰值性能的时候功耗也只有对方 1/3。
+与酷睿 i7-13800H 相比，它的性能有望提高 60%，而且功耗同样仅为 45W 的三分之一。
+
+多核方面，高通声称其峰值性能下比苹果 M2 处理器快 50%。
+
+在部分图表中，高通声称 X Elite 平台可提供英特尔 13 代酷睿 i7-1355U（10 核）和酷睿 i7-1360P（12 核）的 2 倍性能，而且在达到其峰值性能时功耗仅有 1/3 水平。
+此外，高通甚至还称其比英特尔 13 代酷睿 i7-13800H（14 核）标压处理器快 60%，而同样只有 1 /3 功耗。
+GPU 方面，高通称其比 i7-13800H 中的 Intel Iris Xe 快 2 倍，而且仅有其 1/4 的功耗，甚至有望以 AMD Ryzen 9 7940HS 核显五分之一的功耗实现 80% 的性能提升。
+
+NPU 方面，高通称其旨在开创本地化 AI 处理新时代，并将成为 Windows 12 的重要驱动力（2024 年）。
+高通表示，全新 Hexagon NPU 最高可提供 45 TOP（每秒万亿次运算）算力，并且可以在设备上以“惊人的速度”运行超过 13B 参数的生成式 AI LLM（大型语言模型）。
+
+
+正如大家所猜测的那样，既然骁龙 X 有“Elite”版，那自然也会有普通版。高通预计搭载骁龙 X Elite 芯片的笔记本电脑将在 2024 年中期面市，首发厂商包括微软、联想、戴尔和惠普。
+高通也承认，Elite 系列只是该公司计划在未来几年发布的诸多版本之一，从而以不同的价位冲击不同的 PC 细分市场，以便更好地与英特尔和 AMD 竞争。
+
+实际上，高通在主题演讲中表示，Oryon 不仅仅适用于 Windows 笔记本电脑，还将“在未来进入智能手机、汽车、XR 设备等领域”。
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司计划在全美范围提供产品维修零件、工具和文档等]]></title>
+        <id>https://www.ithome.com/0/727/352.htm</id>
+        <link href="https://www.ithome.com/0/727/352.htm"/>
+        <updated>2023-10-24T18:59:18.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，根据路透社报道，美国国家经济委员会主任 Lael Brainard 今天宣布，苹果公司将会在全美范围内，提供和加州《维修权法案》相同的承诺，为独立维修企业和消费者“提供零件、工具和文档”。
+
+Brainard 表示：“这意味着，无论您在加利福尼亚州、缅因州还是密歇根州，苹果都会按照加利福尼亚州法律的规定，以合理的价格向您提供维修苹果产品所需的零件、工具和文档”。
+IT之家今年 8 月报道，苹果公司一反常态，决定支持加州的维修权法案 SB 244，这项法案要求企业向消费者提供诊断和修理消费电子产品和家用电器的工具。
+加州州长加文・纽森（Gavin Newsom）于今年 10 月签署了 SB 244 法案，这项法案与纽约、科罗拉多和明尼苏达等州的类似方案相比更加严格，制造商必须为售价超过 100 美元（当前约 729 元人民币）的设备在生产后七年内提供适当的工具、零件、软件和文档（售价低于 100 美元的设备只需三年）。
+相关阅读：
+《苹果公司一反常态，支持加州的维修权法案》
+《加州州长签署《维修权法案》，促进消费者自主维修电子设备》
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[游戏] 《都市：天际线 2》吃显卡吃得很厉害，简直是“吞噬”]]></title>
+        <id>https://www.v2ex.com/t/985108#reply6</id>
+        <link href="https://www.v2ex.com/t/985108#reply6"/>
+        <updated>2023-10-24T18:55:18.000Z</updated>
+        <summary type="html"><![CDATA[我家 PC 配置：
+
+以 4K 分辨率直接启动游戏，FPS 极低，只有 2~4 帧，点击 UI 的按钮都有十分明显的迟滞。这都还只是在菜单画面呢，我连画质都还没调过，甚至都未到正式游戏。
+正式进入游戏后，帧率仍然这么低。反正这个帧率没法玩。
+那就只好降低游戏分辨率，改成 1080p 。继续保持默认画质，帧率终于提高到了 20 ~ 23 。
+玩的过程中尝试调高分辨率，调成 2560x1600 ，帧率就会降低到只有 9 FPS ，点击 UI 都已经明显感到有滞后了。只好调回 1080p 。
+以 1080p 分辨率又玩了一个小时，人口达到 272 的时候，FPS 跌至 17 。人口达到 381 时，FPS 甚至只有 14~15 。这个时候点击 UI 的按钮已经有迟滞感了，连 Win11 文件管理器的反应速度都比它快。
+我顺便看了下 CPU 和 GPU 占用率，发现 CPU 占用率不算高，只有 25% ~ 30%。
+GPU 满载，无论是 1080p ，或者 2K ，还是 4K ，GPU 的 3D 窗格都是满载的；唯一的区别是，1080p 时 3D 窗格在 95% ~ 100% 之间徘徊，2K 和 4K 直接把 3D 窗格占满到 100%。
+显存占用十分夸张，同样的，无论是 1080p ，或者 2K ，还是 4K ，都几乎用满了 8G 显存，我看到的情况是，从 7.0 ~ 7.8 之间徘徊。
+其他媒体的报道是：
+年度最差优化诞生？《城市天际线 2 》 7900XTX 仅 7 帧
+《城市：天际线 2 》优化太差 7900XTX 4K 最高 12 帧
+《城市：天际线 2 》开发者：目标是 30FPS ，而非 60
+还有提供推荐配置的：
+《城市天际线 2 》各配置设置优化推荐
+
+再提供个外媒试玩的体验文章：
+Cities: Skylines 2 has a big problem that you can’t solve even with the most expensive and fastest hardware
+结论都是，现阶段，“流畅”与“高画质”不能兼顾
+对于城市建设类游戏，其实并不要求 FPS 有多高。
+但最起码的，点击 UI 不应该有迟滞感，可惜它现在连 UI 按钮的反应都能迟滞。
+那么《赛博朋克 2077 》呢？相关报道：实测 RTX 4090 平均 20 帧！《赛博朋克 2077 》成新一代“显卡危机”
+不得不说，《都市：天际线 2 》竟然比《赛博朋克 2077 》更加吃显卡，实在难以想象。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称苹果改进 Apple TV 应用，整合简化视频服务]]></title>
+        <id>https://www.ithome.com/0/727/351.htm</id>
+        <link href="https://www.ithome.com/0/727/351.htm"/>
+        <updated>2023-10-24T18:49:26.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，根据彭博社的马克・古尔曼报道，苹果公司计划在今年 12 月通过 tvOS 更新，彻底调整 Apple TV 应用程序，计划整合 Apple TV+ 流媒体服务和独立的电影和电视剧购买选项。
+
+苹果为了推动用户使用 Apple TV 应用程序，计划删除可用于租赁和购买电视节目和电影的独立“Apple TV”应用程序。
+此外，iPhone 和 iPad 上 iTunes Store 应用程序也会删除电影和电视节目部分。
+苹果希望引导用户使用 Apple TV 应用，整合电影和电视剧、Apple TV+ 流媒体内容，已经提供各种第三方频道满足用户的订阅需求。
+IT之家从报道中获悉，苹果计划在整合之后，让 Apple TV 应用成为流媒体内容的“中枢”，古尔曼表示，重新设计的应用程序将在左侧有一个侧面板，可用于在不同视频类别之间导航。
+更新的导航应该会让电视应用程序不再让消费者感到困惑，让消费者更清楚哪些内容来自苹果，哪些内容需要单独订阅。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软连续三任 CEO 在移动业务上“翻车”：纳德拉承认放弃 Windows Phone 是错误决定]]></title>
+        <id>https://www.ithome.com/0/727/349.htm</id>
+        <link href="https://www.ithome.com/0/727/349.htm"/>
+        <updated>2023-10-24T18:21:12.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，微软现任首席执行官萨蒂亚・纳德拉（Satya Nadella）在接受媒体采访时候，承认放弃 Windows Phone 和移动设备是错误决定，这也是微软历史上第三位承认在移动领域犯错的首席执行官。
+
+纳德拉于 2014 年接替前首席执行官史蒂夫・鲍尔默（Steve Ballmer），在执掌微软 1 年后，就宣布裁撤了 76 亿美元收购的诺基亚手机业务。
+纳德拉在接受 Business Insider 采访时，坦言微软在“退出”手机业务上处理得不够恰当。在被问及他可能后悔的战略错误或错误决定时，纳德拉回答道：
+这项决定 [退出手机业务] 时常被人拿出来讨论，也是我出任首席执行官之后做出的最困难决定，当时我们讨论决定退出“当时定义下的手机”。
+如果时光可以倒流，我认为我们可以通过重新发明个人电脑、平板电脑和手机之间的计算类别，来重振手机业务。
+在诺基亚手机业务被注销几年后，微软最终确认 Windows Phone 已经消亡，但在该决定六个月后，Windows Phone 显然已经结束了。此后，微软推出了基于 Android 的 Surface Duo 和 Surface Duo 2 手机，但由于没有后续产品，也缺乏软件更新，因此 Surface Duo 的未来还不清楚。
+IT之家注：纳德拉现在是第三位承认公司移动错误的微软首席执行官。
+第一位是比尔・盖茨：未收购安卓
+微软联合创始人兼前首席执行官比尔・盖茨表示，他“有史以来最大的错误”是微软输给了 Android。
+谷歌于 2005 年以 5000 万美元收购了 Android，前首席执行官埃里克・施密特 (Eric Schmidt) 在 2012 年承认，谷歌最初的重点是击败微软早期的 Windows Mobile 努力。
+第二位是鲍尔默：对安卓和 iOS 威胁反应迟缓
+微软前首席执行官史蒂夫・鲍尔默（Steve Ballmer）对 Android 和 iPhone 的威胁也反应迟缓，他将公司的精力集中在 Windows Mobile 上，同时还嘲笑 iPhone，称其为“世界上最昂贵的手机，对商业客户没有吸引力”。因为它没有键盘。”
+鲍尔默在 2013 年承认，他后悔没有早点关注手机。“我很遗憾在 2000 年代初的一段时期，我们过于专注于 Windows [Vista] 周围的工作，以至于无法将人才重新部署到称为手机的新设备上，”鲍尔默解释道。“这是我最后悔的事情。”
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称苹果零售店本周开始为 iPhone 15 / Pro 机型提供同机维修服务]]></title>
+        <id>https://www.ithome.com/0/727/348.htm</id>
+        <link href="https://www.ithome.com/0/727/348.htm"/>
+        <updated>2023-10-24T18:02:40.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，根据国外可以媒体 MacRumors 获得的一份内部备忘录，苹果公司计划自本周开始，为所有四款 iPhone 15 机型铺开相关零件，包括后玻璃、电池、扬声器、显示屏、后置摄像头和中框等等，从而让专卖店和苹果授权服务提供商实现同机维修。
+
+在这份备忘录中，涉及 iPhone 15 Pro 或 iPhone 15 Pro Max 上的 Taptic Engine 或主麦克风的维修，相关零件还需要等待一段时间，因此现阶段会提供整机更换。
+所有四款 iPhone 15 机型均配备可拆卸后玻璃，技术人员可以从正面和背面打开设备进行维修。
+与没有可拆卸后玻璃的机型相比，对于没有 AppleCare+ 的客户来说，这一变化导致后玻璃破裂的 iPhone 15 机型的维修费用显著降低。
+苹果去年在低端 iPhone 14 和 iPhone 14 Plus 上首次进行了这一设计改变。
+苹果中国官网公布了 iPhone 15 系列维修费用，其中 iPhone 15 Pro / Pro Max 背面玻璃损坏收取 1298 元、1548 元。相比之下，iPhone 14 Pro / Pro Max 的费用为 3598 元、3998 元。
+IT之家附 iPhone 15 系列维修价格：
+
+
+玻璃损坏（仅正面）背面玻璃损坏屏幕破裂和背面玻璃损坏电池后置相机其它损坏
+iPhone 152298 元1298 元2998 元809 元1198 元4399 元
+iPhone 15 Plus2698 元1548 元3548 元809 元1198 元4699 元
+iPhone 15 Pro2698 元1298 元3449 元809 元1748 元5299 元
+iPhone 15 Pro Max3198 元1548 元4099 元809 元1949 元5699 元
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[VPS] 搬瓦工 The Plan v2 出租]]></title>
+        <id>https://www.v2ex.com/t/985107#reply0</id>
+        <link href="https://www.v2ex.com/t/985107#reply0"/>
+        <updated>2023-10-24T17:59:38.000Z</updated>
+        <summary type="html"><![CDATA[流量根本用不完，而且抢到了 46 刀的机器，这个就用不到了。
+账号绑定常用邮箱，没法卖账号，只能出租机器了，给 root 权限。
+可走咸鱼。
+tg：coolest4ever]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 无公网内网穿透方案请教]]></title>
+        <id>https://www.v2ex.com/t/985106#reply2</id>
+        <link href="https://www.v2ex.com/t/985106#reply2"/>
+        <updated>2023-10-24T17:53:54.000Z</updated>
+        <summary type="html"><![CDATA[家里网络内网有个 PVE 主机，已经和所有节点做好 Headscale 组网（暂时没搭 derp),访问各处节点资源很方便也很爽，甚至用到 exit node 模式科学，速度也可以。
+现在打算在家里的 PVE 主机上装一个 wireguard 然后人在外面拨入时候访问内网资源，由于 wireguard 安装时候需要指定访问入口，wo 我也不打算用外网/国内机器做 frp 穿透，这种情况下请问什么方案最好？
+我打算用 CF 的 zero trust/tunnel,但不知道速度如何? 理论上只是需要 CF 来创立指定入口方便拨入而已，一旦链接建立，速度应该是没有问题吧，但不确定，所以来这里问问。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果更新 Windows 版 iTunes，可播放播客节目和有声读物]]></title>
+        <id>https://www.ithome.com/0/727/347.htm</id>
+        <link href="https://www.ithome.com/0/727/347.htm"/>
+        <updated>2023-10-24T17:48:40.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 25 日消息，苹果公司今天面向 Windows 用户，发布了 iTunes 12.13 版本更新，重点添加了播放播客和有声读物的功能。
+
+IT之家援引苹果官方更新日志，用户升级 iTunes 12.13 版本之后，只要安装了 Apple Music 和 Apple TV 应用程序，就可以通过 iTunes 应用程序收听播客和有声读物。
+苹果公司不定期更新 Windows 版 iTunes，上次更新主要添加了对 iPhone 15、iPhone 15 Pro 系列机型的支持。
+iTunes 在 Mac 上已经被淘汰好几年了，取而代之的是 Finder 和 TV 应用程序，但苹果仍然继续保留 Windows 版本。
+想要使用 Windows 版 iTunes 的用户，可从 Microsoft Store 或 Apple 网站下载。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 有什么工作可以每天只赚够基本生活所需就下班做自己想做的事的？]]></title>
+        <id>https://www.v2ex.com/t/985105#reply9</id>
+        <link href="https://www.v2ex.com/t/985105#reply9"/>
+        <updated>2023-10-24T17:47:12.000Z</updated>
+        <summary type="html"><![CDATA[有什么工作可以每天花尽可能少的时间来赚够基本生活所需的费用的？多于 6 小时的工作可能没有讨论的意义，个人倾向于 4 小时以内。不结婚不买房不买车，每月赚够房租水电网费饭钱就行，其他闲杂消费就看盈余吧。讨论的工作范围可以是线上的也可以是线下的。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[macOS] 挑战 - 谁能在 mac 上模拟运行中国游戏中心]]></title>
+        <id>https://www.v2ex.com/t/985104#reply1</id>
+        <link href="https://www.v2ex.com/t/985104#reply1"/>
+        <updated>2023-10-24T17:22:33.000Z</updated>
+        <summary type="html"><![CDATA[http://www.chinagames.net/
+尝试用 wine 之类的，可以登陆，登陆看到了大厅，就开始闪退
+发个帖子看看是否有神人指点一二
+寻求一个不用 parallel desktop 的方法]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] 自媒体内容创作流程优化： GPT AI Flow 让创作事半功倍 🚀]]></title>
+        <id>https://www.v2ex.com/t/985103#reply0</id>
+        <link href="https://www.v2ex.com/t/985103#reply0"/>
+        <updated>2023-10-24T17:10:25.000Z</updated>
+        <summary type="html"><![CDATA[在自媒体领域 🌐，如何提高创作效率 ✍️ 并与目标受众 🎯 建立更紧密的联系一直是一项挑战 🏋️‍♀️。但幸运的是，现在有一个强大的工具可以帮助我们优化整个创作过程，这就是 GPT AI Flow 🚀。
+
+内容创作流程的优化 🛠️：
+首先，让我们回顾一下内容创作流程 🔄。它通常包括以下步骤：
+目标设定 🎯：明确内容创作的目标，这对于指导整个创作过程至关重要 ❗。
+受众分析 👥：了解您的受众，以便更好地满足他们的需求和兴趣 ❤️。
+主题研究与构思 🧠：选择一个吸引人的主题，并构思相关内容 📝。
+内容规划 🗓️：制定一份详细的内容规划，确保您的创作过程有序而高效 ⏱️。
+内容框架设计 🏗️：设计内容的结构，以提高可读性和吸引力 📊。
+内容创作 ✍️：最后，开始创作内容，将想法转化为实际的文章、视频或音频 🔊。
+GPT AI Flow 如何帮助 🤖：
+现在，以发布一篇活动帖子为例，让我们看看 GPT AI Flow 如何在这个流程中发挥作用 👀：
+
+目标设定 🎯：GPT AI Flow 可以帮助您明确目标，并提供针对性的创作建议 💡。无论您的目标是吸引更多读者或提高互动率，它都能为您提供定制化的指导 🧭。
+
+受众分析 👥：该工具能够深入了解您的受众群体，以提供更准确的受众定位建议，使您的内容更具吸引力 😍。
+
+主题研究与构思 🧠：基于大数据和行业见解，GPT AI Flow 为您提供热门主题构思，确保您选择的主题是有潜力的 🌟。
+
+内容规划 🗓️：工具提供完整的内容规划建议，帮助您更有效地组织和管理创作流程，确保每一步都顺利进行 📈。
+
+内容框架设计 🏗️：GPT AI Flow 为您的内容提供合理的框架设计，以增强可读性，确保读者能够轻松理解您的信息 🤓。
+
+内容创作 ✍️：最终，GPT AI Flow 基于分析和规划，助您生成具有吸引力和影响力的内容，使创作变得更加轻松 🎉。
+
+总结而言，自媒体内容创作是一个复杂的过程，但 GPT AI Flow 为我们提供了一种一站式服务，使整个流程更加高效 🚀。它不仅帮助我们明确目标、深入了解受众，还为我们提供了有前景的主题构思、内容规划建议和内容框架设计 🌈。最重要的是，它通过提供创作指导来加速内容的生成，使我们能够事半功倍地提高内容质量和互动率 📈。
+如果您是自媒体创作者，我强烈建议您考虑使用 GPT AI Flow ，它将成为您的超级自媒体工具，帮助您更轻松地创建吸引人的内容，并与您的受众建立更紧密的联系 🔗。
+👉 立即体验
+点击链接 gptaiflow.com ，注册并开始您的智能之旅 🚀！
+期待在评论区听到您的第一手反馈和建议 💬，让我们的产品更贴合您的需求 ❤️！如果有任何问题或想要了解更多信息，也欢迎私信我 📩！
+感谢您的阅读 📚，让我们一起，步入更智能的未来 🌟！]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[服务器] 甲骨文新开的付费账号是不是没办法开多区域]]></title>
+        <id>https://www.v2ex.com/t/985102#reply0</id>
+        <link href="https://www.v2ex.com/t/985102#reply0"/>
+        <updated>2023-10-24T16:45:09.000Z</updated>
+        <summary type="html"><![CDATA[甲骨文新账号注册完升级付费账号快一周了，开申请单申请加 10 区域但没过几个小时就被拒了。回复说目前没有办法给我的账户开
+回复是这样的：
+We have received your request for an increase in your service limits and unfortunately we are not able to fulfill this request at this time. If you would like to discuss options available for meeting current requirements, please reach out to an Oracle Sales representative.
+是不是要至少等号先养几个月？还是说一次性申请的数量太多了？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 苹果宣布十月三十一号发布会: 主题是 Mac 飞快惊人]]></title>
+        <id>https://www.v2ex.com/t/985101#reply20</id>
+        <link href="https://www.v2ex.com/t/985101#reply20"/>
+        <updated>2023-10-24T16:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Apple - @alexcding - ![image info]( https://images.macrumors.com/t/cwI_2XjlMa7yDOgptCCT0bHYRMM=/1600x0/article-new/2023/1]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] apple 10 月 31 号发布会？]]></title>
+        <id>https://www.v2ex.com/t/985100#reply5</id>
+        <link href="https://www.v2ex.com/t/985100#reply5"/>
+        <updated>2023-10-24T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[应该会有 M3 的电脑，以及新的平板发布？大概也就这个了？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[机器学习] 原创：旗舰游戏显卡(980Ti,1080Ti,TiTan V,2080Ti,3090,4090)， AI 画图 stable diffusion)和大模型(chatglm2-6b)推理性能横评]]></title>
+        <id>https://www.v2ex.com/t/985099#reply1</id>
+        <link href="https://www.v2ex.com/t/985099#reply1"/>
+        <updated>2023-10-24T16:24:09.000Z</updated>
+        <summary type="html"><![CDATA[前言：
+自从去年 10 月份以 ChatGPT 和 stable diffusion 的发布引发了一波生成式 AI 浪潮，但很多人特别是某些领导整天在会议上说人工智能带来的各种风险和不足，其实自己几乎没用过 ChatGPT 和 stable diffusion ，对生成式 AI （ AIGC ）只有偏见！缺少实践对新生事物的理解和抓住机会是有害的，由于这一波 AI 浪潮带着复杂难懂的各种专业术语和昂贵的平台，给习惯了点击购买云主机的 IT 从业者和个人开发者带来了不小的门槛，加之最近美国实体名单居然把游戏显卡 RTX4090 都加入禁止出售给中国的实体清单，我觉得有必要在”廉价”游戏显卡上把大模型对话和 stable diffusion 画小姐姐的生成式 AI 在自己的 PC 机上跑起来！这样才能谈后面的体验和带来的机会。
+以下评测数据都是自己花钱、花时间原创测试得到，希望给所有开发者实践大模型和 AI 画图予参考，有帮助和喜欢的朋友请收藏、关注和点赞，让人人都能够参与的 AI 才是真正的 AI
+详细内容参看： https://zhuanlan.zhihu.com/p/663179436]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[App Store] 靠， App Store 密码忘记了，我手机邮箱都有，居然改不了，吐血]]></title>
+        <id>https://www.v2ex.com/t/985097#reply3</id>
+        <link href="https://www.v2ex.com/t/985097#reply3"/>
+        <updated>2023-10-24T16:15:26.000Z</updated>
+        <summary type="html"><![CDATA[什么人能想出来]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 最近写了个 Go 语言项目，欢迎大家 STAR]]></title>
+        <id>https://www.v2ex.com/t/985096#reply5</id>
+        <link href="https://www.v2ex.com/t/985096#reply5"/>
+        <updated>2023-10-24T16:06:56.000Z</updated>
+        <summary type="html"><![CDATA[地址: https://github.com/LeviMarvin/CVS
+目前基本功能全部完成，本人高三精力有限，尽可能保证不间断维护。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 关于 Lightsail 快照收费的问题]]></title>
+        <id>https://www.v2ex.com/t/985095#reply4</id>
+        <link href="https://www.v2ex.com/t/985095#reply4"/>
+        <updated>2023-10-24T16:02:56.000Z</updated>
+        <summary type="html"><![CDATA[如图，我创建了一个 40GB SSD 系统磁盘的快照，虽然我实际使用只有 3GB 不到
+
+官方给出的定价是
+实例和磁盘快照（手动和自动） 0.05 美元 GB/月
+这种情况下我需要为没有使用到的 37GB 付费吗]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[宽带症候群] 我电脑有公网的 IPV6 地址，本地访问没问题，为啥手机却访问不了呢？有人知道吗？请赐教]]></title>
+        <id>https://www.v2ex.com/t/985092#reply4</id>
+        <link href="https://www.v2ex.com/t/985092#reply4"/>
+        <updated>2023-10-24T15:32:09.000Z</updated>
+        <summary type="html"><![CDATA[请教各位一个问题
+我本机电脑有 IPv6 地址，通过 http://www.test-ipv6.com/ 测试是通过的 10/10 分，有时候有不是 10 分的，不稳定；
+我通过 ipv6 可以访问到本地的 81 端口的服务
+然而再手机上却访问不了，这是为什么呢？有人知道吗？
+我电脑的防火墙关闭了也不行的]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东补来天猫补：爱优腾B / WPS / 网盘 / 音乐 / QQ 会员 11.11 狂促加码]]></title>
+        <id>https://www.ithome.com/0/727/343.htm</id>
+        <link href="https://www.ithome.com/0/727/343.htm"/>
+        <updated>2023-10-24T15:15:38.000Z</updated>
+        <summary type="html"><![CDATA[目前大多数会员已开始 11.11 限时狂促，叠加京东 / 天猫平台补贴后，价格都非常不错，有需求的小伙伴需速速下手哦。
+
+京东 11.11 无门槛红包 至高 11111 元：点此抽红包（即领即用 + 每天抽三次）
+
+天猫 11.11 无门槛红包 至高 23888 元：点此抽红包（每天抽一次）
+
+B站大会员
+B站大会员年卡原价 233 元，今年 11.11 平台补贴后直降至 88 元：
+天猫B站大会员 年卡天猫平台补贴 10 元补贴后 88 元领 120 元券
+腾讯视频
+
+会员年卡 11.11 狂促价 123 元，叠加京东平台补贴后仅需 113 元。
+
+超级年卡（支持电视端）狂促价 238 元，叠加补贴后低至 228 元官方年内探底价：
+
+京东腾讯视频 超级影视 SVIP 年卡预售 折合 19 元 / 月券后 228 元领 10 元券京东腾讯视频 VIP 会员年卡预售 折合 9.4 元 / 月券后 113 元领 10 元券
+SVIP 会员支持手机、平板、电脑、电视 4 端通用，本次大促折合 19 元 / 月。
+爱奇艺
+
+会员年卡 11.11 狂促价 138 元，叠加天猫平台补贴后仅需 128 元。
+
+天猫爱奇艺 黄金会员年卡天猫补贴 10 元补贴后 128 元直达链接
+优酷
+
+会员年卡 11.11 狂促价 118 元，叠加京东平台补贴后仅需 108 元。
+
+超级年卡（支持电视端）狂促价 218 元，赠必胜客年卡：
+
+京东优酷会员 年卡京东平台补贴券后 108 元领 10 元券京东优酷 SVIP 会员年卡支持电视券 + 赠必胜客年卡 218 元直达链接
+WPS
+WPS 超级会员 4 年套餐 11.11 大促价 298 元，折合 6.1 元 / 月、73.2 元 / 年好价：
+京东 WPS 超级会员 4 年卡加赠 28 天预售到手 299 元领 20 元券
+超级会员 Pro 6 年套餐大促价 528 元，折合 7.3 元 / 月、88 元 / 年好价：
+京东 WPS 超级会员 Pro 5 年卡加赠 1 年 共 6 年预估到手 528 元领 20 元券
+超级会员 Pro 4 年套餐大促价 388 元，折合 7.9 元 / 月、95 元 / 年好价：
+京东 WPS 超级会员 Pro  4 年卡加赠 28 天预售到手 388 元直达链接
+网易云音乐
+网易云音乐 黑胶会员年卡 11.11 预售价 79.9 元，今日天猫平台补贴后仅需 69.9 元：
+天猫网易云音乐 会员年卡天猫平台补贴购补贴后 69.9 元直达链接
+百度网盘
+百度网盘 超级会员年卡 官方售价 298 元，11.11 大促直降至 178 元年内好价，赠送B站大会员季卡。
+预售期充值不到账，下单预定名额，31 号充值到账：
+京东百度网盘 SVIP 年卡赠B站大会员季卡 178 元直达链接京东百度网盘 SVIP 年卡赠B站大会员半年卡券后 198 元领 10 元券
+如果不喜欢B站大会员季卡，还可赠送优酷会员季卡：
+京东百度网盘 SVIP 年卡赠优酷会员季卡 178 元直达链接
+注：现购买权益时长 + 已有权益时长，不能超过 5 年，否则会充值失败。
+阿里网盘
+阿里云盘 超级会员官方定价 298 元 / 年，三年卡日常售价 894 元。
+今日三年卡可领 566 元大额券，实付 328 元即可入手
+折合 109 元 / 年、9 元 / 月 3.6 折官方年内探底好价：
+天猫阿里云盘 SVIP 三年卡 8TB 容量券后 328 元领 566 元券
+微博会员
+微博会员年卡日常售价 120 元，叠加天猫平台补贴后，实付 52 元即可入手。
+下单再赠 1 个月（共到手 13 个月），折合 4 元 / 月年内新低价：
+天猫新浪微博会员 13 个月详情页领券补贴后 52 元领 60 元券
+
+京东 11.11 无门槛红包 至高 11111 元：点此抽红包（即领即用 + 每天抽三次）
+
+天猫 11.11 无门槛红包 至高 23888 元：点此抽红包（每天抽一次）
+
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。
+【广告】]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 遇到一个理直气壮索要兑换码的客户，真的不知道该说啥。]]></title>
+        <id>https://www.v2ex.com/t/985091#reply17</id>
+        <link href="https://www.v2ex.com/t/985091#reply17"/>
+        <updated>2023-10-24T15:06:45.000Z</updated>
+        <summary type="html"><![CDATA[年前开发了一款 iOS 浏览器扩展《布丁扩展》
+前段时间有个人发邮件说，TF 版快过期了，能不能给他一个兑换码。
+当时没有理他。
+今天又发邮件说要过期了。
+我回复他说，如果你喜欢的话就去购买正式版支持一下，这个项目本来就投入产出不成正比的。
+结果他回复我：“是有服务器还是？”
+可能是个小朋友，不知道时间成本也是成本，且远高于硬件成本。
+我的扩展就是最低档的 8 元（之前是 6 元，不知道啥时候 Apple 涨的价）。且没有任何订阅、广告。
+而且是一个个网站手动维护的，时间精力可想而知。
+哎，有点被气到。以后这样的就不再回复了。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 个人有办法自制简易语音翻译器吗？]]></title>
+        <id>https://www.v2ex.com/t/985090#reply3</id>
+        <link href="https://www.v2ex.com/t/985090#reply3"/>
+        <updated>2023-10-24T15:06:26.000Z</updated>
+        <summary type="html"><![CDATA[计划春节去日本旅游，买了日语书学了几章觉得不靠谱不如 gpt 和 bard 的翻译高效（其实英语也是问路水平）。查了一下目前 github 有很多开源的模型，想问下自制不联网的单机语音翻译器是否可行？硬件方面需要哪些技术？有没有参考的例子，谢谢！
+另外解释为什么不买现成的，因为试过酷狗的，很烂，而且吃相难看。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享发现] 语雀 bug 赔偿半年会员]]></title>
+        <id>https://www.v2ex.com/t/985088#reply1</id>
+        <link href="https://www.v2ex.com/t/985088#reply1"/>
+        <updated>2023-10-24T15:05:37.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/WFLLU8R4bmiqv6OGa-QMcw
+「针对语雀个人用户，我们赠送 6 个月的会员服务。操作流程：进入工作台「账户设置」，点击左侧「会员信息」，在会员信息页面点击「立即领取」，即可获得赠送服务。」]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Java] 请问这条 Java 日志有更优雅的写法吗？ log.error(String.format("Request to %s failed, uuid is %s.",uri, uuid),exception)]]></title>
+        <id>https://www.v2ex.com/t/985087#reply3</id>
+        <link href="https://www.v2ex.com/t/985087#reply3"/>
+        <updated>2023-10-24T15:03:56.000Z</updated>
+        <summary type="html"><![CDATA[谢谢]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[硬件] Macbook 的摄像头接线定义有了解的吗]]></title>
+        <id>https://www.v2ex.com/t/985086#reply0</id>
+        <link href="https://www.v2ex.com/t/985086#reply0"/>
+        <updated>2023-10-24T15:03:17.000Z</updated>
+        <summary type="html"><![CDATA[闲来无事把 08 年的 macbook 的摄像头拆了，打算直接接 USB 用，没想到接摄像头的连接线是 3 根线，有了解 pin 脚定义的吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联想 ThinkBook 14+ 2023 锐龙版上架：R7-7840H、32G+1TB，售 5599 元]]></title>
+        <id>https://www.ithome.com/0/727/341.htm</id>
+        <link href="https://www.ithome.com/0/727/341.htm"/>
+        <updated>2023-10-24T15:00:39.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，联想目前在电商平台上架了 ThinkBook 14+ 2023 锐龙版，R7-7840H、32G+1TB 版本到手价 5599 元。
+
+▲ 图源 联想
+官方介绍称，ThinkBook 14+2023 锐龙版采用“2.8K90Hz 全面屏”、“FHD 1080P 全高清摄像头”、“硬件低蓝光认证”、“62 Whr 电池”、“Radeon 780M 集成显卡”。
+
+▲ 图源 联想
+设计上，ThinkBook 14+2023 锐龙版采用“苍岩灰”配色，使用全金属机身，号称薄至 15.9mm，轻至 1.4 千克，可实现 180 度开合。
+
+▲ 图源 联想
+屏幕方面，该笔记本搭载 14 英寸 2.8K 显示屏（分辨率 2880x1800），刷新率为 90Hz，屏占比为 90%，使用 DC 调光。
+
+▲ 图源 联想
+散热方面，ThinkBook 14+2023 锐龙版采用双风扇和双热管设计，采用“ITS 5.0 散热系统”，从而“令散热效率大幅提升”。
+
+▲ 图源 联想
+性能方面，ThinkBook 14+2023 锐龙版使用 R7-7840H 处理器，CPU 性能释放 54w，搭载基于 RDNA3 的 Radeon 780M 集成显卡，拥有三种性能模式（野兽模式、智能模式、节能模式），适配不同的工作环境。
+
+▲ 图源 联想
+扩展性方面，该笔记本搭载一个全功能 USB Type-C 3.2 Gen2 接口、两个 USB Type-A 3.2 Gen 1 接口、一个 HDMI 2.1 接口、一个 USB Type-C 4.0 接口、一个 USB Type-A 2.0 接口、一个 RJ45 接口、一个 Micro SD 读卡器、一个 3.5mm 耳机孔。
+
+▲ 图源 联想
+IT之家附产品主要参数表如下：
+
+
+型号：ThinkBook 14+（21J1000GCD）
+
+系统：Windows11 家庭中文版
+
+显卡：AMD Radeon 780M 集成显卡
+
+ROM：1TB 固态硬盘
+
+RAM：32G 运行内存
+
+屏幕：14 英寸 2.8K（2880 X 1800）显示屏
+
+处理器：AMD Ryzen™7 7840H 移动处理器
+
+京东联想 ThinkBook 14+ 2023 锐龙版 5599 元直达链接
+
+京东 11.11 无门槛红包 至高 11111 元：点此抽红包（即领即用 + 每天抽三次）
+
+天猫 11.11 无门槛红包 至高 23888 元：点此抽红包（每天抽一次）
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[智能家电] Matter 发布一年，智能家居有大起色吗？]]></title>
+        <id>https://www.v2ex.com/t/985083#reply0</id>
+        <link href="https://www.v2ex.com/t/985083#reply0"/>
+        <updated>2023-10-24T14:58:27.000Z</updated>
+        <summary type="html"><![CDATA[感觉好像也没有什么特别变化呀？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[路由器] 想买一个随身 wifi，有什么牌子、流量套餐推荐一下吗]]></title>
+        <id>https://www.v2ex.com/t/985081#reply7</id>
+        <link href="https://www.v2ex.com/t/985081#reply7"/>
+        <updated>2023-10-24T14:53:36.000Z</updated>
+        <summary type="html"><![CDATA[看到某宝、某多多上卖的比较多的是华为随身 wifi, 品胜随身 wifi, 新讯随身 wifi 等, 这些牌子有没有用过的老铁，推荐一下型号和套餐吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[iCloud] 又栽在 iCloud 通讯录同步了，有没有其他的好用的？]]></title>
+        <id>https://www.v2ex.com/t/985079#reply6</id>
+        <link href="https://www.v2ex.com/t/985079#reply6"/>
+        <updated>2023-10-24T14:48:45.000Z</updated>
+        <summary type="html"><![CDATA[2 年没换手机，这次再次丢掉了增量的通讯录更新（这两年给部分好友加了头像、生日同步到日历） （ 12 换 13 丢过一次通讯录...）。
+过程如下：
+1 ）换完手机提示我有重复，我 merge 一下，合是合了
+2 ）我好友头像呢？我好友生日呢？爆炸...
+最后用今年 1 月份的 qq 同步助手恢复了，损失了三个月的编辑。
+但是 qq 这个逻辑我也不太喜欢。
+那么问题是：iOS 平台还有别的通讯录管理和同步软件吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[求职] 「24 应届博士-自然语言处理方向」简历求指导修改; 真诚希望获得大家的意见, 帮助小弟找工作]]></title>
+        <id>https://www.v2ex.com/t/985078#reply2</id>
+        <link href="https://www.v2ex.com/t/985078#reply2"/>
+        <updated>2023-10-24T14:43:13.000Z</updated>
+        <summary type="html"><![CDATA[如题, 小弟明年即将毕业, 目前做的方向是 NLP.
+发帖的目有俩:  
+希望能够听取大家对小弟简历的修改意见, 集思广益,  博采众长;  
+如果有大佬的组有相关的工作招聘需求, 也可以捞一捞我~我目前人在深圳, 可以实习; 毕业后期望在成都发展.   
+这里是简历的Google Drive 链接, 可以直接评论
+最后, 希望大家能够提出宝贵的意见, 每一条评论我都会认真阅读. 谢谢大家!]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 各位老哥来推荐个高配的办公的笔记本和监控摄像头]]></title>
+        <id>https://www.v2ex.com/t/985077#reply2</id>
+        <link href="https://www.v2ex.com/t/985077#reply2"/>
+        <updated>2023-10-24T14:38:55.000Z</updated>
+        <summary type="html"><![CDATA[1 、笔记本
+不用考虑预算，可以上到 1.5w 。
+应用场景：办公，windows ，流畅使用各类设计软件，稳定运行。
+2 、家用监控摄像头
+预算 200-500 ，清晰，耐用，联网手机远程控制。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 假如银行这么做会怎么样？非金融从业人员求指正]]></title>
+        <id>https://www.v2ex.com/t/985076#reply2</id>
+        <link href="https://www.v2ex.com/t/985076#reply2"/>
+        <updated>2023-10-24T14:37:33.000Z</updated>
+        <summary type="html"><![CDATA[突然想到，假设银行这么做：
+一 播种
+1.放房贷给实际上买不起房或者本来没有机会进城的穷人
+让这些本来躺平的人看到希望，激发他们积极劳动建设未来美好生活提高生产力
+二 发芽生长
+2.随着房价上涨，放贷利率可以不断提高，
+穷人对利率的敏感度下降（由于房价多年涨幅的程度形成了思维惯性，利率涨幅相比较之下毫不起眼）
+三 不测风云
+3.国家政治决策失效，金融过热，银行过度扩张/风控不当坏账增加，经济下行周期时等负面周期
+银行运作成本增加，挤压利润空间，部分商业银行风控失效出现倒闭
+4.大型银行/国家核心资本银行开始严格风控，并且增加整体社会融资成本，
+企业减少投资扩产，工作人群失业率升高，出现房贷断供
+四 收割
+5.银行收回断供者房产，断供者此前的正常还贷金额一并没收并导致断供者继续背上法拍执行后的价差和违约成本
+五 轮回
+新韭菜来到市场，适龄适婚接盘侠来到市场。经济复苏，新季节又开始播种
+结论
+穷人角度：
+银行角度：
+国家角度：
+促进了社会整体生产力的提高，本来该躺平的无效、低效生产力背上房贷以后就 hardworking]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] IP 信息查询的新选择 IP.IM]]></title>
+        <id>https://www.v2ex.com/t/985075#reply20</id>
+        <link href="https://www.v2ex.com/t/985075#reply20"/>
+        <updated>2023-10-24T14:37:23.000Z</updated>
+        <summary type="html"><![CDATA[之前一直使用 IPIP.NET 查询，精确度真的非常好，但是无奈限制越来越多
+现在 IPIP.NET 不登录已经无法查询了，就算是登录好像一天也就只有几次的查询次数
+几个月前入手了 IP.IM 这个域名，近期上线了
+https://ip.im
+功能非常简单就是查询 IP 信息
+国内 IP 走 CZ88 的库，国外 IP 走 IPINFO 的库，精确度比 IPIP 差一些，但是已经非常够用了
+之后会逐步增加更多功能，欢迎试用
+支持 curl ip.im 查询本机 IP
+大家有什么需求可以提一下，我们后续开发会考虑大家的建议，感谢]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical：将坚持 Ubuntu LTS 版本 10 年支持周期]]></title>
+        <id>https://www.ithome.com/0/727/338.htm</id>
+        <link href="https://www.ithome.com/0/727/338.htm"/>
+        <updated>2023-10-24T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，在此前欧洲开源峰会上，Linux 内核开发人员 Jonathan Corbet 宣布 Linux 内核的长期支持（LTS）时间将从六年缩短至两年，IT之家此前曾报道，Jonathan Corbet 当时声称，缩短 Linux 内核长期支持时间的主要原因是“缺乏使用和缺乏支持”。
+而 Canonical 今天发布博客文章重申，他们将坚守对 Ubuntu LTS 版本的十年支持。
+
+▲ 图源 Canonical
+Canonical 声称，近二十年来他们一直是 Ubuntu Linux 内核的首要 LTS 提供商，他们将一如既往地为 LTS 内核提供为期 5 年的安全更新，并通过扩展安全维护（ESM）将维护窗口延长至 10 年：
+
+Canonical 的专用工程团队维护所有 Ubuntu 内核，管理 Linux 内核 CVE，并为可能的缺陷应用相关补丁。高内核可靠性是我们设计和决策的核心，Ubuntu 目前在生产环境中受到广泛使用，而我们依然将随着时间的推移提高相关内核可靠性。
+Ubuntu 内核经过我们的严格测试、完善和改进，从而使其成为计算环境中经过最多生产测试的内核之一。
+Canonical 的维护和支持工作完全独立于上游 LTS，并将像以前一样继续。尽管上游 LTS 支持发生了变化，但 Canonical 仍然致力于为 Ubuntu 内核提供可靠的支持，确保 Linux 社区和企业可以继续依赖稳定和安全的软件。
+
+Ubuntu LTS 内核并不总是与 Linux LTS 内核保持一致，而且 = Ubuntu LTS dot 版本通常会反向移植较新的内核版本，作为其硬件使能（HWE）堆栈的一部分，即使上游 Linux LTS 内核周期的支持窗口被缩短，Canonical 依然能够坚持支持 Ubuntu LTS 十年。
+除了 Canonical 外，类似于 Red Hat Enterprise Linux 和其他主要企业级 Linux 发行版，预计也不会因为上游内核 LTS 政策的转变而缩减其支持窗口。
+相关阅读：
+《由于“工作量太大”，Linux 内核 LTS 期限将从 6 年缩短至 2 年》
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonos Era 300 智能音响上市：支持杜比全景声音乐，4499 元]]></title>
+        <id>https://www.ithome.com/0/727/337.htm</id>
+        <link href="https://www.ithome.com/0/727/337.htm"/>
+        <updated>2023-10-24T14:29:15.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，Sonos 为未来沉浸式聆听打造的智能音响 Era 300 今晚正式在中国上市。
+
+Sonos Era 300 配备了六个单元，包括两个高音扬声器、两个低音扬声器、中间高音扬声器和上射高音扬声器，可将声音向前、向左、向右和向上引导。
+据介绍，Era 300 是 Sonos 旗下首款提供多声道环绕立体声的音响，支持杜比全景声音乐，可通过 QPlay 播放 QQ 音乐中的杜比全景声音乐。IT之家附参数对比：
+
+对于家庭影院用户，Era 300 还可用作家庭影院后置音响，电影发烧友将两只音响与 Arc 或 Beam（Gen 2）配对，最高可通过 7.1.4 的家庭影院环境，播放杜比全景声内容。
+
+值得一提的是，Era 300 本体就已经支持杜比全景声，连接 WiFi 后可以通过 Apple Music 流式传输杜比全景声音乐。除此之外，它还支持线路输入、蓝牙 5.0、AirPlay2 连接。
+京东 SONOS Era 300 杜比全景声 WIFI 无线蓝牙 环绕可组合 家庭影院 迷你音响 家用桌面客厅卧室 黑色 4499 元直达链接
+
+京东 11.11 无门槛红包 至高 11111 元：点此抽红包（即领即用 + 每天抽三次）
+
+天猫 11.11 无门槛红包 至高 23888 元：点此抽红包（每天抽一次）
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼 A7C II 及 A7CR 相机获推新固件：修正“视频元数据无法记录”错误，改善稳定性]]></title>
+        <id>https://www.ithome.com/0/727/336.htm</id>
+        <link href="https://www.ithome.com/0/727/336.htm"/>
+        <updated>2023-10-24T14:22:23.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 独立摄影师 的线索投递！
+IT之家 10 月 24 日消息，索尼今天为旗下 A7CM2（A7C II）和 A7CR 两款相机发布了新固件 Ver.1.01。主要修复在特定情况下无法设置高 ISO 降噪、部分视频元数据不被记录的 Bug，同时提升“整体稳定性”。
+IT之家附下载地址：
+
+索尼 A7CM2（A7C II） 固件 Ver.1.01：点此下载
+
+索尼 A7CR 固件 Ver.1.01：点此下载
+
+索尼 A7CM2（A7C II） 固件 Ver.1.01 更新内容
+
+
+修复了在特定情况下无法设置高 ISO 降噪的现象。
+
+修复了部分视频元数据（快门速度、光圈值、ISO 值等）可能不被记录的现象。
+
+提高了相机的整体稳定性。
+
+
+▲ 图源 索尼
+索尼 A7CR 固件 Ver.1.01 更新内容
+
+
+修复了部分视频元数据（快门速度、光圈值、ISO 值等）可能不被记录的现象。
+
+提高了相机的整体稳定性。
+
+
+▲ 图源 索尼
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[深圳] 1024 夜跑看见一位女生，纠结小跑上去岔口错过了...]]></title>
+        <id>https://www.v2ex.com/t/985071#reply10</id>
+        <link href="https://www.v2ex.com/t/985071#reply10"/>
+        <updated>2023-10-24T14:10:10.000Z</updated>
+        <summary type="html"><![CDATA[牢骚帖子。。
+有一段时间没有跑步了，大概两个 7 天了。今晚正好 1024 ，就出门跑跑。。
+跑完慢走歇息的时候在跑道边喝水的时候，抬头看到她正好从（公园公共洗手间）洗漱台那边洗脸整理~
+之后我自己往前走（刚刚一眼内心有点波澜的...），时不时往回头看...她也正好出来在后面散步~
+（进度加速..）
+走了小几十秒，到我经常拉伸的地方，拐出路边的时候内心就一直在想：
+要不要去搭讪问她微信、要不要去搭讪问她微信、要不要去搭讪问她微信、要不要去搭讪问她微信...
+这个念头一直在拉伸的时候也在脑子左右徘徊。。直到看到她慢慢走远。。内心已经想着放弃了。。。
+又惊起的心想豁出去，赶紧的收拾东西。快走上去。。。之后的小跑。。直到遇到一个三叉道口。。
+缘分性的交集小跑的两个岔口，远看都寻找不到她的身影。。。 
+
+
+
+
+就真的放弃的吧
+晚回走了
+
+唤起的第一次搭讪念头就这样子随风飘零了
+万年单身，对自己没什么自信，孤独是大家的常态吧
+1024 快乐，Hello word 改变不了世界？却改变了自己]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OpenAI] 有什么便宜方便的方式获得 GPT4 的 api]]></title>
+        <id>https://www.v2ex.com/t/985070#reply10</id>
+        <link href="https://www.v2ex.com/t/985070#reply10"/>
+        <updated>2023-10-24T14:07:14.000Z</updated>
+        <summary type="html"><![CDATA[目前我所知道的方法：
+1. 使用国外虚拟信用卡注册。优点：稳定。缺点：麻烦。
+2. 从网上购买 120$ 企业账号。优点：方便、便宜（相对于充值的汇率）。缺点：会被封号。
+希望推荐一些虚拟信用卡平台或 120$ 账号的购买途径，或者否有更加好的方法？
+另外，很好奇中转服务平台是如何证明自己没有截断上下文或更换模型以节省成本的。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Mac mini] 4360 入手 mac mini m2 16+256 值得么]]></title>
+        <id>https://www.v2ex.com/t/985069#reply2</id>
+        <link href="https://www.v2ex.com/t/985069#reply2"/>
+        <updated>2023-10-24T14:00:34.000Z</updated>
+        <summary type="html"><![CDATA[一直想买个 mac mini 但是已经有了台 19 款 mbp 16 寸 虽然感觉买来很容易吃灰 但是还是想低成本体验下 m2 尤其是 jd 降价差不多到二手的价格忍不住了 求解毒]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁集团回应旗下语雀崩了：运维升级 Bug 导致，将向所有用户赠送 6 个月会员]]></title>
+        <id>https://www.ithome.com/0/727/332.htm</id>
+        <link href="https://www.ithome.com/0/727/332.htm"/>
+        <updated>2023-10-24T13:58:47.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 巴赫罗素、钟纹泽、造雨人、我要康康、Alejandro86 的线索投递！
+IT之家 10 月 24 日消息，语雀是蚂蚁集团旗下的在线文档编辑与协同工具，使用了“结构化知识库管理”，形式上类似书籍的目录，该软件于 2022 年 2 月 22 日正式推出 iOS 及 Android 版本。
+据多位IT之家读者反馈，这款工具在今日 14:00~15:00 之间出现大规模服务器故障，在线文档和官网目前均无法打开。
+在经历了近 10 小时的故障之后，语雀服务现已全部恢复正常，各端语雀都可以正常访问，功能也恢复，目前官方发布了故障完整报告内容，并宣布将向所有用户赠送 6 个月语雀会员。
+故障原因及处理过程
+
+10 月 23 日下午，服务语雀的数据存储运维团队在进行升级操作时，由于新的运维升级工具 bug，导致华东地区生产环境存储服务器被误下线。受其影响，语雀数据服务发生严重故障，造成大面积的服务中断。
+为了尽快恢复服务，我们和数据存储运维团队全力进行数据恢复工作，但受限于恢复方案、数据量级等因素，整体用时较长。
+
+具体过程如下：
+
+
+14:07 数据存储运维团队收到监控系统报警，定位到原因是存储在升级中因新的运维工具 bug 导致节点机器下线；
+
+14:15 联系硬件团队尝试将下线机器重新上线；
+
+15:00 确认因存储系统使用的机器类别较老，无法直接操作上线，立即调整恢复方案为从备份系统中恢复存储数据。
+
+15:10 开始新建存储系统，从备份中开始恢复数据，由于语雀数据量庞大，此过程历时较长
+
+19:00 完成数据恢复；同时为保障数据完整性，在完成恢复后，用时 2 个小时进行数据校验；
+
+21:00 存储系统通过完整性校验，开始和语雀团队联调，最终在 22 点恢复语雀全部服务。用户所有数据均未丢失。
+
+
+语雀团队声称，“通过这次故障我们深刻认识到，语雀作为一款服务千万级客户的文档产品，应该做到更完善的技术风险保障和高可用架构设计，尤其是面向技术变更操作的‘可监控，可灰度，可回滚’的系统化建设和流程审计，从同 Region 多副本容灾升级为两地三中心的高可用能力，设计足够的数据和系统冗余实现快速恢复，并进行定期的容灾应急演练。只有这样，才能提升严重基础设施故障时的恢复速度，并从根本上避免这类故障再次出现。”
+为此，语雀团队制定了如下改进措施：
+
+
+1、升级硬件版本和机型，实现离线后的快速上线。该措施在本次故障修复中已完成；
+
+2、运维团队加强运维工具的质量保障与测试，杜绝此类运维 bug 再次发生；
+
+3、缩小运维动作灰度范围，增加灰度时间，提前发现 bug；
+
+4、从架构和高可用层面改进服务，为语雀增加存储系统的异地灾备。
+
+
+语雀团队表示，为了表达歉意，团队将向所有受到故障影响的用户提供如下赔偿方案：
+
+
+针对语雀个人用户，我们赠送 6 个月的会员服务。操作流程：进入工作台「账户设置」，点击左侧「会员信息」，在会员信息页面点击「立即领取」，即可获得赠送服务。
+
+针对语雀空间用户，由于情况比较复杂，我们会单独制定赔偿方案。请空间管理员留意语雀站内信。
+
+
+相关阅读：
+
+《故障超过 8 小时，语雀服务现已全部恢复正常》
+
+《蚂蚁集团旗下语雀崩了：在线文档及官网均无法打开，官方称紧急恢复中》
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 如何删除网页中的支付方式？]]></title>
+        <id>https://www.v2ex.com/t/985066#reply1</id>
+        <link href="https://www.v2ex.com/t/985066#reply1"/>
+        <updated>2023-10-24T13:52:19.000Z</updated>
+        <summary type="html"><![CDATA[英国学生签证申请了快一个月了，一点消息都没有。但是租的学生公寓一直在那扣钱，现在有点受不了了，准备签证下来后再交，现在想把账号里的信用卡删掉，请问有什么办法吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Docker] docker 部署 Django+Gunicorn 项目,使用 Nginx Proxy Manager 负责反代+托管静态资源文件的疑问谢谢大家.]]></title>
+        <id>https://www.v2ex.com/t/985065#reply1</id>
+        <link href="https://www.v2ex.com/t/985065#reply1"/>
+        <updated>2023-10-24T13:46:47.000Z</updated>
+        <summary type="html"><![CDATA[之前一直用某塔面板，但随着这玩意风评越来越差不太敢用了，现在项目是纯手工 ubuntu+Nginx 部署的，可复制性差。
+新的Django项目打算用docker容器部署，Nginx Proxy Manager也用docker部署的。
+项目已经跑起来了，但唯一有个问题就是Django项目通过python3 manage.py collectstatic收集静态资源后的用Nginx的托管静态问题，因为Gunicorn本身也不支持这玩意，只能通过Nginx Proxy Manager反代后托管。
+我现在是把Django 项目收集的静态资源文件拷贝一份放到Nginx Proxy Manager的data宿主机挂载的目录中。
+location ^~ /static/ {
+    alias /data/collectedstatic/;
+}
+
+这个方法虽然项目跑起来了，但这样的托管方式肯定是不对的，请问我要如何正确的使用Nginx Proxy Manager托管另一个基于docker部署的Django项目的静态文件?
+谢谢大家]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 求推荐运动鞋，秋冬用]]></title>
+        <id>https://www.v2ex.com/t/985064#reply0</id>
+        <link href="https://www.v2ex.com/t/985064#reply0"/>
+        <updated>2023-10-24T13:45:25.000Z</updated>
+        <summary type="html"><![CDATA[日常，偶尔小跑
+南方冬天不会冷（ 4 季可穿那更号）
+预算 500 内]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 再推荐一下几个开源笔记软件]]></title>
+        <id>https://www.v2ex.com/t/985063#reply10</id>
+        <link href="https://www.v2ex.com/t/985063#reply10"/>
+        <updated>2023-10-24T13:44:20.000Z</updated>
+        <summary type="html"><![CDATA[作为程序员，能 hold 得住开源本地化的就尽量用开源本地化（且免费）的吧，闭源或云端必有出事锁死的一天。
+所以推荐:
+AFFiNE https://github.com/toeverything/AFFiNE
+思源 https://github.com/siyuan-note
+Trellium https://github.com/zadam/trilium
+太记 https://github.com/tiddly-gittly/TidGi-Desktop （基于 Tiddlywiki https://github.com/Jermolene/TiddlyWiki5 ）
+利益相关：
+其中太记是我维护的，主要看中的是太微的卡片笔记的感觉，还有笔记中的代码可以作为系统插件生效，修改自身的蒯恩特性。
+无意引战，虽然我也常用飞书文档之类的纯云端文档，但是我个人不大喜欢 Obsidian 这类本地化但却坚持闭源的应用，感觉很别扭，所以我更愿意多去关注、维护、自制一下它们的开源替代品。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 换笔记软件中，思源笔记，组团订阅激活码。]]></title>
+        <id>https://www.v2ex.com/t/985062#reply6</id>
+        <link href="https://www.v2ex.com/t/985062#reply6"/>
+        <updated>2023-10-24T13:42:04.000Z</updated>
+        <summary type="html"><![CDATA[2 个 6.4 折，越多越便宜。
+https://ld246.com/subscribe/siyuan/batch
+以下是激活码须知，注意订阅激活码只能用于新账号激活首年订阅，不能用于续费
+https://ld246.com/article/1682303825382
+base64(wx): a2V2MW56aDM3
+如果有意向的可以加我，然后看人数如果人多今晚就下单，如果人少明天早上 10 点-11 点开买。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 语雀赔偿：个人版用户 6 个月会员服务]]></title>
+        <id>https://www.v2ex.com/t/985060#reply30</id>
+        <link href="https://www.v2ex.com/t/985060#reply30"/>
+        <updated>2023-10-24T13:34:54.000Z</updated>
+        <summary type="html"><![CDATA[https://mp.weixin.qq.com/s/WFLLU8R4bmiqv6OGa-QMcw
+复盘如上]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 语雀补偿来了]]></title>
+        <id>https://www.v2ex.com/t/985059#reply0</id>
+        <link href="https://www.v2ex.com/t/985059#reply0"/>
+        <updated>2023-10-24T13:34:06.000Z</updated>
+        <summary type="html"><![CDATA[原链接： https://mp.weixin.qq.com/s/WFLLU8R4bmiqv6OGa-QMcw
+省流：每人半年会员；
+领取方式：
+针对语雀个人用户，我们赠送 6 个月的会员服务。操作流程：进入工作台「账户设置」，点击左侧「会员信息」，在会员信息页面点击「立即领取」，即可获得赠送服务。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 大家有没有对一些 PC 软件应用防火墙规则？]]></title>
+        <id>https://www.v2ex.com/t/985057#reply0</id>
+        <link href="https://www.v2ex.com/t/985057#reply0"/>
+        <updated>2023-10-24T13:16:52.000Z</updated>
+        <summary type="html"><![CDATA[比如可访问互联网 但不可访问局域网电脑之类？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[iPhone] 双十一求推荐 magsafe 三或二合一的充电支架，手机壳和膜]]></title>
+        <id>https://www.v2ex.com/t/985056#reply0</id>
+        <link href="https://www.v2ex.com/t/985056#reply0"/>
+        <updated>2023-10-24T13:13:12.000Z</updated>
+        <summary type="html"><![CDATA[支架最好是便于携带可折叠的，出远门方便，手机壳和膜想听听大伙的推荐]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天猫平台补贴购：微博会员 4 元 / 月 11.11 限时新低]]></title>
+        <id>https://www.ithome.com/0/727/327.htm</id>
+        <link href="https://www.ithome.com/0/727/327.htm"/>
+        <updated>2023-10-24T13:10:08.000Z</updated>
+        <summary type="html"><![CDATA[微博会员年卡日常售价 120 元，今晚 20 点起叠加天猫平台补贴后，实付 52 元即可入手。
+下单再赠 1 个月（共到手 13 个月），折合 4 元 / 月年内新低价：
+天猫新浪微博会员 13 个月详情页领券补贴后 52 元领 60 元券
+微博会员特权
+
+天猫新浪微博会员 13 个月详情页领券补贴后 52 元领 60 元券
+
+京东 11.11 无门槛红包 至高 11111 元：点此抽红包（即领即用 + 每天抽三次）
+
+天猫 11.11 无门槛红包 至高 23888 元：点此抽红包（每天抽一次）
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 面向北美市场的 Video-on-demand 云服务哪家强？]]></title>
+        <id>https://www.v2ex.com/t/985054#reply1</id>
+        <link href="https://www.v2ex.com/t/985054#reply1"/>
+        <updated>2023-10-24T13:05:39.000Z</updated>
+        <summary type="html"><![CDATA[简单搜索了都很贵，有没有推荐的？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软商城 11.11 特惠：Surface 半价购，Laptop Studio 6094 元 24 期免息]]></title>
+        <id>https://www.ithome.com/0/727/325.htm</id>
+        <link href="https://www.ithome.com/0/727/325.htm"/>
+        <updated>2023-10-24T13:02:16.000Z</updated>
+        <summary type="html"><![CDATA[微软中国官方商城 现已开启 11.11 专属特惠活动，全场 Surface 五折起官方新低 + 支持 24 期免息：点此查看。
+活动时间：即日起~11 月 11 日。
+
+本次联合大促各款库存均不多，售完即止哦~
+优惠机型
+Surface Laptop Studio 
+
+
+i5 16+256G 版官方上市售价 12188 元，11.11 专属优惠价 6094 元（5 折），支持 24 期免息。
+
+i5 16+512G 版同时参与本次活动，11.11 专属优惠价 6844 元（5 折），库存不多手慢无。
+
+Surface Laptop Go 2 
+
+
+i5 8+256G 版官方上市售价 5188 元，11.11 专属优惠价 3268 元（6.3 折），支持 24 期免息。
+
+Surface Go 3 
+
+i5 8+256G 版官方上市售价 6158 元，11.11 专属优惠价 4619 元（7.5 折），支持 24 期免息。
+认证翻新 Surface Pro 9
+
+认证翻新 Surface Pro 9 今日立打 6.5 折，各版本均支持 24 期免息：
+
+i5 8+256G 版官方售价 8888 元，翻新版 11.11 专属优惠直降至 5775 元。
+
+i5 16+256G 版官方售价 11188 元，翻新版 11.11 专属优惠直降至 7199 元。
+
+i7 16+256G 版官方售价 12588 元，翻新版 11.11 专属优惠直降至 8151 元。
+
+i7 16+512G 版官方售价 14788 元，翻新版 11.11 专属优惠直降至 9583 元。
+
+i7 16+1T 版官方售价 17088 元，翻新版 11.11 专属优惠直降至 11007 元。
+
+i7 32+1T 版官方售价 19988 元，翻新版 11.11 专属优惠直降至 12911 元。
+
+认证翻新 Surface Laptop 5
+
+本次官方认证翻新 Surface Laptop 5 今日立打 6.5 折，各版本均支持 24 期免息：
+13.5 英寸
+
+i5 8+256G 版官方售价 8288 元，翻新版 11.11 专属优惠直降至 5367 元。
+
+i5 16+512G 版官方售价 11788 元，翻新版 11.11 专属优惠直降至 7543 元。
+
+i7 16+512G 版官方售价 13188 元，翻新版 11.11 专属优惠直降至 8495 元。
+
+15 英寸
+
+i7 16+512G 版官方售价 13888 元，翻新版 11.11 专属优惠直降至 8967 元。
+
+i7 32+1T 版官方售价 18488 元，翻新版 11.11 专属优惠直降至 11823 元。
+
+认证翻新 Surface Laptop 4
+
+认证翻新 Surface Laptop 4 支持 12 期免息，各版 11.11 活动价如下：
+
+15 寸 AMD 锐龙 7 4980U 16+512GB 翻新版 建议零售价 11469 元，11.11 专属优惠直降至 6307 元。
+
+15 寸 i7 32+1T 版翻新版 建议零售价 15719 元，11.11 专属优惠直降至 8645 元。
+
+13.5 寸 i7 32+1T 版翻新版 建议零售价 15714 元，11.11 专属优惠直降至 8642 元。
+
+微软中国官方商城 11.11 专属特惠活动：点此查看。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。
+【广告】]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔酷睿 i9-14900K 开启 APO 后可使《彩虹六号：围攻》FPS 提升 31%]]></title>
+        <id>https://www.ithome.com/0/727/323.htm</id>
+        <link href="https://www.ithome.com/0/727/323.htm"/>
+        <updated>2023-10-24T12:51:07.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，英特尔表示，酷睿 i9-14900K 在启用 Intel APO 后，可以在《彩虹六号：围攻》和《地铁：离去》中实现 FPS 大幅提升。
+经过测试，英特尔 14 代酷睿 i7-14700K 和 i9-14900K CPU 都可以体现出这一结果。Reddit 用户“LightMoisture”发现，它可以使《彩虹六号：围攻》FPS 从 659 提升到 867，提升幅度达 31%；而《地铁：离去》 FPS 也从 273 提高到 339，提升幅度 24%。
+
+
+英特尔副总裁罗杰・钱德勒 (Roger Chandler) 在接受 TweakTown 采访时表示，APO 代表了 Thread Director 技术的下一步发展，它可以为每个单独的应用提供特殊优化。
+简单来说，当你将某款特殊游戏添加到 APO 列表时，它会自动调整线程调度策略，从而为游戏玩家提供更高的帧率。
+
+值得注意的是，英特尔也承认并非所有游戏都可以通过 APO 获得提升。不过，英特尔正在考虑在未来将 APO 支持扩展到其他软件，这也解释了英特尔为什么没有将其命名为“游戏优化器”。
+IT之家注：英特尔目前尚未确认该技术是否会支持老一代 LGA1700 处理器。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纪念厦门工厂成立 30 周年，松下推出 LUMIX S5M2 相机黑金限量版]]></title>
+        <id>https://www.ithome.com/0/727/321.htm</id>
+        <link href="https://www.ithome.com/0/727/321.htm"/>
+        <updated>2023-10-24T12:45:35.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 独立摄影师 的线索投递！
+IT之家 10 月 24 日消息，松下日前公布了 LUMIX S5M2（S5II）相机黑金限量版，号称“为纪念松下厦门工厂成立 30 周年”而设计，该相机拥有专属序列号，号称“加量不加价，限量 500 台”，已于今晚限量上架，售 12298 元。
+
+▲ 图源 松下旗舰店
+据悉，LUMIX S5M2 是松下公司首批具有 PDAF 或相位检测自动对焦功能的相机，摆脱了长期存在的基于对比度检测的 DFD 或散焦深度技术。虽然可用于照片，但这种方法对于视频通常很慢且不可靠，并且会在焦外区域产生持续的脉冲。
+
+▲ 图源 松下旗舰店
+松下 LUMIX S5M2 通过全新的 24.2MP 35mm 全画幅 CMOS 传感器提供完全改进的对焦系统解决了该问题。新的相位检测自动对焦系统结合了 PDAF 和对比度检测系统，具有 779 个自动对焦点，用于连续的人物和动物跟踪。松下 LUMIX S5M2  支持使用与徕卡和适马共享的 L 卡口。
+
+▲ 图源 松下旗舰店
+据IT之家此前报道，松下 LUMIX S5M2 的视频录制性能号称可与 S1H 相媲美。用户可以选择 6K 10-bit 4:2:0 或 4K 10-bit 4:2:2 录制选项。内置风扇和散热器的全新散热方式可实现不间断 4K 录制而不会出现过热。
+
+▲ 图源 松下旗舰店
+松下 LUMIX S5M2 还带来了新的图像稳定系统，由 5 轴 Body IS 和 2 轴基于镜头的 OIS 组成，适用于照片和视频拍摄。视频拍摄还获得了 Active IS 模式，该模式通过确定相机抖动的状态来优化水平、垂直和旋转校正率。
+其他功能包括双原生 ISO、带机械快门的 9fps AFS / 7fps AFC 连拍模式和带电子快门的 30fps AFS / AFC、48kHz / 24-bit 内部麦克风录音和 96kHz / 24-bit 带外部麦克风、全尺寸 HDMI 端口、 3680K 点 OLED 取景器、3.0 英寸全清晰 1840K 点触摸屏、USB-C 充电、防溅防尘镁合金压铸机身、双频 Wi-Fi 和蓝牙。
+相关阅读：
+《松下 LUMIX S5II / S5IIX 全画幅无反相机发布：支持相位检测自动对焦，售价 2000 美元起》
+京东松下 PAVCX 厦门・30 周年限量款 S5M2 纪念款 12298 元直达链接
+
+京东 11.11 无门槛红包 至高 11111 元：点此抽红包（即领即用 + 每天抽三次）
+
+天猫 11.11 无门槛红包 至高 23888 元：点此抽红包（每天抽一次）
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[微信] 微信消息记录备份恢复求助！]]></title>
+        <id>https://www.v2ex.com/t/985051#reply2</id>
+        <link href="https://www.v2ex.com/t/985051#reply2"/>
+        <updated>2023-10-24T12:43:34.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 12 月份因换手机缘故，将微信聊天记录通过 PC 微信备份。后仅恢复了指定联系人的聊天记录。
+后续因其它原因重装了电脑的系统，新装的 PC 微信此时无法识别旧备份的聊天记录文件。
+请问各位老哥有什么方法可以读取到备份的聊天记录文件进行恢复吗
+可以确定备份文件没有损坏，重装系统时仅重置了 C 盘，备份文件在 D 盘。难道还和注册表有关系吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 1024， Chat2DB 3.0 发布了！ 之前用 Navicat 的同学可以来体验体验]]></title>
+        <id>https://www.v2ex.com/t/985049#reply10</id>
+        <link href="https://www.v2ex.com/t/985049#reply10"/>
+        <updated>2023-10-24T12:35:26.000Z</updated>
+        <summary type="html"><![CDATA[总算是赶在了 1024 ，发布了 3.0 版本 😄
+Chat2DB：一个集成了 AI 和 BI 功能的数据库管理工具
+官网：sqlgpt.cn
+新功能详情：Chat2DB 3.0 发布了！！！
+Github 地址
+欢迎大家来体验👏🏻]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前索尼 SIE CEO：对游戏业界“收购现象”表示担忧，工作室难以保持创造力]]></title>
+        <id>https://www.ithome.com/0/727/320.htm</id>
+        <link href="https://www.ithome.com/0/727/320.htm"/>
+        <updated>2023-10-24T12:34:21.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，索尼 PlayStation 前高管 Shawn Layden 一直不看好游戏业界的“收购现象”，IT之家此前曾报道，在 GamesIndustry.biz 投资峰会上发表讲话时，Layden 将谷歌、Netflix、亚马逊和苹果等公司称为“门口的野蛮人”。
+Shawn Layden 近日在自家播客中重申了这一点，认为游戏业界的“收购现象”会影响工作室的创造力。
+
+一些‘小型的’、‘独立的’的工作室在被更大的企业收购后，效率就会越慢，且难以创造自己的游戏，从而扼杀了这些工作室的创造力。
+
+除此之外，这些工作室的成员还可能被临时叫去外包其他游戏大作的开发，Shawn Layden 声称，在过去几年中，动视的几个无关团队被重新分配到《使命召唤》系列的工作中担任辅助角色，包括开发古惑狼的 Bob Toys。
+Shawn Layden 表示：“我只关心收购对工作室内部创造力的影响，他们是否能够保持独立的创造力，或者他们是否会被更大的整体所吸收？时间会证明一切，但这令人担忧。当你从几百种声音变成几十种声音时，你会失去一些声音。”
+相关阅读：
+《索尼 PlayStation 前总裁 Shawn Layden：苹果等“门外汉巨头”是游戏行业的大威胁》
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长城汽车宣布与科大讯飞合作，推出“首个汽车产业知识大模型”]]></title>
+        <id>https://www.ithome.com/0/727/311.htm</id>
+        <link href="https://www.ithome.com/0/727/311.htm"/>
+        <updated>2023-10-24T11:42:17.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 猪肉拉面 的线索投递！
+IT之家 10 月 24 日消息，2023 科大讯飞全球 1024 开发者节在合肥开幕，IT之家今天早前报道，在开发者节上科大讯飞董事长刘庆峰宣布讯飞星火 3.0 正式发布。
+而根据长城汽车官方公众号消息，长城汽车股份有限公司与科大讯飞股份有限公司今日签署了关于产业大模型及知识大脑战略合作协议，将基于讯飞星火认知大模型 V3.0 搭建产业首个知识大模型“长城汽车知识大脑”。 
+
+▲ 图源 长城汽车官方公众号
+长城汽车声称，作为面向智能汽车新时代可持续升级的 AI 底座，大模型将帮助企业建立智能知识库，从研发领域、售后服务、企业办公等多场景提供赋能，有效解决传统业务痛点，实现知识自动化构建、服务能力升级和打造数字化应用，并围绕汽车产业全场景构建智能汽车数字化服务新生态。
+
+未来，双方将围绕汽车产业数智化发展方向，持续探索创新，赋能产业发展，深入垂直领域的实践、锤炼，加速推动汽车产业知识大模型真正落地赋能产业，共建汽车智能新生态，为中国汽车产业智能化进程增添新动能。
+
+相关阅读：
+《科大讯飞发布星火认知大模型 V3.0，号称综合能力已超 ChatGPT》
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司：有黑客锁定旧版 Adobe ColdFusion 用户进行攻击，通过漏洞散布勒索软件]]></title>
+        <id>https://www.ithome.com/0/727/307.htm</id>
+        <link href="https://www.ithome.com/0/727/307.htm"/>
+        <updated>2023-10-24T11:17:03.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，安全公司 Sophos 日前发布新闻稿，声称有黑客锁定旧版 Adobe ColdFusion 软件，通过漏洞发起攻击。
+
+▲ 图源 Sophos
+IT之家从报告中得知，黑客组织 BlackDogs 在今年 9 月至 10 月初实施了相关攻击行为，锁定“生命周期已经结束（EOL）”的 ColdFusion 11，利用漏洞进入受害者的设备中，进而部署基于 LockBit 3.0 的勒索软件，不过这一行为遭到了公司的防护系统拦截。
+
+▲ 图源 Sophos
+安全公司声称，有许多黑客正利用旧版软件的漏洞，从而散布勒索软件，近日还有针对 CVE-2023-40044 漏洞展开的攻击行动，黑客组织 Reichsadler 利用这项漏洞入侵受害者，并使用开源工具 GodPotato 将自身权限提升为 NT AUTHORITY\SYSTEM，从而基于 LockBit 3.0 生成的勒索软件，企图索要虚拟货币。
+Sophos 就此表示，用户应当积极更新电脑上的软件，以避免因旧版本软件结束生命周期，遭到黑客入侵。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛图科技：第三季度中国智能音箱销量同比下跌 17%，百度小米天猫精灵市场领衔]]></title>
+        <id>https://www.ithome.com/0/727/304.htm</id>
+        <link href="https://www.ithome.com/0/727/304.htm"/>
+        <updated>2023-10-24T10:50:57.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 西窗旧事 的线索投递！
+IT之家 10 月 24 日消息，Runto 洛图科技观研公众号今日发布《2023 年第三季度 中国智能音箱市场月度追踪》报告。
+IT之家从洛图科技报告中得知，2023 年第三季度中国智能音箱市场全渠道销量为 481 万台，同比下降 16%，销额为 13.6 亿元，同比下降 17%：
+
+
+百度智能音箱市场的份额达到 41.0%，同比增长 4 个百分点；
+
+小米市场份额达到 31.7%，同比增长 2 个百分点；
+
+天猫精灵和华为相较去年同期，市场份额均有所下降。
+
+
+
+图源 Runto 洛图科技观研公众号
+
+图源 Runto 洛图科技观研公众号
+今年以来，受学习平板和移动智慧屏市场兴起所带来的冲击影响，屏幕音箱市场持续走低。根据洛图科技数据，从第二季度开始，屏幕音箱在线上市场的渗透率连续两个季度低于 20%。
+
+图源 Runto 洛图科技观研公众号
+而在屏幕音箱线上市场季度销量渗透率方面，洛图科技认为，屏幕音箱尴尬的产品定位使其教育场景的专业性不如学习平板，娱乐场景的丰富度和大屏又不及移动智慧屏，因此下跌速度超过了无屏产品。
+当前屏幕音箱和移动智慧屏的行业领头羊都是百度，百度旗下的小度添添闺蜜机在前 8 个月的移动智慧屏累计市场中占到了 65% 的市场份额，具有重叠场景的两个品类自然地走向了此消彼长。
+在第三季度的屏幕音箱市场中，8 寸显示屏在百度、小米、天猫精灵等新品的带领下，占据了最大市场份额，占比达到 44%。10 + 寸产品市场销量份额为 17%，环比下降 4 个百分点，同比下降 1 个百分点。
+洛图科技表示，当前智能音箱正成各品牌大模型技术的试炼场：
+
+今年第一季度，Chat GPT 横空出世，全球智能音箱产业集体欢呼迎来了救星。由大模型带来的生成式 AI 开始赋能衰退中的智能音箱。海内外头部品牌亚马逊、百度、天猫精灵陆续宣布接入大模型。
+
+
+▲ 近期全球智能音箱新品汇总，图源 Runto 洛图科技观研公众号
+洛图科技认为，大模型的确是智能音箱产业在令人悲观的黑暗时刻撞上的难得机会。
+
+然而不同于 ChatGPT 所输出的是文字、图片、视频，可以颠覆式地提升效率，给用户带来极大的冲击，智能音箱本身的主要交互语言是语音，AI 内容创作能力在音箱场景下的发挥和用户感知会受到限制。
+
+因此洛图科技认为，业界还需要冷静看待大模型给智能音箱带来真正革命的可能性和时间表。不过也不可否认，智能音箱品类是当下大模型面对 C 端客户的最直接、拿来即可用的硬件载体之一。因此，各家科技企业的大模型技术将首先在智能音箱这个试炼场上见分晓。
+进入 10 月，头部品牌摩拳擦掌蓄力“双 11”，洛图科技预测，第四季度中国智能音箱全渠道销量将达到 580 万台，同比下降 9%，下跌幅度再放缓。
+展望后市，智能音箱品类仍然是大厂触达用户最重要的入口之一，洛图科技（RUNTO）判断，智能音箱市场的下行空间已经缩小，2024 年中国智能音箱市场销量将下降至 2076 万台，同比下跌 6%。在 2000 万台上下的限量市场中，新一轮的 AI 大模型智能硬件终端竞争即将到来。
+
+▲ 图源 Runto 洛图科技观研公众号
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM 推出 AI 芯片 NorthPole：内置存储器，号称可“模拟人脑运行”]]></title>
+        <id>https://www.ithome.com/0/727/294.htm</id>
+        <link href="https://www.ithome.com/0/727/294.htm"/>
+        <updated>2023-10-24T10:20:55.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，IBM Research 日前推出 AI 芯片 NorthPole，该芯片灵感号称“来自人类大脑的运作”，推论性能据称超越 4nm GPU，适用于边缘计算等范畴。
+IT之家经过查询得知，NorthPole 芯片是 IBM 曾在 2014 年“模拟人脑运作”的 TrueNorth 芯片的后继者，芯片开发同样由 TrueNorth 芯片负责人 Dharmendra Modha 所主导。
+
+▲ 图源 IBM
+据悉，在传统的半导体产业中，芯片主要遵循相同的基本架构，处理单元与储存信息是相互分开的，这种架构虽然简化了芯片设计模式，却也因传输速度赶不上处理速度而出现了“冯・诺伊曼瓶颈（von Neumann Bottleneck）”，而 Dharmendra Modha 则认为，人脑是目前所知最节能的处理器，因而持续寻找以数字方式复制人脑的方法。
+IBM 目前推出的 NorthPole 芯片，相对于传统芯片最大的不同点在于“芯片内置存储器”，在没有“冯・诺伊曼瓶颈”的情况下，NorthPole 芯片的 AI 推论能力优于市面上竞品。
+虽然 NorthPole 采用 12nm 工艺，于 800 平方毫米上安置了 220 亿个晶体管，拥有 256 个核心，于 8-bit 精度下每核心每个周期可执行 2048 次操作，若是在 4-bit 或 2-bit 精度下，操作次数则可翻倍。
+
+▲ 搭载 NorthPole 的 PCIe 卡，图源 IBM
+在具体架构上，NorthPole 号称模糊了运算与存储间的界线，这让 NorthPole 容易整合至系统，且明显减少了搭载芯片的设备负载。
+IBM Research 在 ResNet-50 模型上测试 NorthPole，相较于同样基于 12nm 工艺的 GPU 竞品，NorthPole 每秒辨识帧数的能效是竞品的 25 倍，而且不管是在延迟或运算空间的要求上，表现都优于市面上所有主流架构，甚至凌驾基于 4nm 工艺的 GPU。
+不过，NorthPole 的优势同时也是它的弱点所在，NorthPole 只能轻松读取集成在芯片中的本地数据信息，读取外界数据时，便没有计算速度优势。
+Dharmendra Modha 声称，虽然 NorthPole 无法用来承载 GPT-4，但应该可满足许多企业所需的模型推论要求。
+目前 IBM Research 仍在研究 NorthPole 的适用领域，研究人员许多需要即时处理大量资料的边缘计算可能非常适合 NorthPole，例如自动驾驶、遥感通信等领域，NorthPole 均有用武之地。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软扩大 Security Copilot AI 工具体验计划，Microsoft 365 订阅用户可用]]></title>
+        <id>https://www.ithome.com/0/727/285.htm</id>
+        <link href="https://www.ithome.com/0/727/285.htm"/>
+        <updated>2023-10-24T09:55:34.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，微软今年 3 月宣布推出 Security Copilot 服务， 当时微软声称这是世界上第一个基于生成式 AI 的安全产品。
+该产品基于 OpenAI 的 GPT-4，配合微软的安全分析情报库，从而能够帮助公司及相关部门对抗网络威胁。
+
+▲ 图源 微软
+微软此前宣布将邀请部分企业参与 Security Copilot 的测试，而目前这项测试计划已经扩大至 Microsoft 365 等付费用户，所有使用 Microsoft 365 Defender 的用户，都可以测试 Security Copilot。
+微软安全企业副总裁 Vasu Jakkal 声称：
+
+我们的客户在引入 Security Copilot 之后，可以处理基于自然语言问题编写复杂查询和总结安全事件等，在核心安全操作任务上节省了高达 40% 的时间。
+Security Copilot 可以提供专业知识内容，节省他们的时间，为 IT 管理员提供重要内容保障，有效地提高安全团队的技能，并使他们能够专注于最具影响力的项目。
+
+IT之家此前报道，Security Copilot 的生成式 AI 功能旨在执行多种不同的任务。它可以创建安全事件的快速摘要，并且可以帮助通过 Microsoft 365 Defender 直接响应这些事件。
+
+▲ 图源 微软
+
+▲ 图源 微软
+Security Copilot 的核心技术是 OpenAI 的 GPT-4 生成式人工智能和微软自己的安全专用模型。Security Copilot 看起来像一个简单的对话框，就像其他的聊天机器人一样。你可以问“我企业里有哪些安全事件？”，它就会给你一个概要。但在幕后，它利用了微软每天收集到的 65 万亿个信号，以及安全领域的专业技能，让安全专业人士能够追踪威胁。
+
+▲ 图源 微软
+Security Copilot 的设计目的是辅助而不是取代安全分析师的工作，并且还包括一个便签板功能，让同事们可以协作和分享信息。安全专业人士可以使用 Security Copilot 来进行事件调查或快速总结事件并帮助进行报告。
+Security Copilot 接受自然语言输入，所以安全专业人士可以询问某个特定漏洞的概要，输入文件、网址或代码片段进行分析，或者从其他安全工具中获取事件和警报信息。所有的提问和回答都会被保存，所以调查者可以有完整的审计记录。
+相关阅读：
+
+《微软宣布推出 Security Copilot：为网络安全专家量身定制的 GPT-4 AI 助手》
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDC：去年 AI“智慧城市”规模 53.2 亿元，未来 5 年相关技术将进入大规模落地应用关键期]]></title>
+        <id>https://www.ithome.com/0/727/272.htm</id>
+        <link href="https://www.ithome.com/0/727/272.htm"/>
+        <updated>2023-10-24T09:04:57.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，IDC 今日发文表示，中国一直在积极推进智慧城市的建设，AI 技术是其中的重要组成部分，国内许多城市都已经依靠 AI，建立了自己的智慧城市平台。
+不过，AI 的发展在 2022 年初遇到阶段性瓶颈，去年中国智慧城市人工智能平台市场规模 53.2 亿元人民币，技术创新和行业场景化落地的速度都在变缓，因此市场主体没有太多新增，仍以头部的技术提供商以及各行业解决方案商为主。
+但IT之家发现，IDC 声称“自 2023 年开始，随着大模型及生成式 AI 的盛行，智慧城市 AI 市场将迎来新的机遇”，未来 5 年“人工智能将进入大规模落地应用关键期”。
+而从目前的整体市场竞争格局来看：
+
+
+商汤科技、科大讯飞等在智慧城市人工智能平台市场排名居上
+
+云从科技、城云科技位列第四、第五
+
+智慧城市人工智能市场整体呈现出明显的头部厂商规模化效应，前五大厂商共占据 42.4% 的市场份额。
+
+
+
+▲ 图源 IDC
+IDC 声称，他们正持续追踪智慧城市人工智能平台市场，并将其细分为计算机视觉、语音语义和机器学习子市场。
+2022 年，计算机视觉市场规模达 39 亿元人民币。其中，商汤科技位于榜首，语音语义市场中，科大讯飞一直位于榜首。机器学习市场占整体市场比例较低。
+
+▲ 图源 IDC
+
+▲ 图源 IDC
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一体式家装的绝佳拍档：TCL 超薄零嵌冰箱 T9 双十一福利预售]]></title>
+        <id>https://www.ithome.com/0/727/269.htm</id>
+        <link href="https://www.ithome.com/0/727/269.htm"/>
+        <updated>2023-10-24T08:56:21.000Z</updated>
+        <summary type="html"><![CDATA[双十一即将到来，一定有小伙伴想趁着这个全年最大的福利和折扣期更新一波家里的电器。而说到买大家电，有一个问题是不得不考虑的，就是家电的整体设计是否和自己家里的装修风格统一，会不会破坏家装设计的美感？这不仅仅是产品本身美不美观的问题，更是它与家装环境适配性的问题。因此，最近这些年，嵌入式的家电成为越来越多消费者的选择。
+
+而说到嵌入式家电，今年初 TCL 推出的 TCL 超薄零嵌冰箱 T9 就是一个很值得考虑的选项。
+TCL 超薄零嵌冰箱 T9，从命名就可以看出，这是一款主打超强嵌入式的冰箱产品，有多强呢？可以做到几乎“零距离嵌入”。
+
+如今虽然“嵌入式”家电很流行，但许多产品并不能真正做到“零距离”嵌入，也就是嵌入得很突兀。就拿冰箱来说，有些冰箱因为产品本身比较“宽厚”，嵌入到家居中时就会凸出于旁边的橱柜，极大破坏了家装设计的整体性；
+
+同时，大部分冰箱因为散热设计不够完美，需要在机身和橱柜之间留出 10cm 的空隙以便散热，这同样也是很破坏家装美感的痛点，而且这些空隙很容易藏污纳垢，难以打理，简直要逼死强迫症。而如果你强行将冰箱和左右橱柜的距离缩小，那么还有可能遇到一个问题，就是冰箱门铰链的翻折空间不够，门不能完全打开……
+
+所有这些痛点，在 TCL 超薄零嵌冰箱 T9 上都能得到解决。
+首先，TCL 薄嵌冰箱 T9 产品本身整体设计得非常“薄”，机身厚度只有 580mm，一眼看去很有视觉冲击力。而正是如此薄的机身，可以让 TCL 薄嵌冰箱 T9 在安装时可以在外侧正好与周围的橱柜齐平，做到零凸出，这样就不会对家装设计的一体感形成破坏，而且没有凸出后，也不会形成清扫的死角，打扫卫生也更方便。
+
+然后，TCL 薄嵌冰箱 T9 是怎么做到左右“零缝隙”的呢？它主要通过两大创新手段来实现。其一是创新的平稳嵌入式铰链，让铰链翻折时不会占用冰箱以外的空间，这样当冰箱贴墙或者贴橱柜安装时，门和抽屉也能自如开合，不受影响。
+
+其二就是前面说的散热问题，TCL 薄嵌冰箱 T9 采用了底部散热的设计，将冷凝器底置，这样两侧就不需要为散热留出空间，可以放心地和橱柜以及墙面零距离贴合（距离最小可到 0.4cm），相比普通冰箱需要 10cm 的散热空间，在家装设计整体美感的维持方面简直是天壤之别。
+如此，TCL 薄嵌冰箱 T9 就实现了左右零缝隙、前后零凸出的零距离嵌入，再加上冰箱本身简洁高颜值的品质设计，这让 T9 能够自然和谐地融入到绝大多数家居环境中，带来舒适、高端的视觉美感和使用体验。
+
+当然，除了零距离自由嵌入地一体式美学设计，TCL 薄嵌冰箱 T9 还有很多其他的看点相信也会让大家动心。
+比如 TCL 薄嵌冰箱 T9 虽然“薄”，但并没有牺牲内部的储藏空间，它拥有 456L 的超大容量，18 格的精细分区，包括日常食材、酱料、饮品、果蔬、干货、母婴、速食等等，不同种类的食材都能合理安放。
+
+不仅如此，TCL 薄嵌冰箱 T9 对食物的保鲜能力也很强，它拥有 79L 宽幅变温区，-20°C-5°C 共 26 档温度自由调节，适合不同种类的食物保鲜，比如在果蔬保湿区里，蓝莓放 15 天都能保持水嫩。
+还有，TCL 薄嵌冰箱 T9 还有强大的主动式杀菌、净味能力，让食材能够保持新鲜健康，家人吃得也更安心。
+
+总之，TCL 薄嵌冰箱 T9 是一款 3000 元价位段中非常全能的产品，上面这些功能点后续IT之家也会一一为大家详细介绍。
+
+零距离自由无缝嵌入设计，加上本身超高的颜值，让 TCL 薄嵌冰箱 T9 真正成为一款对一体式家装美感有要求的用户可以放心购买的冰箱产品，而且也是 3000 元价位上为数不多可以闭眼无脑入的冰箱。如果你最近正打算趁着双十一给家里换一台冰箱，或者正在装修，还在考虑选择搭配的家电，那么就可以优先考虑这款 TCL 薄嵌冰箱 T9。
+京东 TCL 超薄零嵌系列 456L 十字四开门冰箱 580mm 超薄嵌入式大容量家用冰箱一级变频底部散热 R456T9-UQ 烟墨蓝券后 3198 元领 300 元券
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitwarden：大多数开发者推崇 Passkey，但相关功能不会取代传统密码的存在]]></title>
+        <id>https://www.ithome.com/0/727/260.htm</id>
+        <link href="https://www.ithome.com/0/727/260.htm"/>
+        <updated>2023-10-24T08:20:50.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，开源密码管理器 Bitwarden 发布了一份开发者调查报告，该报告采访了 600 多名开发者，主要包含身份验证、AI 等网络安全内容。
+报告中显示，大多数开发者（88%）对 Passkey 和“无密码功能”持推崇态度，其中超过三分之二（68%）的开发人员使用 Passkey 来访问工作应用、60% 用于访问个人应用。
+
+▲ 图源 Bitwarden
+IT之家注：Passkey 是由一组密钥组成的登录验证文件，其中的公钥用于注册网站或 App，私钥则是存放在用户设备上，用户注册了 Passkey 之后，即可利用设备上的各种生物识别功能（例如指纹、虹膜）、PIN 码来一键登录各种网站服务。
+除了用户无需记住密码外，Passkey 最主要的益处便是安全性，由于公钥和私钥分开，用户登陆凭据将分别保存在云端和本地，因此黑客更难以获得用户的密码信息。
+不过报告同时显示，虽然开发者们都赞同 Passkey 功能虽然很有价值，但不会取代密码。只有 36% 的开发者认为 Passkey 会取代密码的存在。
+IT之家此前多次报道，包括微软（GitHub）、谷歌、苹果等厂商近来都对 Passkey 相当感兴趣，旗下产品中正逐步铺张 Passkey 功能。
+相关阅读：
+
+《谷歌正积极鼓励用户使用 Passkey 功能，声称登录速度“比输密码快 40%”》
+
+《GitHub 宣布正式推出 Passkey 功能，支持跨平台注册用户凭据》
+
+《苹果 iOS / iPadOS 17 和 macOS Sonoma 开始启用 Passkey 支持》
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCL 双子舱洗烘护集成机 T10 新品上市：4K 价位必选的“国民洗衣机”]]></title>
+        <id>https://www.ithome.com/0/727/243.htm</id>
+        <link href="https://www.ithome.com/0/727/243.htm"/>
+        <updated>2023-10-24T07:40:40.000Z</updated>
+        <summary type="html"><![CDATA[今年 9 月，在主题为“在一起，两相宜”的 2023 年 TCL 洗衣机秋季新品发布会上，TCL 正式推出了 TCL 双子舱洗烘护集成机 T10。如今这款洗烘护集成机已经上市，加上眼下双十一购物季即将到来，诸多福利加持下，这款洗烘护集成机将成为 4000 元价位档不可错过的选项。
+
+说到洗衣机，如今越来越多的消费者对洗衣的要求已经不再停留在基础的清洁层面了，更要求能够对衣服进行烘干、护理等，不损坏衣服原来的布料品质，而且对产品是否美观、使用是否舒心也有更高的要求。而 TCL 双子舱洗烘护集成机 T10，就是为了满足大家这些要求而打造的。
+首先总体来说，作为一款洗烘护集成机，双子舱 T10 具备一体外观设计、一站式洗烘护、一体交互智控三大技术亮点。
+
+先看一体式的外观设计，很多家庭为了满足洗、烘、护的要求，往往会在洗衣机的基础上额外购买烘干机，但是两台机器很占用空间，而且不同的产品放在一起会有割裂感，看起来很不美观。TCL 双子舱 T10 则不会有这个问题，它采用的是无连接件一体结构，整体设计方正，配有 10kg 洗净 + 10kg 烘透的双筒组合，上下一体化的设计看起来很和谐。
+而且在尺寸上，这款洗烘护集成机拥有 555mm 超薄机身，可以刚好嵌入标准柜体，微缝隙安装，比普通嵌入式留缝更窄。同时，双子舱 T10 还拥有集成式水电设计，实现了单一进水、单一排水和单一接电，这样，装修时就无需额外设计管道线路。让大家可以更心无旁骛地追求理想的家装风格。
+特别是如今简洁风、隐藏式的装修理念在年轻用户中非常盛行，双子舱 T10 这种超薄简洁的产品美学、一体化嵌入式的产品设计以及集成式水电的细节考量，都是在最大程度地减少对消费者整体家装设计美感的干扰，能够很自然地融入到居家环境中。带来简洁、美观的居家环境体验。
+
+说完了一体式设计，TCL 双子舱 T10 的另一大卖点，就是一站式洗烘护…]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加 12 / Ace3 手机官宣首发京东方“东方屏”，峰值亮度远超 2600nit]]></title>
+        <id>https://www.ithome.com/0/727/239.htm</id>
+        <link href="https://www.ithome.com/0/727/239.htm"/>
+        <updated>2023-10-24T07:34:52.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 飞呀鱼、软媒新友1933769、風見暉一 的线索投递！
+IT之家 10 月 24 日消息，在今天下午举行的京东方新品发布会上，京东方宣布旗下第一亿片 OLED 屏幕下线，并联合一加、OPPO 带来 X1 显示屏（东方屏）。
+
+▲ 图源官方，下同
+IT之家从发布会获悉，在全球专利储备方面，京东方累计自主申请专利 8 万件，柔性 OLED 专利申请 2.8 万件等。在柔性 OLED 智能手机市场中，国产屏占比逐年攀升，今年已经达到了 45%，其中不仅包含京东方，还包含其他国产屏幕厂商的贡献。
+
+
+一加介绍称，“东方屏”搭载 OPPO 第一代显示芯片 Display P1 + 高精像素级校准算法，带来更优画质、更高亮度、更低功耗。一加 12 已经获得了 DisplayMate A+ 的认证，“东方屏”不仅是国产首个 DisplayMate A+ 的 2K 屏，还刷新了 DisplayMate A+ 的 18 项纪录。
+一加表示，“东方屏”首发多通道降负载技术，并在 Display P1 上加入阳光高亮算法，屏幕驱动性能提升 90%，功耗降低 13%，东方屏最大亮度已远超行业 2K 屏最高的 2600nit。
+使用寿命方面，“东方屏”通过一加和京东方联合研发的多项行业首创的工艺、技术和电路设计，使用寿命达到行业均值的 2 倍以上。
+
+在本次发布会上，一加宣布，一加 12 将全球首发 2K 东方屏，一加 Ace3 全球首发 1.5K 东方屏。以上两款产品的发布日期暂未公布，IT之家也会持续关注并带来最新报道。
+IT之家附东方屏展示图：
+
+
+
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌测试 ChromeOS 新辅助功能：追踪用户面部来操控鼠标键盘]]></title>
+        <id>https://www.ithome.com/0/727/236.htm</id>
+        <link href="https://www.ithome.com/0/727/236.htm"/>
+        <updated>2023-10-24T07:26:38.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，根据网友 @cr_C2cv 分享的最新内容，谷歌计划在 ChromeOS 中引入名为“面部追踪”（Face tracking）功能，开启后可以通过追踪用户面部，来操控鼠标和键盘。
+
+IT之家注：这是一项专门为没有手臂的残障人士设计的辅助功能，谷歌计划在 ChromeOS 120 版本（当前为 117 版本）中上线，目前尚不清楚该功能是否仅限于部分 Chromebook。
+谷歌在 ChromeOS 中已经提供了多项辅助功能，包括实时字幕、高对比度模式、阅读模式、屏幕阅读器等等，而即将引入的面部追踪，有望进一步补充残障人士的交互方式。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯 QQ NT 桌面版 9.9.3.17749 上架微软应用商店]]></title>
+        <id>https://www.ithome.com/0/727/235.htm</id>
+        <link href="https://www.ithome.com/0/727/235.htm"/>
+        <updated>2023-10-24T07:19:27.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 Coje_He、米枫伟、吉茵珂絲、Johnny有点皮、莫失莫忘v、软媒用户1185071 的线索投递！
+IT之家 10 月 24 日消息，腾讯 QQ 近期对桌面客户端进行了大刀阔斧的改革，用上了基于 Electron 框架开发的“NT 架构”，目前相关版本已经上架微软应用商店，版本号为 9.9.3.17749。
+微软应用商店链接：点此跳转
+IT之家从官方更新公告得知，微软商店版 QQ 已经正式升级 NT 架构，号称“核心聊天场景体验更流畅”：
+
+
+与好友聊天，分享图片和表情
+
+全面升级音视频通话界面，支持屏幕共享功能
+
+收发文件，办公助力
+
+支持收发 QQ 超级表情，享受更生动的聊天体验
+
+
+正式上线的 Windows QQ 基于 NT 架构打造了全新的交互界面，UI 设计三端保持一致；消息界面采用了三栏式设计，整体风格更加清爽简约，方便用户查看所需信息；资料设置及资料卡也变得更简洁干净。
+
+（登录界面更新、消息界面三栏式设计）
+新版本支持消息、QQ 空间板块等功能，提升用户在工作、社交、生活等多个场景中的使用体验。语音、视频等通讯功能可一键开启，屏幕共享能力也同步支持。
+
+（聊天界面的群应用、通讯功能、夜间模式）
+腾讯表示。从传统互联网时期扎根本土发展，桌面端 QQ 已经诞生超过 24 年。而旧版的桌面 QQ 采用纯 Native 技术栈开发，多年迭代以来，新旧的功能逻辑十分复杂，代码量非常庞大。出于对开发效率的考虑，新版 QQ 在技术选型及重构决策上，选用了一套标准化的框架来进行全面的架构升级，即 QQ NT 架构。跨平台的复用方案能够确保 Windows / Mac / Linux 三个桌面端快速、高质量的迭代，实现一套代码多端运行，多平台体验统一，满足各桌面用户的需求。
+
+（QQNT 架构）
+相关阅读：
+
+《腾讯 QQ NT 桌面版内存优化阶段进展公布，核心聊天场景控制在 300M 以内》
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo Y100 手机预热：vivo 史上最轻薄 5000mAh 手机]]></title>
+        <id>https://www.ithome.com/0/727/217.htm</id>
+        <link href="https://www.ithome.com/0/727/217.htm"/>
+        <updated>2023-10-24T07:07:13.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，vivo 将于 10 月 27 日 14:30 发布 vivo Y100 5G 手机，今天官方对新机进行了一些预热，公布了部分参数信息。
+据 vivo 称，vivo Y100 5G 是 vivo 史上最轻薄 5000mAh 手机，号称拥有旗舰设计，采用琉璃质感工艺，源于东方美学，新肖特屏幕材质防刮耐磨。海报还显示，vivo Y100 5G 机身厚度仅 7.49mm，采用 6.78 英寸 OLED 居中单孔曲面屏，后置双摄，3D 曲面玻璃设计。
+
+
+
+vivo 产品副总裁欧阳伟峰曾表示，“vivo Y100 是 Y 系列十二年来首次线上产品发布会，体现了我们对这款产品的信心与决心。”他还提到，“vivo Y100 的发布是 Y 系列的全新起点，未来的 Y 系列将持续打造越级标杆，力争成为国民信赖的百分产品。”更多详细信息，IT之家将保持关注。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避免重要文件泄露，谷歌已停用安卓工作资料中的“附近分享”功能]]></title>
+        <id>https://www.ithome.com/0/727/215.htm</id>
+        <link href="https://www.ithome.com/0/727/215.htm"/>
+        <updated>2023-10-24T06:54:26.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，安卓的附近分享（Nearby Share）相当于苹果设备上的 AirDrop，可帮助用户在各种设备之间互相传输图片和文件。
+不过，这一功能如果用不好，往往就会造成一些严重损失，例如不小心将公司机密文件分享出去。谷歌已经发现了这个问题，并停用了工作资料中的“附近分享”功能。
+
+简单来说，现在当 Android 用户启用工作配置文件时，系统就会阻止用户使用附近分享功能。IT之家注意到，谷歌还进行了其他调整，例如通过“附近分享”功能收到的内容会存储在“新位置”。
+谷歌没有解释为什么要移除这一特性，但 Android Police 猜测这可能是出于数据安全考虑。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米 14 手机官方渲染图放出，采用经典立边与巴黎饰钉纹理设计]]></title>
+        <id>https://www.ithome.com/0/727/197.htm</id>
+        <link href="https://www.ithome.com/0/727/197.htm"/>
+        <updated>2023-10-24T06:14:23.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 StarDevOps、風見暉一、AN_SIR、四十九日告别、SpaceZ、和泉紗雾、铺路公司、Zrim_Young 的线索投递！
+IT之家 10 月 24 日消息，小米 14 系列手机将于 10 月 26 日晚 7 点正式发布，届时澎湃 OS 也将首次亮相，今天官方放出了新机的渲染图。
+官方已确认小米 14 系列至少包含小米 14 和小米 14 Pro 两款手机，刚刚小米放出了小米 14 的渲染图。官方称，小米 14 采用 6.36 英寸小尺寸直屏，拥有超窄边框，采用经典立边与巴黎饰钉纹理设计。
+
+
+
+
+此外，雷军还发微博介绍了小米 14 的一个设计细节：顶部完全无孔。雷军称：“我们工程团队把红外藏到背部相机区域；扬声器开孔，改为微缝式隐藏设计；顶部麦克风藏到了听筒区。这个设计还是很讲究吧？”
+
+另外，小米手机产品经理 @Cici_老魏 还公布了小米 14 的边框尺寸，称其几乎达到极窄四等宽设计，三边 1.61mm，下巴继续收窄到 1.71mm，甚至比 iPhone 15 Pro 还要窄。
+
+根据小米官方今天早些时候放出的图片，小米 14 Pro 和小米 14 外观设计类似，只是尺寸更大一些。
+
+综合目前官方公布的消息，小米 14 搭载徕卡光学 Summilux 镜头、小米影像传感器品牌“光影猎人”，两者的组合让小米 14 的进光量实现了跨越式的升级，是上一代小米 13 的 1.8 倍，也是 iPhone 15 Pro 的 1.2 倍，具体可见雷军下面的介绍。
+
+预计接下来几天，小米将公布小米 14 系列和澎湃 OS 大量信息，IT之家将保持关注。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO A79 5G 手机曝光：天玑 6020 处理器 + 6.72 英寸 LCD 屏幕]]></title>
+        <id>https://www.ithome.com/0/727/185.htm</id>
+        <link href="https://www.ithome.com/0/727/185.htm"/>
+        <updated>2023-10-24T05:28:36.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，OPPO 于今年 1 月发布了 A78 5G 手机，时隔 10 个月，关于该机继任者的渲染图和规格在网络上曝光。
+
+消息称该机上市后叫作 OPPO A79 5G，近期已经通过了多个国家监管机构的认证。
+从目前曝光的渲染图显示，OPPO A79 5G 将采用 6.72 英寸 LCD 面板，中央打孔。
+该显示屏拥有 1080 x 2400 像素的 FHD+ 分辨率、90Hz 刷新率、680 尼特的峰值亮度、91.4% 的屏占比、1400:1 的对比度和 96% NTSC 色域。
+规格方面，这款手机将搭载联发科天玑 6020 处理器。它将配备 8GB RAM 和 128GB 内部存储。此外，它还支持最高 8GB 的虚拟内存扩展，并提供 4GB、6GB 和 8GB 级别的扩展选项。该手机还配备存储卡插槽，可将存储空间扩展至 1TB。
+相机方面，该机主摄为 5000 万像素三星 JN1 5P 镜头，具有 f / 1.8 光圈和 77° 视野；辅助镜头将是 2MP Portrait OmniVision OVO2B1B 3P 镜头，具有 f / 2.4 光圈和 89° 视场；机身正面配备 800 万像素 OmniVision OVO8D 4P 镜头，具有 f / 2.0 光圈和 80° 视野。
+OPPO A79 将配备 5000mAh 电池，通过 USB-C 端口支持 33W SUPERVOOC 充电技术，74 分钟即可充满电。该设备将运行基于 Android 13 操作系统的 ColorOS 13.1，并具有屏幕翻译、自动像素化、照片信息和隐私保护等功能。它还具有双立体声扬声器设置和超大音量模式。
+物理尺寸方面，该机厚度为 7.99 毫米，重量为 193 克。它将附带 36 个月的流畅保护认证。该手机将有发光绿和神秘黑两种颜色可供选择，并展示了 OPPO 称之为“Glowing Feather Design”的新背部设计。IT之家在此附上爆料图片如下：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果 iPhone 15 全系电商价格大跳水，更抗跌的 Pro 系列也降价千元]]></title>
+        <id>https://www.ithome.com/0/727/182.htm</id>
+        <link href="https://www.ithome.com/0/727/182.htm"/>
+        <updated>2023-10-24T04:51:13.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 残月浅影、肖战割割、佳宜、石原里美幸福 的线索投递！
+IT之家 10 月 24 日消息，10 月 23 日，#iPhone 15 全系价格暴跌#冲上热搜第一。据界面新闻报道，iPhone 15 全系电商价格大跳水。
+
+据报道，当前 iPhone 15/15 Plus 的 128GB 版本在个别电商平台上售价在 5198 元和 6098 元，而其官网定价分别为 5999 元和 6999 元，跌价超过 800 元。同时，两个系列 256GB 版本的渠道价差也普遍在 800 元至 1000 元左右。
+此外，平时更为抗跌的两款 Pro 机型也没有好到哪里去。iPhone 15 Pro 256GB 版本在电商平台原色钛金属版本售价 8398 元，蓝色钛金属版本 7998 元，白色钛金属 8598 元，而官方定价 8999 元。此外，同样是钛金属原色 iPhone 15 Pro 1T 版本，官网售价 12999 元，第三方渠道售价仅为 11798 元，差价达到 1200 元。与此同时，iPhone 15 Pro Max 的 256G 版本，普遍售价在 9098 元至 9498 元不等，其官方售价为 9999 元，价差最高达 900 元。其 512GB 和 1T 版本价差也处于 600 元至 1200 元区间。
+IT之家注意到，彭博社分析师此前称，苹果最新款的 iPhone15 系列手机在中国的销售情况并不理想。市场研究机构数据显示，iPhone15 系列在中国首发 17 天的销量较前代下降了 4.5%。
+与之对比的是，华为凭借 Mate 60 系列新机增长势头迅猛。中信建投近日研报指出，华为是 9 月以来增长势头最强的厂商，8 月 29 日“先锋计划”发布 Mate 60 系列新机后，华为手机销量迎来快速增长，近四周 (W37-W40) 的同比增速分别达到 91%、46%、83% 和 95%。华为手机的销量份额也由 Mate60 系列发布前的 10% 左右增长至 W40 的 19.4%，位居市场第一。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加 Ace 2 Pro 手机开启 ColorOS 14 x 安卓 14 公测版本招募]]></title>
+        <id>https://www.ithome.com/0/727/159.htm</id>
+        <link href="https://www.ithome.com/0/727/159.htm"/>
+        <updated>2023-10-24T04:09:47.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 牛吃糖不吃草 的线索投递！
+IT之家 10 月 24 日消息，OPPO 今日宣布，一加 Ace 2 Pro、一加 Ace 2 Pro 原神定制版现已开启 ColorOS 14 x 安卓 14 升级公测版本招募，报名时间为 10 月 24 日到 10 月 25 日。
+
+▲ 图源官方，下同
+IT之家附申请方式如下：
+
+请确保手机版本已经升级到基础版：一加 Ace 2 Pro / 一加 Ace 2 Pro 原神定制版 —— 13.1.1.408、13.1.1.411。（版本号查看方法：设置 > 关于本机 > 版本信息 > 版本号）；
+
+在手机上点击 "设置 > 关于本机 > 顶部版本信息（手机名称上方） > 右上角设置按钮 > 尝鲜申请 > 升级公测"，然后按照提示进行申请；
+
+提交申请后，工作人员将在招募结束后 5 个工作日内分批进行审核，公测版本将在审核完成后分批进行推送，审核结果将以手机的尝鲜申请界面显示为准。
+
+
+需要注意的是，一加官方表示当前有较多常用三方应用与安卓 14 不兼容，升级安卓 14 后可能会出现第三方应用无法正常使用的情况（如闪退、卡顿、黑屏、耗电等），建议用户先在软件商店尝试将该应用更新至最新版本。
+此外，升级内测 nolog 版本用户不需要额外报名公测活动，可通过系统推送版本的方式直接升级到公测版。内测 log 版的测试周期为 4~6 月不等，测试结束后会统一推送正式版，中途不会推送公测版。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科大讯飞联合华为打造算力底座“飞星一号”，讯飞星火明年上半年全面对标 GPT-4]]></title>
+        <id>https://www.ithome.com/0/727/158.htm</id>
+        <link href="https://www.ithome.com/0/727/158.htm"/>
+        <updated>2023-10-24T04:09:05.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，科大讯飞董事长刘庆峰在 2023 全球 1024 开发者节上宣布，公司已联合华为打造基于昇腾生态的自主可控大模型算力底座“飞星一号”平台，在此基础上，讯飞星火大模型将开启对标 GPT-4 的更大规模训练。
+据刘庆峰透露，科大讯飞在被美国制裁时他第一时间去拜访了徐直军，并获得了长者任正非的指点；双方组建了“飞星一号”平台的攻关团队，放弃了中秋等节日的休息加班加点地推出了新平台，很庆幸中国能出现华为这样伟大的公司。
+华为轮值董事长徐直军表示，科大讯飞敢于对标 ChatGPT 并超越，让人对中国大模型时代快速发展的未来充满信心；今天发布的基于昇腾生态的“飞星一号”平台，让星火的训练效果翻番；徐直军称，风雨同舟者兴，众志成城者赢。徐直军还称，科大讯飞是人工智能的开拓者，把智能语音识别技术做到全球领先。据他介绍，目前华为公司在全球所有使用的智能终端的语音技术，都是来自于科大讯飞，而且不仅仅是中文。
+不过，刘庆峰表示，相对于万亿参数的 GPT4，目前所有大模型与之相比都仍有差距，大家要正视与 GPT4 的差距，需要从复杂知识推理、小样本快速学习等方面进行加强。大模型之战绝对是一场硬仗，绝不是靠吹牛能做成的，只有实事求是的精神才能真正实现超越。
+
+
+IT之家注意到，刘庆峰现场表示，在 2024 年上半年，讯飞星火 4.0 发布将全面对标 GPT-4，而且绝不仅仅是一个简单的技术对标问题，而是要走出自己的技术路线，走出自己的产业方向。
+相关阅读：
+《科大讯飞发布星火认知大模型 V3.0，号称综合能力已超 ChatGPT》
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上市价 399 元：米家智能鱼缸 319 元大促新低，支持半年免换水、远程投喂]]></title>
+        <id>https://www.ithome.com/0/727/155.htm</id>
+        <link href="https://www.ithome.com/0/727/155.htm"/>
+        <updated>2023-10-24T03:57:35.000Z</updated>
+        <summary type="html"><![CDATA[米家智能鱼缸 于 2023 年 3 月正式上架电商，上市零售价为 399 元。
+今日京东自营 11.11 大促直降，叠加下方多重优惠仅需 319 元就能包邮带走。
+
+下单领取满 299 减 10 元券：点此领取。
+
+叠加满 200-20 元补贴券：点此领取。
+
+晒单返 20 元京豆，折合到手价为 319 元。
+
+京东米家 智能鱼缸超白玻璃多重优惠后 319 元直达链接
+另外，还可抽 3 次京东无门槛红包，支持即领即用，结算省上加省：点此抽取。
+
+据介绍，米家智能鱼缸产品尺寸为 446mm×246mm×295mm，净重 7.3kg，额定功率 23W，拥有 5 重专业级背滤系统，支持半年免换水，采用一体化整机集成、超白玻璃、超薄水泵，开箱即用，可一键排水，支持全色域灯光。
+整体来看，米家智能鱼缸的最大容量为 20L，5-6cm 尺寸的成体鱼建议养 10-15 条，6-8cm 尺寸的成体鱼建议养 6-9 条，8-12cm 的成体鱼建议养 3-5 条。（IT之家提醒：小米称由于鱼的品种不同，对水质环境、养殖方法、温度、生活习性、喂食方法等不同，不建议同缸混养体型差异较大的鱼体。）
+针对“米家智能鱼缸适合养什么鱼”的问题，小米表示，新手养殖建议斑马、灯科鱼、孔雀鱼、玛丽、彩裙、珍珠鱼、红剑鱼等易存活的鱼类。
+
+米家智能鱼缸采用一体化整机集成，到家装水即可养鱼，包括水泵、灯光、喂食器、缸体、过滤系统、温感探头。这款智能鱼缸拥有 5 重专业级分仓模块背滤系统，搭配自清洁专利防堵水泵，减少换水频率。
+
+这款智能鱼缸配备了 24 颗高显色指数（Ra>90）LED 白光灯珠搭配 16 颗全色域 RGB 灯珠，均匀分布，带来接近太阳光的显色度与阳光变幻的生态效果。
+此外，米家智能鱼缸还采用了金晶五线超白 UHA 级玻璃，拥有 91.3% 超高透光率，搭配专利智能食仓，支持远程投食，用户可通过米家 App 实现远程投喂、监控、提醒，也可以控制灯效和水流。
+
+今日京东自营 11.11 大促直降，叠加下方多重优惠仅需 319 元就能包邮带走。
+
+下单领取满 299 减 10 元券（点此领取）。
+
+叠加满 200-20 元补贴券：点此领取。
+
+晒单返 20 元京豆，折合到手价为 319 元。
+
+京东米家 智能鱼缸超白玻璃多重优惠后 319 元直达链接
+抽 3 次京东无门槛红包，支持即领即用，结算省上加省：点此抽取。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。
+【广告】]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携程：将进一步完善问答大模型，生成式 AI 融入各项产品]]></title>
+        <id>https://www.ithome.com/0/727/154.htm</id>
+        <link href="https://www.ithome.com/0/727/154.htm"/>
+        <updated>2023-10-24T03:52:42.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，据华尔街见闻报道，携程全球合作伙伴峰会今日在新加坡召开，携程集团联合创始人、董事局主席梁建章宣布了生成式 AI、内容榜单、ESG 低碳酒店标准三重创新的战略方向。
+据介绍，AI 方面，携程进一步完善携程问答大模型，将生成式 AI 融入各项产品，基于自然语言的交互界面，提高用户体验，帮助商家降本增效；内容方面，携程将基于“每张榜单平均 500 万次的数据运算和人工校验”，打造旅游行业“可靠答案库”；ESG 方面推出可量化低碳酒店标准，全面推进环境友好、家庭友好、社区友好等。
+据证券时报报道，携程与新加坡旅游局再次签署为期三年战略合作，联合启动全球市场合作升级计划。双方将在中国境内围绕新加坡热点节庆、艺术文化等开展合作，在国际市场，进一步推动 Trip.com 海外多个站点与新加坡旅游局的合作。
+
+▲ 图源携程官方
+IT之家注意到，携程今年 7 月发布旅游行业首个垂直大模型“携程问道”。据介绍，在大模型的基础上，“携程问道”可根据用户提出的想法，从地域、主题特色等维度，推荐旅行目的地、酒店、景点、行程规划和实时优惠的选项；在用户需求相对明确时，提供智能查询结果，用户可用文字和语音以自然语言长句的形式进行复杂条件的机票和酒店产品的查询。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携程：将进一步完善问答大模型，生成式 AI 融入各项产品]]></title>
+        <id>https://www.ithome.com/0/727/154.htm</id>
+        <link href="https://www.ithome.com/0/727/154.htm"/>
+        <updated>2023-10-24T03:52:42.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，据华尔街见闻报道，携程全球合作伙伴峰会今日在新加坡召开，携程集团联合创始人、董事局主席梁建章宣布了生成式 AI、内容榜单、ESG 低碳酒店标准三重创新的战略方向。
+据介绍，AI 方面，携程进一步完善携程问答大模型，将生成式 AI 融入各项产品，基于自然语言的交互界面，提高用户体验，帮助商家降本增效；内容方面，携程将基于“每张榜单平均 500 万次的数据运算和人工校验”，打造旅游行业“可靠答案库”；ESG 方面推出可量化低碳酒店标准，全面推进环境友好、家庭友好、社区友好等。
+据证券时报报道，携程与新加坡旅游局再次签署为期三年战略合作，联合启动全球市场合作升级计划。双方将在中国境内围绕新加坡热点节庆、艺术文化等开展合作，在国际市场，进一步推动 Trip.com 海外多个站点与新加坡旅游局的合作。
+
+▲ 图源携程官方
+IT之家注意到，携程今年 7 月发布旅游行业首个垂直大模型“携程问道”。据介绍，在大模型的基础上，“携程问道”可根据用户提出的想法，从地域、主题特色等维度，推荐旅行目的地、酒店、景点、行程规划和实时优惠的选项；在用户需求相对明确时，提供智能查询结果，用户可用文字和语音以自然语言长句的形式进行复杂条件的机票和酒店产品的查询。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Password 发布公告：并未受到 Okta 泄露事件影响]]></title>
+        <id>https://www.ithome.com/0/727/148.htm</id>
+        <link href="https://www.ithome.com/0/727/148.htm"/>
+        <updated>2023-10-24T03:34:53.000Z</updated>
+        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，密码托管服务 1Password 今天发布公告，表示在深入调查之后得出初步结论：无论是员工和用户，均没有受到 Okta 泄露事件的影响。
+
+国际身份软件巨头 Okta 的客户支持系统近日遭到黑客攻击，攻击者使用窃取的凭证入侵其支持管理系统，访问了包含客户上传的 Cookie 和会话令牌的文件。
+Okta 尚未提供此次入侵泄露或访问的受影响客户信息。不过，此次攻击中被入侵的支持案例管理系统也存储了 HTTP 存档（HAR）文件，这些文件用于复制用户或管理员错误，从而排除用户报告的各种问题。
+Okta 在支持管理系统门户网站上解释：“HAR 文件记录了浏览器活动，可能包含敏感数据，包括访问的页面内容、Header、Cookie 等数据。”
+而由于用户可以通过 Okta 单点登录（SSO）的方式进入 1Password，因此今天 1Password 发布简短声明，表示并未受到影响。
+IT之家在此翻译部分内容如下：
+
+我们于 9 月 29 日，用于管理面向员工的应用程序的 Okta 实例上检测到可疑活动。
+我们立即终止了该活动，调查后发现用户数据或其他敏感系统（无论是面向员工还是面向用户）都没有受到损害。
+
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魅族完成统一推送标准适配]]></title>
+        <id>https://www.ithome.com/0/727/147.htm</id>
+        <link href="https://www.ithome.com/0/727/147.htm"/>
+        <updated>2023-10-24T03:31:38.000Z</updated>
+        <summary type="html"><![CDATA[感谢IT之家网友 zxmqq135、桐谷柯南、Khalil、天下行走、Moooooli 的线索投递！
+IT之家 10 月 24 日消息，IT之家从统一推送工委会官方公众号获悉，近日，统一推送工委会已收到魅族手机的测试申请，按照工委会标准《T-UPA0002-2019 统一推送接口层规范》对相关手机系统级推送服务进行测试。经过测试，魅族品牌手机系统推送服务已经符合了统一推送的各项技术要求。
+
+统一推送服务覆盖品牌
+本次魅族的系统消息推送服务将在 Android6 及以上版本且 Flyme6 及以上系统的魅族手机上支持。未来，魅族手机将进一步和统一推送工委会合作，在推送服务上持续为用户打造更好的体验。
+根据官方公布的统一推送服务覆盖品牌图片显示，截至 10 月 23 日，统一推送服务覆盖品牌已包括华为、荣耀、OPPO、realme、一加、中兴、三星、vivo、iQOO、小米、Redmi、锤子、华硕 ROG、联想、拯救者、努比亚、魅族。
+广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
+        <author>
+            <name>IT之家</name>
         </author>
     </entry>
     <entry>
@@ -100,52 +2176,6 @@ Stankey 还指出，“绝大多数”购买 iPhone 15 的用户都选择了 AT&
 广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
         <author>
             <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称英伟达、AMD 将制造基于 ARM 的 PC 芯片，挑战英特尔和苹果]]></title>
-        <id>https://www.ithome.com/0/727/080.htm</id>
-        <link href="https://www.ithome.com/0/727/080.htm"/>
-        <updated>2023-10-23T22:44:35.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 乌蝇哥的左手 的线索投递！
-IT之家 10 月 24 日消息，据路透社报道，人工智能芯片巨头英伟达已经开始设计能够运行微软 Windows 操作系统的中央处理器（CPU），并使用 Arm 公司的技术。消息人士透露，AMD 也计划制造基于 Arm 的 PC 芯片。这些芯片预计将在 2025 年左右上市。
-
-英伟达和 AMD 的举动是微软推动芯片公司为 Windows PC 开发基于 Arm 的处理器的一部分。微软的目标是挑战苹果，后者自主开发了基于 Arm 的芯片，并在过去三年内将其 Mac 电脑的市场份额提高了近一倍。
-这意味着英伟达和 AMD 将加入高通公司的行列，高通公司自 2016 年以来一直在为笔记本电脑生产基于 Arm 的芯片。英伟达、AMD 和高通可能会撼动英特尔长期主导的个人电脑行业，但该行业正面临着来自苹果的越来越大的压力。
-Arm 公司是一家英国芯片设计公司，其技术长期以来被用于智能手机等低功耗设备。Arm 的芯片具有更好的电池续航和性能，但与 Intel 和 AMD 使用的 x86 架构不兼容，这给软件开发带来了挑战。
-微软已经在 2016 年与高通合作，将 Windows 操作系统移植到 Arm 的架构上。消息人士称，微软给高通一个独家协议，直到 2024 年才允许其他公司进入市场。微软还鼓励芯片厂商在设计 CPU 时加入先进的人工智能功能，以提升 Windows 软件的表现。
-财务和战略咨询公司 D2D Advisory 首席执行官杰伊・戈德伯格 (Jay Goldberg) 表示：“微软从 90 年代学到，他们不想再次依赖英特尔，他们不想依赖单一供应商。如果 Arm 真的在 PC（芯片）领域起飞，他们永远不会让高通成为唯一供应商。”
-英伟达、AMD、高通和微软均拒绝对此事发表评论，英特尔则没有回应。
-IT之家注意到，英伟达股价收盘上涨 3.84%，英特尔股价收盘下跌 3.06%，Arm 股价收盘上涨 4.89%。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Vue.js] vue3: 请教下 nested json config 怎么制作 reactive 前端 UI 呢？]]></title>
-        <id>https://www.v2ex.com/t/984718#reply0</id>
-        <link href="https://www.v2ex.com/t/984718#reply0"/>
-        <updated>2023-10-23T22:43:35.000Z</updated>
-        <summary type="html"><![CDATA[用的工具是 element plus 作为前端 UI 库，pinia 作为 store 。
-如果是简单的一对一的 form ，用 vue 写起来很简单。但是遇到 nested 的 config 就力不从心了。请注意，这个 nested 是 dynamic 的，本质上属于一个 tree 。
-举一个例子，就是男女相亲大聚会，参与者可以选择 A 类型桌："男 A 女免"，B 类型桌："女 A 男免"，C 类型桌："所有人 AA"。当然了，每种类型的桌意味着不同的游戏和酒水，也是各自 config 的一部分。除此之外，这些桌可以选择不同的包间，比如两张 A 桌共享包间 888 ， 一张 A 桌一张 B 桌共享包间 666 。因为是 nested ，我们还要允许小包间里再加小包间。
-我最后要作为经理去计算每个人的收费。比如总花费 10000 元，我要按照比例计算每个人的收费。
-                            聚会 10000
-             /                  ｜              \
-           包间 666(20%)    包间 888(20%)          包间 618(60%)
-            ｜                  ｜                  /        \
-       A 桌(大壮，小红...)   B 桌（杰克，肉丝...） 包间 618-1(60%)    包间 618-2(40%)
-                                                 /    \     /    \
-                                                A     B    B      B
-                                                
-我目前的方案没有用到 store ，直接是 v-model 然后通过 props 和 emit 来传递，但是层层传递显得非常复杂，而且我在各种 A 桌模块，B 桌模块，包间模块里写了一些逻辑来初始化 UI ，散乱不好打理。从头开始创建 config 很简单，但是我现在如果保存了 config ，再载入，我不确定是否能完美复现 UI 。
-所以现在想要用 store 来作为数据中心，写个 class 来处理逻辑操作，而 vue 文件就管显示和与 store 的数据交互。一个 config json 确定一个 UI state 。
-但是层层叠叠的数据，想要 reactive 挺难的，现在想着 flatten 成键值对，然后通过逻辑代码来操作真正的数据。但是怎么想都想不通。
-
-后端写前端，说多了都是泪，有没有大侠帮忙看看？谢谢了]]></summary>
-        <author>
-            <name>V2EX</name>
         </author>
     </entry>
     <entry>
@@ -185,1049 +2215,6 @@ IT之家注：目前 LG Display 正在量产的 OLED 以及未来供应给苹果
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[郭明錤预估苹果明年斥资 47.5 亿美元采购 2 万台 AI 服务器]]></title>
-        <id>https://www.ithome.com/0/727/077.htm</id>
-        <link href="https://www.ithome.com/0/727/077.htm"/>
-        <updated>2023-10-23T22:19:27.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，郭明錤近日发布市场研究简报，表示预估 2023 年将采购 2000-3000 台，在全球 AI 服务器出货量中占比为 1.3%；2024 年将采购 1.8 万-2 万台 AI 服务器，占比达到 5%。
-
-郭明錤认为苹果采购的 AI 服务器主要为最常见、用于训练和推理生成式 AI 的英伟达 HGX H100 8-GPU，明年第 4 季度的采购芯片会加入 B100。
-H100 一片以 25 万美元（当前约 183 万元人民币）的价格进行计算，预估苹果 2023 年在 AI 服务器上的采购成本为 6.2 亿美元（IT之家备注：当前约 45.38 亿元人民币），明年预估会达到 47.5 亿美元（当前约 347.7 亿元人民币）。
-IT之家在此附上郭明錤研究简报的其它信息如下：
-
-但即便是 2024 年 Nvidia AI 芯片供应较为缓解，Apple 采购的 AI 伺服器数量仍低于其他竞争对手。以 Meta 为例，仅 2024 年采购的 AI 伺服器数量约为 4 万台。更不要说 Meta 在 2024 年前拥有的 AI 伺服器数量就已经远高于 Apple。
-
-假设 Apple 不提供类似云端虚拟主机的服务 (Cloud hosting service)，故不适合拿 Microsoft (2024 年 AI 伺服器采购量约 8–10 万台) 与 Apple 比较。
-
-我相信 Apple 在训练其 AI 大型语言模型时，基于安全性、隐私与设计弹性考量，应该会较偏好用自行采购与建置 AI 伺服器，而非用其他云端服务商提供的虚拟主机服务。
-
-Apple 的 AI 基础建设算力低于主要竞争对手，若要赶上竞争对手则必须具备更优异的软件开发能力。
-
-以上均不计算其他费用 (人力成本、基础建设营运费用等)。故合理推估 Apple 需要每年至少投资数十亿美元才有机会追赶竞争对手。如果 Apple 真的打算只愿意每年花 10 亿美元用于开发生成式 AI，我的研究错了不要紧，但我真的很为 Apple 的生成式 AI 事业 / 服务前景担心。
-
-我知道一定会有人说 Apple 可以自行开发 AI 伺服器芯片以节省 AI 伺服器采购费用。我也同意这是一个值得注意的趋势，但是目前此事仍没能见度。
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享创造] 全新的 Demo, 详细介绍 NeuralRad 平台采用 Rust 和 WebAssembly 实现的功能]]></title>
-        <id>https://www.v2ex.com/t/984717#reply0</id>
-        <link href="https://www.v2ex.com/t/984717#reply0"/>
-        <updated>2023-10-23T21:44:11.000Z</updated>
-        <summary type="html"><![CDATA[NeuralRad Brain 平台是当前最先进的应用于脑部立体定向放疗的平台工具，已在北美的五家医院采用. 这个平台集成了很多 AI 应用于放疗的技术，包括自动分割，自动计划，自动随访和自动的疗效预测. 这个 Demo 展示了部分的功能:
-
-
-&t=2s]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 有没有一款 pdf 图像文本识别定位阅读器？]]></title>
-        <id>https://www.v2ex.com/t/984716#reply1</id>
-        <link href="https://www.v2ex.com/t/984716#reply1"/>
-        <updated>2023-10-23T19:59:09.000Z</updated>
-        <summary type="html"><![CDATA[将一些 pdf 拖到软件中，它会自动识别里面的文字位置信息，我们搜索就会显示出来哪些 pdf 里面有我们要搜索的那些内容，点击就会自动跳到目标 pdf 中的那一页。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[云修电脑] 笔记本电脑键盘疑似短路，按压左下角触发 F11，有办法解决吗？]]></title>
-        <id>https://www.v2ex.com/t/984714#reply2</id>
-        <link href="https://www.v2ex.com/t/984714#reply2"/>
-        <updated>2023-10-23T19:28:20.000Z</updated>
-        <summary type="html"><![CDATA[拯救者 R7000 ，用了 3 年了。最近发现左右按压在 C 面左下角（也就是触摸板左侧）的时候，会触发 F11 键的功能。
-在浏览器界面的时候按压左下角效果就是浏览器无限 [全屏-退出全屏] 的循环。
-这个有什么解决办法吗]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Java] Java 后端开发可以推荐一本进阶的书吗？]]></title>
-        <id>https://www.v2ex.com/t/984713#reply3</id>
-        <link href="https://www.v2ex.com/t/984713#reply3"/>
-        <updated>2023-10-23T19:18:48.000Z</updated>
-        <summary type="html"><![CDATA[我目前的水平就是一个普通的 Spring 框架和 MyBatis 框架使用者，目前是单机服务开发者（非微服务），希望可以进阶一些。
-主要是希望自己更扎实以及对目前流行的分布式服务有所熟悉。希望那本书更多的体现一种通透的思想。先行谢谢各位了。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[职场话题] 关于 360 天擎的功能，还有摸鱼方法？]]></title>
-        <id>https://www.v2ex.com/t/984712#reply6</id>
-        <link href="https://www.v2ex.com/t/984712#reply6"/>
-        <updated>2023-10-23T18:29:50.000Z</updated>
-        <summary type="html"><![CDATA[新入职了一家国企，带了自己电脑办公（因为 hr 说公司电脑很老，建议自己带电脑，一个月补 300 ），结果第一天就强制安装了 360 天擎，不用工号登录就没法上网。之前没接触过这类软件，也没提前做准备，反正是装上了。。
-回家后查了一下功能，主要在意这两点
-1.管理员可以无感知远控或者查看屏幕，截屏/录屏
-2.流量监控，我理解就是能知道用了什么软件，上了什么网站，但是微信/qq 这类聊天软件无法获取聊天内容？
-v 友们有什么解决办法吗？目前想到的是主系统卸载天擎（查了下似乎有卸载方法，但是管理员会知道），然后装到虚拟机桥接上网，还有就是主机装双系统，纯净系统连接手机热点，但这样会导致装了天擎的系统长时间离线，也会被发现摸鱼。。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Adobe] 简直离谱]]></title>
-        <id>https://www.v2ex.com/t/984711#reply5</id>
-        <link href="https://www.v2ex.com/t/984711#reply5"/>
-        <updated>2023-10-23T17:58:24.000Z</updated>
-        <summary type="html"><![CDATA[我这个月转正了 因为想玩玩 Adobe Photoshop Beta 那个填图，还有说我在用盗版的弹窗很烦，改风景的话试多几次效果还行，人就不行了，会变成一坨，这不是重点，重点是我转正之后 Pr / ME 没办法导出视频，要么说 "Frame substitution recursion attempt aborting after multiple attempts on" 要么说 "Unable to install "AdobeInstalledCodecsTier2""
-我尝试了很多方案，重装降级清缓存，什么都试过，结果我找到一个相关视频，把 Adobe 相关文件夹加入 Windows Defender 的白名单，我当下就想骂人了，毫秒级打开火绒日志查看什么拦截都没有，我还是决定临时禁用了火绒的 HIPS 。结果不出我所料， ME 导出预览都恢复正常，我这下真不知道该说什么好，之前用的盗版都没有这个问题，我知道这有一部分是火绒的锅，真的气死了，不知道该说什么，只想上来小白书吐槽一下。
-前不久 Adobe 开始弹窗给盗版用户，通过屏蔽 Adobe 的部分 DNS 可以解决，之前也是这么用过来的，而剩下唯一转正的原因就是 Adobe Photoshop Beta 的 AI 绘图，效果不怎么好，也不怎么用，正版还一堆 Creative Cloud 的 Background Processes ， 评论区给一个建议，留在正版还是用回盗版，这周末最高赞的我会 implement ，如果留在正版，可以一年后叫我发 subscribe since 截图，如果转回盗版，you get it, will do, no reply 。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[求职] 承接 UI 设计 and 响应前端]]></title>
-        <id>https://www.v2ex.com/t/984710#reply0</id>
-        <link href="https://www.v2ex.com/t/984710#reply0"/>
-        <updated>2023-10-23T17:27:03.000Z</updated>
-        <summary type="html"><![CDATA[擅长：
-pc 端的----商城、交互、门户、及其他大型平台、系统量身定制 UI 设计、手机 wap 、app  （ 只设计）
-技术：
-photo 、div+css(CSS 手写)，JS 特效、html 、Jquery 、d3.js
-这是我的部分作品：
-https://www.zcool.com.cn/u/521379 
-上线案例：
-http://www.zefeigc.com 
-https://www.aiznx.com
-https://payment.chainpaygo.com/ 
-https://nexa.land/
-https://transformer.knn3.xyz/homepage
-VX :191400619]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[宽带症候群] 装修网线踩坑]]></title>
-        <id>https://www.v2ex.com/t/984708#reply4</id>
-        <link href="https://www.v2ex.com/t/984708#reply4"/>
-        <updated>2023-10-23T16:48:30.000Z</updated>
-        <summary type="html"><![CDATA[家里是自装，朋友介绍的水电工，水电改造开始前跟电工千叮万嘱要用超六类。结果前几天拉完线一问，用的是一个叫“安普云贵川”的线，他还信誓旦旦跟我说就是超六类。今天去现场剪了一段回来，用千分尺一量，铜芯还没达到超五类线的标准（仅仅 0.4mm ！）
-还好现在还来得及改。
-得到的教训是：水电改造一定要盯紧了！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[服务器] 自己的服务器被打，想知道国内 DDoS 的发起成本]]></title>
-        <id>https://www.v2ex.com/t/984707#reply3</id>
-        <link href="https://www.v2ex.com/t/984707#reply3"/>
-        <updated>2023-10-23T16:47:05.000Z</updated>
-        <summary type="html"><![CDATA[服务器最开始在腾讯云，打 20G 就趴下了。后来找了小厂的宿迁云 100G 防护也被打趴下了。
-想知道国内打国内的成本到底是多少，不会真的是约等于 0 的吧。我知道国外打国外的随随便便就可以了，之前接过 cf ，随随便便 500G+，是真的恐怖。
-然后国内的话，比如问问打 20G 5 分钟，100G 5 分钟，200 ，300 ，500 这种是不是都没啥成本的？
-现在没有防护的被打直接黑洞，也是头大的。目前只想了解成本，解决的话，再说。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 除了 claude 还有哪些支持长文输出的 AI 模型]]></title>
-        <id>https://www.v2ex.com/t/984706#reply0</id>
-        <link href="https://www.v2ex.com/t/984706#reply0"/>
-        <updated>2023-10-23T16:38:05.000Z</updated>
-        <summary type="html"><![CDATA[程序员 - @noneusername -]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GitHub] 配置 SSH 时， Github 是怎么知道我的用户名的？]]></title>
-        <id>https://www.v2ex.com/t/984705#reply14</id>
-        <link href="https://www.v2ex.com/t/984705#reply14"/>
-        <updated>2023-10-23T16:33:52.000Z</updated>
-        <summary type="html"><![CDATA[我在尝试配置 SSH 访问 Github 。我执行了下面的操作：
-1 、使用 ssh-keygen 生成一对密钥。
-2 、将 公钥传到 Github 上。
-3 、windows 启动 ssh-agent ,使用 ssh-add 添加私钥。
-操作说明告诉我：ssh -T git@github.com 来测试连接，我测试了，确实可以。
-我没有输入我的用户名，Github 是如何得到我的用户名的？
-（我以为应当使用 ssh -T myname@github.com ，然而并不是）]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 使用 puppeteer 如何监听到下载文件完成？]]></title>
-        <id>https://www.v2ex.com/t/984704#reply2</id>
-        <link href="https://www.v2ex.com/t/984704#reply2"/>
-        <updated>2023-10-23T16:27:06.000Z</updated>
-        <summary type="html"><![CDATA[如题，使用 puppeteer 如何监听到下载文件完成？下载的动作是通过自动点击 a 链接下载的，
-await element.click();
-
-怎么样才能监听到文件下载完成了呢？之前试过用 download.js ，直接使用 nodejs 下载，但是无法下载。
-想实现的功能就是自动地下载蓝奏的资源，然后把下载的资源自动上传到百度网盘。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[职场话题] 刚毕业一年，对于人生的规划有些迷茫，想听听各位大哥们的想法。]]></title>
-        <id>https://www.v2ex.com/t/984703#reply1</id>
-        <link href="https://www.v2ex.com/t/984703#reply1"/>
-        <updated>2023-10-23T16:25:00.000Z</updated>
-        <summary type="html"><![CDATA[介绍个人背景：
-家庭：江浙十八线农村，父母农民，无退休金，目前身体还好。父母小有积蓄不太多，目前钱在我这，不过我的安排是留作他们自己养老，而不是给我置办家产。
-工作：硕士毕业后进入了一家大厂做云相关业务，目前主要工作是围绕的是：容器、ebpf 、k8s 运维、一些内部平台开发。刚毕业一年，薪资应该算还可以，字节 sp 水平吧应该。
-婚恋：没有女友，暂时没有潜在对象。
-我个人问题是：
-对于工作的内容有兴趣，学习到新的知识还是让人高兴的。一年的工作下来，我的感觉是基建类工作很难挣大钱，升职也没有业务开发来的快，旱涝保收。这里是否有什么可以改进的地方？我平时也会做一些自己的积累，但是似乎对于升职加薪都作用不大。
-婚恋的问题，爸妈也老催这件事。认识的一些女性朋友或多或少说过要在大城市定居，我认为我做不到，即使做到也是压力不小，况且现在经济又不好，不想把攒的钱用在这。这方面我应该怎么做呢？我现在有点陷入一个怪圈：我无法给女生一些长期的保证，那我不应该开展一段恋爱。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Redis] Redis 是鸡肋吗？]]></title>
-        <id>https://www.v2ex.com/t/984702#reply3</id>
-        <link href="https://www.v2ex.com/t/984702#reply3"/>
-        <updated>2023-10-23T16:17:34.000Z</updated>
-        <summary type="html"><![CDATA[感觉小项目用处不大]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] react native 如何实现这样的底部导航栏]]></title>
-        <id>https://www.v2ex.com/t/984700#reply2</id>
-        <link href="https://www.v2ex.com/t/984700#reply2"/>
-        <updated>2023-10-23T16:13:29.000Z</updated>
-        <summary type="html"><![CDATA[react navigation bottom tab 如何实现中间的 tab 凹下去，二维码在导航栏外]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[宽带症候群] 分享一个基于分流的安全访问方案]]></title>
-        <id>https://www.v2ex.com/t/984699#reply2</id>
-        <link href="https://www.v2ex.com/t/984699#reply2"/>
-        <updated>2023-10-23T16:13:06.000Z</updated>
-        <summary type="html"><![CDATA[相信这里的大部分人都有访问自己家里服务器的需求
-我目前使用的是基于 Clash+*ray 的分流方案
-优点:
-缺点:
-基本思路
-在 Clash 中把内网流量在规则中分流到自己的*Xray 服务器
-{
-  "log": {
-    "access": "/access.log",
-    "error": "/error.log",
-    "loglevel": "warning"
-  },
-  "dns": {
-    "servers": ["localhost"],
-    "hosts": {
-      "domain:XXXXXXX.com": "192.168.31.11"//把这个域名的全部子域名解析到 Nginx 的服务器 IP
-    }
-  },
-  "inbound": {
-    "port": 65432,
-    "protocol": "vmess",
-    "settings": {
-      "clients": [
-        {
-          "id": "UUID 在此",
-          "level": 1,
-          "alterId": 100
-        }
-      ]
-    },
-    "streamSettings": {
-      "security": "tls",
-      "tlsSettings": {
-        "serverName": "XXXX.com",
-        "certificates": [
-{
-            "certificateFile": "/fullchain.pem",
-            "keyFile": "/privkey.pem"
-          }
-        ]
-      }
-    }…]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] AI 谁更懂中文？]]></title>
-        <id>https://www.v2ex.com/t/984698#reply2</id>
-        <link href="https://www.v2ex.com/t/984698#reply2"/>
-        <updated>2023-10-23T16:07:15.000Z</updated>
-        <summary type="html"><![CDATA[向 AI 提一个问题，看 AI 能否正确回答：
-将下面这段话重新组织一遍，尽可能多的使用成语：
-以下是各个 AI 的回答，看看谁更懂中文。先看国内的：
-文心一言：
-
-讯飞星火：
-
-通义千问：
-
-字节豆包：
-
-再看国外的：
-ChatGPT 3.5 （我没钱充）：
-
-Google Bard：
-
-Claude：
-
-你们觉得呢？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉再收传票，美国司法部勒令其提供多种机密文档]]></title>
-        <id>https://www.ithome.com/0/727/074.htm</id>
-        <link href="https://www.ithome.com/0/727/074.htm"/>
-        <updated>2023-10-23T16:05:01.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，特斯拉在周一提交给美国证交会的文件中表示，已收到美国司法部的传票，要求提供与自动驾驶和 FSD 功能相关的文件，以及其他与个人利益、关联方、车辆续航里程和人事决策相关的信息。
-目前，美国司法部正在审查该公司的辅助驾驶系统 Autopilot 和车辆行驶里程等问题。
-
-图源 Pexels
-特斯拉还表示，由于其工厂产量的增加和推出新车型的准备，其在 2023 年的资本支出将超过今年早些时候设定的 70~90 亿美元（IT之家备注：当前约 512.4 ~ 658.8 亿元人民币）的目标。不过监管文件显示，该公司的支出预计将在未来两年内恢复到 70 亿至 90 亿美元的范围内。
-
-图源 Pexels
-路透社 2022 年 10 月援引熟悉此事的人士的话报道称，特斯拉正在接受美国司法部的刑事调查，原因是该公司声称其电动汽车可以“自动驾驶”。路透社今年 7 月还报道称，特斯拉汽车经常无法达到其宣传和预测的续航里程。
-华尔街日报今年 9 月曾报道称，美国联邦警察就 2017 年马斯克收到的公司福利进行调查，其中包括闹得沸沸扬扬的“玻璃屋”项目。
-今年早些时候，特斯拉成立了一个名为 Diversion Team 的特别公关团队，专门处理用户对其车辆续航里程的投诉问题。到目前为止，任何正在进行的调查都没有得出任何不当行为的结论。
-近两年来，美国国家公路交通安全管理局（National Highway Traffic Safety Administration）一直在调查特斯拉 Autopilot 问题，因为此前发生了十多起特斯拉汽车撞上静止车辆的事故。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日霜降：恍然暮秋至，静候冬日来]]></title>
-        <id>https://www.ithome.com/0/727/073.htm</id>
-        <link href="https://www.ithome.com/0/727/073.htm"/>
-        <updated>2023-10-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 24 日消息，今天，是二十四节气中的霜降。霜降通常会在每年公历 10 月 23 日前后。棉白万顷采收忙，几份凝结始霜降。霜降，意即天气渐冷，初霜始现的意思。这是属于秋季的最后一个节气，意味着秋去冬来。
-准确来说，当太阳到达黄经 210° 时，露水凝结为霜，即为霜降。在气象学上，一般把秋季出现的第一次霜称之为“早霜”或者“初霜”。而“晚霜”或者“终霜”则需要等到春季的最后一次霜。在这春终秋初之间，被称为无霜期。
-
-民间有句俗语，叫“晚稻就怕霜来早”。初霜越早，对于农作物的危害就越大。在我国北南之间，初霜出现的时间跨度也是非常大的，最早的是大兴安岭北部，初霜一般在 8 月底就会到来。在IT之家大本营山东，一般到 11 月初才可见霜。要到广州一带，可能要到 1 月上旬才能看到霜了。
-
-▲ 来自云日历极速版
-霜降起源
-《月令七十二候集解》曰：九月中，气肃而凝，露结为霜矣。当天气逐渐变冷，露水凝结成霜。在古代，人们还把霜降分为三候，分别是：一候豺乃祭兽；二候草木黄落；三候蜇虫咸俯。豺狼开始捕获猎物，祭兽，以兽而祭天报本也，方铺而祭秋金之义；大地上的树叶枯黄掉落；蜇虫也全在洞中不动不食，垂下头来进入冬眠状态中。
-
-霜降农谚
-在古代，人们的劳动生产主要还是以农耕为主。彼时，人们没有现代的高科技手段来进行耕种。为了提高作物产量以及分清全年时间里适合进行农耕的时节，于是人们分了 24 节气。此外，人们还通过历年的经验，总结了不少农谚：
-
-山西
-时值寒露抓秋耕，秋收秋种莫放松。采棉刨薯回茬麦结合秋浇快进行。浇地造林集饲料，山药异地换种子。
-河北
-寒露霜降，收割大豆。抓紧打场，及时入库。晚茬小麦，突击播种。收割山草，好喂牲口。菠菜油菜，种上几亩。来年春季，能早收获。
-山东
-霜降一到，天气渐冷。抓紧收割，地瓜花生。切晒瓜干，要趁晴天。地瓜入窖，不能放松。麦田苗情，检查要精。缺苗…]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 想问下用 quantumult X+墨鱼规则的各位]]></title>
-        <id>https://www.v2ex.com/t/984697#reply0</id>
-        <link href="https://www.v2ex.com/t/984697#reply0"/>
-        <updated>2023-10-23T15:51:17.000Z</updated>
-        <summary type="html"><![CDATA[大家能不能正常使用 spotify 网页端播放音乐，我在 mac 上提示“无法播放此内容”（ ios 也是这样），但客户端可以正常使用。
-类似的规则在小火箭上就完全没有问题，反复排查也没找到是哪里的问题，只要有 spotify.com 走代理就出现这种情况。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matter 1.2 标准正式发布：新增 9 种新设备类型，带来多方面改进]]></title>
-        <id>https://www.ithome.com/0/727/072.htm</id>
-        <link href="https://www.ithome.com/0/727/072.htm"/>
-        <updated>2023-10-23T15:48:52.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，Matter 是一项智能家居的开源标准，由连接标准联盟制定、认证、推广，该标准基于互联网协议（IP），遵循该标准的智能家居设备、移动应用程序和云服务能够进行互联和通信。
-CSA 连接标准联盟已经发布了 Matter 1.2 版本，包括了九种新设备类型，并对现有产品大类的修订和扩展，同时对现有技术规范、SDK、认证政策和测试工具做了重要改进。
-
-IT之家注：Matter 1.2 的认证程序目前已经开放，联盟成员在今年年末到 2024 年年初就能将这些新的设备类型和改进功能投放市场。
-
-自一年前 Matter 1.0 发布以来，Matter 参与者已经达到了 675 家公司，认证数量达到 1214 款，加入 Matter 工作组的成员增加了 24%，而且 CSA 联盟还为此设立了专门的互操作测试设施。
-九种新设备类型
-Matter 1.2 增加了对九种新设备类型的支持，带来了新的互操作性、简单性、可靠性和安全性，解锁了未来的新用例和新功能。
-Matter 1.2 支持的新设备类型包括：
-
-冰箱 — 除了基本的温度控制和监控外，这种设备类型还适用于其他相关设备，例如深度冷冻柜、酒柜、甚至专门放泡菜的冰箱。
-
-房间空调 — 暖通设备和恒温器已经是 Matter 1.0 的一部分，而这次支持的是具有温度和风扇模式控制的独立房间空调。
-
-洗碗机 — 除了例如远程启动和进度通知的基本功能外，还支持洗碗机报警功能，涵盖针对供水排水、温度、盖锁等操作错误的报警。
-
-洗衣机 — 可以通过 Matter 发送例如某些进程完成这类的进度通知。未来的 Matter 版本也会支持烘干机。
-
-扫地机器人 — 除了远程启动和进度通知等基本功能外，还支持例如清洁模式 (干吸尘与湿拖地)，和状态详细信息 (刷子状态、错误报告、充电状态) 等其他关键功能。
-
-烟雾和一氧化碳警报…]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东双 11 起售期数据：10 分钟下单用户数及成交订单量同比增长均超 4 倍]]></title>
-        <id>https://www.ithome.com/0/727/071.htm</id>
-        <link href="https://www.ithome.com/0/727/071.htm"/>
-        <updated>2023-10-23T15:40:41.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，京东今晚 8 点开启双 11 活动，现已公布最新的数据信息。官方表示，今日开售 10 分钟下单用户数、成交订单量同比增长均超 4 倍。
-官方表示，今年京东 11.11 为广大消费者带来了超 5 亿件新品。iPhone、小米、荣耀、华为、OPPO、一加、vivo 手机成交额 1 秒破亿。2K + 屏幕游戏笔记本、台式机、组装电脑成交额同比增长均超 200%。与此同时，3C 数码的趋势品类也迎来增长，键鼠、学习机成交额同比增长超 3 倍；开放式耳机、4K 投影、轨道插座成交额同比增长均超 200%；大功率移动电源成交额同比增长超 150%。图书成交额同比增长 110%。
-据 IT 之家此前报道，2023 年京东“双 11”活动时间规划现已公布，10 月 23 日晚起售，满减促销活动档位为每满 299 元减 50 元。京东双 11 具体活动时间如下：
-
-（1）起售期：2023 年 10 月 23 日 20:00:00-2023 年 10 月 31 日 19:59:59
-
-（2）开门红：2023 年 10 月 31 日 20:00:00-2023 年 11 月 3 日 23:59:59
-
-（3）专场期：2023 年 11 月 4 日 00:00:00-2023 年 11 月 10 日 19:59:59
-
-（4）高潮期：2023 年 11 月 10 日 20:00:00-2023 年 11 月 11 日 23:59:59
-
-（5）返场期：2023 年 11 月 12 日 00:00:00-2023 年 11 月 13 日 23:59:59
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[酷工作] [杭州/苏州] [C/C++] 亿铸科技招聘 AI Runtime 运行时开发工程师]]></title>
-        <id>https://www.v2ex.com/t/984694#reply1</id>
-        <link href="https://www.v2ex.com/t/984694#reply1"/>
-        <updated>2023-10-23T15:38:02.000Z</updated>
-        <summary type="html"><![CDATA[工作职责：
-参与 AI runtime graph serialize/deserialize, graph schedule/executing, op 算子实现，集成调试及验证。
-根据硬件特性对 op 算子进行编码实现，调试验证，实现 AI model 在公司硬件上运行，提升效能。
-负责与上层 codegen 以及底层 driver 的功能衔接及实现，后期参与设计和支持异构并行计算和 runtime 架构。
-任职要求：
-计算机/电子及相关专业本科及以上学历，3 年以上工作经验；
-有 C/C++及汇编语言在 Linux/RTOS 系统环境下的开发经验；
-熟悉 AI 网络模型以及有量化、网络精度计算经验者优先；
-有 AI 芯片（ GPU/ASIC ）管理软件（ Runtime/驱动）的开发或验证经验者优先；
-有 TVM/TensorFlow/OpenCL/CUDA/cuDNN 及相关开发经验者优先；
-有责任心，良好的沟通协作以及分析和解决问题的能力。
-BOSS 直聘链接：https://www.zhipin.com/job_detail/03fb5db886eedea91XJ729m9GVRY.html
-欢迎邮件联系我交流和内推，我的邮箱：a2FuZ21pbjI4NjVAMTYzLmNvbQ==
-个人工作体验：
-我已经入职超过半年，公司目前在杭州的工作地点位于萧山区，钱江世纪城附近。工作内容主要是为公司的 AI 芯片适配上层的 Runtime ，主要用 C/C++ 开发。我之前在某网络设备厂商从事网络协议的开发，现在切换到这个工作，也能很快上手。
-公司是一个初创公司，但是感觉在休假、福利方面都比较正规，也没有太多加班。对我来说，整体的工作体验是不错的。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 每日 5 万独立访客，接入谷歌广告联盟大概会有多少收入？]]></title>
-        <id>https://www.v2ex.com/t/984693#reply1</id>
-        <link href="https://www.v2ex.com/t/984693#reply1"/>
-        <updated>2023-10-23T15:32:58.000Z</updated>
-        <summary type="html"><![CDATA[问与答 - @lk960511 -]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] 有句话忍了大半年]]></title>
-        <id>https://www.v2ex.com/t/984692#reply1</id>
-        <link href="https://www.v2ex.com/t/984692#reply1"/>
-        <updated>2023-10-23T15:32:31.000Z</updated>
-        <summary type="html"><![CDATA[JetNB
-Jet 比汪苏泷 NB]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 请教大家一个关于手机软件安装的问题]]></title>
-        <id>https://www.v2ex.com/t/984691#reply5</id>
-        <link href="https://www.v2ex.com/t/984691#reply5"/>
-        <updated>2023-10-23T15:29:41.000Z</updated>
-        <summary type="html"><![CDATA[之前一直用的 iphone 手机，双卡，使用双卡的原因是一张联通宽带和流量绑定的，一个是用了很多年的移动卡，移动卡是主要是用的电话卡，只是没有流量。
-现在出现的一个问题是：单位要求手机必须安装国家反诈骗 app ，我深知其中的厉害，打死不敢装。目前是找了个以前废弃的小电话安上了，注册了账号。但是，我担心以后万一无耻到每天检查手机怎么办，我只想带一部电话，但是我全天大部分时候都上外网 app ，经不起查。有相似经历的 v 友吗？或者大家给个相对好的方案。如果没有更好的办法，我以后只能给这个 app 单独弄一部手机了，应付检查，对了把微信和它装一起。让他俩互相恶心]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软国行 Xbox Series X / S 游戏机双手柄套装预售，到手 1999 元起]]></title>
-        <id>https://www.ithome.com/0/727/067.htm</id>
-        <link href="https://www.ithome.com/0/727/067.htm"/>
-        <updated>2023-10-23T15:21:59.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，微软 Xbox Series X / S 国行版双手柄套装开启预售，定金 300 元，XSX 售 1999 元，XSX 售 3499 元。
-
-
-IT之家注意到，XSX 搭载特殊定制的 AMD Zen 2 处理器以及 RDNA 2 架构，GPU 处理能力高达 12 Teraflops，最高支持 8K 分辨率；支持快速唤醒功能（Quick Resume），能够让玩家在多个游戏间快速切换，并准确地恢复到此前离开时的游戏进程。
-
-XSS 的处理能力是 Xbox One 的 4 倍，支持可变速率着色技术（VRS）以及硬件加速的 DirectX 光线追踪技术；GPU 性能是 Xbox One 的 3 倍，支持 1440p 分辨率下以 60 FPS 畅玩游戏，帧率支持最高可达 120 FPS。
-
-京东微软 Xbox Series S 游戏机双手柄套装 1999 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《辐射》真人剧集明年 4 月 12 日上线亚马逊 Prime Video]]></title>
-        <id>https://www.ithome.com/0/727/066.htm</id>
-        <link href="https://www.ithome.com/0/727/066.htm"/>
-        <updated>2023-10-23T15:18:46.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，亚马逊 Prime Video 今日宣布，《辐射》真人剧集将在 2024 年 4 月 12 日上线。
-
-据介绍，这是由《西部世界》创作者乔纳森・诺兰和丽莎・乔伊制作的新剧集，改编自全球畅销游戏《辐射》系列。该剧集由亚马逊、Kilter Films 与 Bethesda Game Studios 以及 Bethesda Softworks 联合制作，诺兰执导了该剧集的前三集。
-
-该剧集以后末日时代洛杉矶为背景，基于《辐射》故事原创。该剧演员阵容包括埃拉・珀内尔、沃尔顿・戈金斯、亚伦・莫顿、莫伊塞斯・阿里亚斯、凯尔・麦克拉克伦、萨里塔・乔杜里等。
-据 IT 之家此前报道，官方确认该剧集将展现位于洛杉矶的 33 号避难所，已有不少片场照公布：
-
-
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浙江：到 2025 年底，重点场所 5G 覆盖率超过 95%]]></title>
-        <id>https://www.ithome.com/0/727/065.htm</id>
-        <link href="https://www.ithome.com/0/727/065.htm"/>
-        <updated>2023-10-23T15:18:46.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 肖战割割 的线索投递！
-IT之家 10 月 23 日消息，浙江省通信管理局等 16 部门联合出台了《浙江省关于进一步深化电信基础设施共建共享 促进“双千兆”网络高质量发展的实施方案》（IT之家下文简称“实施方案”）。
-《实施方案》明确，到 2025 年底，推动重点场所清单中 95% 以上实现 5G 网络共同进入，保障 5G 信号室外连续覆盖、室内优化覆盖，有效提升电梯间、地下室等特殊区域覆盖水平。
-此外，住宅区和住宅建筑、商务楼宇清单中 95% 以上实现所有提出接入需求的基础电信运营企业宽带网络共同进入。
-
-图源 Pexels
-《实施方案》提出，到 2025 年浙江省电信基础设施共建共享工作机制不断完善，“双千兆”网络建设环境进一步优化，农村杆线梳理取得积极进展，跨行业共建共享深化拓展，数字化手段保障有力，电信基础设施共建共享水平显著提升，有效节约社会资源。
-官方表示，要推动基础电信企业积极发挥共建共享共维机制作用，每年完成一批行政村通信线路违规搭挂整治，打造一批农村杆线规范建设的标杆，形成示范效应。
-《实施方案》还指出，应按年度完成跨行业共建共享清单的全部协调工作，推动电力、市政、高速公路、铁路、通信等行业重点区域、重要线路基础设施共享需求得到有效保障，逐年提高清单中共享需求满足率；形成一批跨行业电信基础设施共建共享典型案例并公开发布。
-此外，《实施方案》还表明要按照标准完成本地区电信基础设施共建共享大数据平台系统的建设或升级改造，基本实现共建共享流程数字化保障；推广平台标准化建设应用的创新典型案例。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讯飞开放式骨传导耳机 iFLYBUDS Air SE 上架预售，到手价 759 元]]></title>
-        <id>https://www.ithome.com/0/727/062.htm</id>
-        <link href="https://www.ithome.com/0/727/062.htm"/>
-        <updated>2023-10-23T15:12:15.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
-IT之家 10 月 23 日消息，讯飞在去年 12 月推出了 iFLYBUDS Air，目前讯飞将这款产品进行降价，移除了“颈挂”、“便携式充电夹”、“收纳袋”、并改名为 iFLYBUDS Air SE 预售，到手价为 759 元。
-据悉，该耳机采用全开放声学方案，配合多点支撑设计、记忆钛合钢丝支架，不累耳、不伤耳，实时感知周围世界，全天佩戴也舒适。
-
-IT之家提醒，虽然它看上去像是一款骨传导耳机但实际并非骨传导耳机。官方介绍称，它革新了以往开放式耳机主流的骨传导技术，突破性地通过空气定向震动传音，并通过“反向声波抵消技术”，实现对外消音，不怕漏音，舒适社交距离内也不怕被听到。
-
-参数方面，这款耳机采用 16.2mm 发声单元，拥有低音补偿算法以及双麦克风及先进的通话降噪算法，自带低延迟游戏模式，配备便携式充电夹以及 TWS 充电盒，支持蓝牙 5.3，单次续航 15 小时，综合续航 40 小时。
-
-作为讯飞产品，它也支持独特的录音功能，可以实时翻译多种语种，支持包括 iOS 和安卓系统在内的电话录音，并支持免费实时转成文字，而且支持包括腾讯会议、钉钉、飞书、微信语音等主流网络会议 App 的线上会议录音，并支持录音实时转文字，可以自己区分说话人。
-此外，它还可以在听音频、看视频时实时录音转文字，边听边记、网课划重点，支持实时字幕翻译功能，可同步翻译外语视频。
-据介绍，它可以支持 9 种语言、12 种方言、10 种行业术语的实时录音转文字，准确率高达 98%；拥有外语外语翻译、语气词过滤、智能分段与排版、实时区分说话人等多种技能。
-
-
-京东科大讯飞开放式办公耳机 iFLYBUDS Air SE759 元直达链接
-相关阅读：
-《【IT之家开箱】科大讯飞 iFLYBUDS Air 开放式办公耳机图赏：极简，凝练》
-《【IT之家评测室】讯飞开放式办公耳机 iFLYBUDS Air 体验：职场人士生产力新利器》
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] shadcn-ui 初始化脚手架报错是什么原因？]]></title>
-        <id>https://www.v2ex.com/t/984688#reply4</id>
-        <link href="https://www.v2ex.com/t/984688#reply4"/>
-        <updated>2023-10-23T15:11:15.000Z</updated>
-        <summary type="html"><![CDATA[pnpm dlx shadcn-ui@latest init 一直安装报错是什么原因？有没有遇到过问题的大佬看看问题在哪？
-[img]https://i.imgur.com/QQAYecL.png[/img]]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全公司：有黑客领英假扮“美商海盗船 HR”，散布带有恶意木马的邮件]]></title>
-        <id>https://www.ithome.com/0/727/061.htm</id>
-        <link href="https://www.ithome.com/0/727/061.htm"/>
-        <updated>2023-10-23T15:04:10.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，据安全公司 WithSecure 新闻稿，日前该安全公司发现有越南黑客在领英假扮美商海盗船 HR，向求职者发送带有恶意木马 DarkGate、RedLine Stealer 的邮件。
-
-▲ 图源 WithSecure
-WithSecure 声称，在一起发生于 8 月的攻击实例中，黑客要求求职者从特定链接下载职位资料，在求职者下载打开文件档案后，求职者的计算机就会自动运行隐藏的 VBS 代码，从而被植入恶意木马 DarkGate，相关恶意代码在被部署完成的 30 秒后，尝试卸载电脑上的 WithSecure 的软件，不过并没有成功。
-IT之家发现，安全公司此后又发现了多起类似攻击行动，黑客散布了一系列包含 Ducktail、DarkGate、RedLine Stealer、Lobshot 等木马的恶意邮件。
-WithSecure 认为，这可能与先前散布 Ducktail 木马的是同一批黑客，建议求职者谨慎下载领英等平台中，HR 方发送的可下载档案。
-
-▲ 图源 WithSecure
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 分享下自己部署的网站]]></title>
-        <id>https://www.v2ex.com/t/984687#reply0</id>
-        <link href="https://www.v2ex.com/t/984687#reply0"/>
-        <updated>2023-10-23T14:59:31.000Z</updated>
-        <summary type="html"><![CDATA[自己是写业务的后端开发，想自学下 react 写个网站玩玩，于是趁着下班时间看官方文档边学边做，写了一个有关 json 的网站： https://projson.com/
-网站是用 cloudflare Pages 部署的，体验下来感觉还不错
-目前借助 jsonEditor 和 codeMirror 搞了格式化 json 和代码高亮，后续想接着搞 json 对比和格式转换的功能]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享创造] JCJC-基于剪贴板的碎片信息收集工具（Windows）]]></title>
-        <id>https://www.v2ex.com/t/984686#reply0</id>
-        <link href="https://www.v2ex.com/t/984686#reply0"/>
-        <updated>2023-10-23T14:59:04.000Z</updated>
-        <summary type="html"><![CDATA[JCJC 碎片信息收集工具
-给大家介绍一款基于剪贴板的碎片信息收集工具-JCJC 。
-JCJC 的主要功能是自动跟踪剪贴板内容的变动，自动把剪贴板的内存保存为 MarkDown 格式文件。
-MarkDown 文件的内容包括两部分：
-第一部分：元信息，包括：剪贴板数据来源 app  的名字、标题、网址（如果 app 是浏览器的话）；
-第二部分：剪贴板内容，如果从浏览器拷贝的 HTML 内容，JCJC 会把 HTML 内容转换成 MarkDown 格式；
-JCJC 软件特色：
-绿色软件的理念，占用内存小于 10M ；
-开放 API ，WEB 前端 UI 开放源代码；
-暂停模式，当处于暂停状态的时候，不记录剪贴板内容变化；
-在暂停模式下，使用 Ctrl + Insert 手动记录剪贴板内容到 MarkDown 文件；
-后续开发计划：
-笔记内容搜索；
-笔记文件搜索；
-更多详细介绍，参考这里：
-blog.csdn.net/accesine960/article/details/133984580]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[macOS] 现在时间机器 Time Machine 降级可以直接用高系统版本的备份了吗？]]></title>
-        <id>https://www.v2ex.com/t/984685#reply1</id>
-        <link href="https://www.v2ex.com/t/984685#reply1"/>
-        <updated>2023-10-23T14:57:14.000Z</updated>
-        <summary type="html"><![CDATA[起因：受不了 Sonoma 了风扇狂转，想降级到之前用的 Monterey 。
-安装 Monterey 之后使用迁移助手发现可以选择 Sonoma 系统时期的 Time Machine 备份。
-我记得以前看的教程，都是说降级的时候必须要用旧系统下的备份来恢复数据。现在好像不需要了（或者至少是 Mac 本身不限制必须用旧版本的备份了）？
-网上搜了一下“Mac Time Machine downgrade”，看到的帖子说的还是“尝鲜新系统不喜欢想降级怎么办？请在升级之前用 Time Machine 备份好数据！”这种老调。
-不过我还是选了十多天前的 Monterey 备份来恢复，防止出现意外。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[先马朱雀 3 机箱上架：支持玻璃侧透、360 水冷、E-ATX 主板，到手 209 元]]></title>
-        <id>https://www.ithome.com/0/727/058.htm</id>
-        <link href="https://www.ithome.com/0/727/058.htm"/>
-        <updated>2023-10-23T14:51:29.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
-IT之家 10 月 23 日消息，先马（SAMA）目前在电商平台上架了朱雀 3 机箱，目前正处于预售阶段，定金截止 10 月 31 日，到手价格为 209 元。
-
-▲ 图源 先马
-这款宽体五金机箱采用了黑色外观，配备玻璃侧透面板，拥有独立电源仓，支持 E-ATX 主板、长显卡、360 水冷、8 风扇位，而且支持背部走线。
-
-▲ 图源 先马
-该机箱正面拥有 2 个 USB Type-A 3.0 接口，一个麦克风接口、一个音频接口，还拥有一个 USB Type C“预留位”。
-
-▲ 图源 先马
-IT之家同时发现，官方宣称，该机箱的硬盘位较多，最多拥有 2 个 2.5 英寸 HDD 硬盘位，及两个 2.5 英寸 SSD 硬盘位。
-
-▲ 图源 先马
-该机箱详细数据如下：
-
-
-尺寸：463mmx215mmx480mm
-
-主板支持：ATX、M-ATX、ITX、e-atx
-
-扩展卡槽：7PCI
-
-支持背线：28mm
-
-散热限高：165mm
-
-显卡限长：380mm
-
-电源限长：200mm
-
-京东先马（SAMA）朱雀 3 黑色 游戏电脑主机箱 209 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷克沙 TF / SD 读卡器 RW300 预售：USB 3.2、可读 1TB，到手 19.9 元]]></title>
-        <id>https://www.ithome.com/0/727/057.htm</id>
-        <link href="https://www.ithome.com/0/727/057.htm"/>
-        <updated>2023-10-23T14:50:47.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
-IT之家 10 月 23 日消息，雷克沙 TF / SD 二合一高速读卡器 RW300 开启预售，定金 2 元，到手 19.9 元。
-
-RW300 支持 UHS-I SD 和 micro SD，存储卡单独读取（UHS-II 的 SD 卡只能达到 UHS-I 卡的速度）；适配多种设备存储卡读取，包括相机、监控、行车记录仪、无人机、平板、游戏机。
-
-
-RW300 采用 USB 3.2 Gen1 高速传输标准，理论传输速率高达 5Gbps，传输速度高达 104MB/s，支持读取 1TB 大容量存储卡。
-该读卡器兼容 Windows、Mac OS、Linux 等系统，支持待机状态热插拨，无需安装驱动或 App，即插即用。
-IT之家附产品参数：
-
-京东雷克沙（Lexar）USB3.2 高速读卡器多合一 19.9 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[酷工作] [深圳] 比亚迪，急招几个中高级前后端开发]]></title>
-        <id>https://www.v2ex.com/t/984684#reply1</id>
-        <link href="https://www.v2ex.com/t/984684#reply1"/>
-        <updated>2023-10-23T14:48:47.000Z</updated>
-        <summary type="html"><![CDATA[是这样的，比亚迪工程院突然间有了社招名额，要求我们十一月要招到小几百人，简历收集得有点慢，发帖捞人。
-地点：深圳坪山。后端主 JAVA ，前端主 Vue 。
-急招没错，但学历卡得死死的，要求名校，快的话一周可以完成签约。
-技术面的话，基本比较好过，都是直招给自己部门用的。
-有兴趣的我们可以聊聊，wx 号 base64 decode：a291c3Nf
-薪资：15~30k ，逃）]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光威龙武 / 神策内存新品上架：DDR5-6400 24G*2，799 元]]></title>
-        <id>https://www.ithome.com/0/727/056.htm</id>
-        <link href="https://www.ithome.com/0/727/056.htm"/>
-        <updated>2023-10-23T14:46:57.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
-IT之家 10 月 23 日消息，光威日前公布的龙武和神策系列 DDR5 48GB（24GX2） 6400/6800MHz 规格内存新品现已上架，售价如下：
-
-龙武：DDR5-6400 24G*2，799 元
-
-神策：DDR5-6800 24G*2，1199 元
-
-
-IT 之家附光威新款龙武 / 神策内存新品介绍如下：
-据介绍，新款内存精选海力士 M-die 颗粒。
-龙武系列双面都采用了显卡级的高性能矽硅脂散热垫，紧贴散热片、PCB 和颗粒，即使深陷热量战场也能强效导热。龙武 DDR5 48GB（24GX2） 6400MHz 内存，采用十层 PCB 版 先进的层叠设计，将电路布线层层叠加，延长内部电路距离，通过优化信号传输路径和弱化电磁干扰，不再担心性能瓶颈，加厚的 10μm 金手指延长内存使用寿命。
-
-神策 DDR5 48GB（24X2） 6800MHz 内存，采用海力士 M-die 颗粒打造，在高达 6800MHz 频率下运行时序低至 CL34，使用具备更强电气性能的 10 层 PCB 板，具备极为强大的超频可玩性。采用了全新散热设计，在 2.0mm 厚度的散热片内部，加入铜均热板。铜片紧贴导热硅脂，导热性能强强联合。
-
-京东光威（Gloway）48GB (24GBx2) 套装 DDR5 6800 台式机内存条 神策 RGB 系列-皓月白券后 1119 元领 80 元券京东光威（Gloway）48GB (24GBx2) 套装 DDR5799 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 没有人觉得“未注册手机号/SSO 登陆自动创建账号”是一个很糟糕的设计吗？]]></title>
-        <id>https://www.v2ex.com/t/984683#reply20</id>
-        <link href="https://www.v2ex.com/t/984683#reply20"/>
-        <updated>2023-10-23T14:38:16.000Z</updated>
-        <summary type="html"><![CDATA[尤其是对于我这种有 N 个手机号的人来说，除了主用手机号之外，想要登陆某个平台的小号时完全不记得当时注册用的是哪个手机号/SSO 。
-退一步讲，就算是想要吸引用户、方便用户无缝注册，那至少也可以在注册之前多加一个提示。而能做到这一点的我印象中最多不超过 2 个（酷安是其中之一，会提示“手机号未注册，验证后直接注册”），更多平台直接点击登录直到输入完验证码，都不会有任何提示告诉你是在注册还是登录。
-我觉得这是一个很糟糕的设计，刚才登陆小红书的时候足足试了两个手机号和一个微信才试出我当时注册小号用的是哪个号码……]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神舟新款战神 T8 笔记本降至 7899 元：i9-13900HX + RTX 4060]]></title>
-        <id>https://www.ithome.com/0/727/053.htm</id>
-        <link href="https://www.ithome.com/0/727/053.htm"/>
-        <updated>2023-10-23T14:34:40.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
-IT之家 10 月 23 日消息，神舟今年 9 月份推出了全新战神 T8 笔记本，标配 i9-13900HX 处理器，采用全新的私模，RTX 4060 版首发 8999 元，现已降至 7899 元。
-
-
-
-IT之家整理神舟战神 T8 笔记本参数如下：
-这款笔记本标配 i9-13900HX 处理器，24 核 32 线程规格，频率可达 5.4GHz。显卡可选 RTX 4060 和 RTX 4070，140W 性能释放。内存为 DDR5-5600 型号，标配 32GB；SSD 为 PCIe 4.0 型号，标配 1TB，双硬盘位。
-屏幕方面，这款笔记本搭载了 16 英寸 2560*1600p 屏幕，240Hz 刷新率，100% sRGB 色域，500 尼特亮度。
-其他方面，这款笔记本采用双风扇 + 5 热管设计，整机 170W 性能释放；重 2.51kg，配 60Wh 电池；金属 A 面设计，红色 Logo 灯。
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享创造] 分享一款最近做的网页游戏， Is That AI]]></title>
-        <id>https://www.v2ex.com/t/984680#reply6</id>
-        <link href="https://www.v2ex.com/t/984680#reply6"/>
-        <updated>2023-10-23T14:30:22.000Z</updated>
-        <summary type="html"><![CDATA[IsThatAI 是一个给人类玩的“图”灵测试，我们将每日提供不同的测试题来检测你鉴别 AI 图的能力
-http://isthat.ai
-欢迎大家游玩并提出宝贵建议！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[宽带症候群] 诡异：北方某省移动宽带上行 300M+，但是打洞之后 iperf 测速诡异现象出现了]]></title>
-        <id>https://www.v2ex.com/t/984678#reply4</id>
-        <link href="https://www.v2ex.com/t/984678#reply4"/>
-        <updated>2023-10-23T14:29:33.000Z</updated>
-        <summary type="html"><![CDATA[但是 [同运营商]  [跨省打洞] 之后只有 35~40M ，这是什么原理？ speedtest 本机测试可以跑满，就是打洞只有十分之一
-
-最后：请大佬们帮忙解惑]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯莫格推出 RC 60B 影视补光灯：49Wh 锂电池、广域色温，售 999 元]]></title>
-        <id>https://www.ithome.com/0/727/050.htm</id>
-        <link href="https://www.ithome.com/0/727/050.htm"/>
-        <updated>2023-10-23T14:27:21.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 独立摄影师 的线索投递！
-IT之家 10 月 23 日消息，据 SmallRig 斯莫格官方公众号消息，斯莫格今天推出了 RC 60B 影视补光灯，号称“探索移动补光新境界”，目前该补光灯已经上架电商平台，售价 999 元。
-
-▲ 图源 SmallRig 斯莫格官方公众号
-
-▲ 图源 SmallRig 斯莫格官方公众号
-官方强调，这款补光灯内置 49 Wh 锂电池，支持常规拍摄 75 分钟，满功率输出 45 分钟，可“随心切换”三种供电方案，并支持 USB Type-C 输入、外接 PD 充电宝、V 口电池，以满足摄影师续航要求。
-
-▲ 图源 SmallRig 斯莫格官方公众号
-在功能性上，这款补光灯搭载 1.3 寸 LED 彩屏，拥有独立旋钮，可实现色温、亮度快速调节；整机 1.5 千克，灯体 650 克，号称能够“一手调控、一手握持”，从而实现高效创作。
-
-▲ 图源 SmallRig 斯莫格官方公众号
-具体而言，这款补光灯支持 2700K-6500K 色温效果，参数如下：
-
-
-CRI 显色指数：97+
-
-TLCI 电视照明一致性指数：98+
-
-TM-30 Rf 色彩饱和度：96
-
-TM-30 Rg 色彩保真度：100
-
-
-IT之家同时发现，官方为这款补光灯推出了一系列配件，包含手柄、支撑柱、mini 柔光箱、mini 标准罩、充电宝夹、PD 充电宝、C to C 充电线、PD 充电器。
-
-▲ 图源 SmallRig 斯莫格官方公众号
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[美国] 加州公职人员收入]]></title>
-        <id>https://www.v2ex.com/t/984677#reply3</id>
-        <link href="https://www.v2ex.com/t/984677#reply3"/>
-        <updated>2023-10-23T14:25:53.000Z</updated>
-        <summary type="html"><![CDATA[https://transparentcalifornia.com/salaries/all/]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD RX 7900 GRE 显卡降至 4599 元：80CU + 16GB 显存]]></title>
-        <id>https://www.ithome.com/0/727/049.htm</id>
-        <link href="https://www.ithome.com/0/727/049.htm"/>
-        <updated>2023-10-23T14:23:59.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，AMD RX 7900 GRE 显卡今年 7 月 28 日推出，售价 5299 元起，现在撼讯的 RX 7900GRE 暗黑犬型号已经降至 4599 元。
-
-IT之家整理 RX 7900GRE 规格如下：
-这款显卡采用了 80CU 计算单元，拥有 5120 流处理器，加速频率最高可达 2245 MHz，拥有 80 个光线加速器，单精度计算性能为 46 TFLOPs，板卡功耗为 260 W。显存为 16GB 256bit GDDR6，无限缓存容量为 64MB。
-撼讯的 RX 7900GRE 暗黑犬型号采用了三风扇 + 五热管散热，采用 14 层 PCB 设计，配备强化金属背板。
-京东撼讯（PowerColor）AMD RADEON RX 7900GRE 暗黑犬券后 4599 元领 400 元券
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享创造] 一个稍稍不同的 ChatGPT 套壳 App - WizBoard]]></title>
-        <id>https://www.v2ex.com/t/984675#reply0</id>
-        <link href="https://www.v2ex.com/t/984675#reply0"/>
-        <updated>2023-10-23T14:18:31.000Z</updated>
-        <summary type="html"><![CDATA[App 链接: https://apps.apple.com/us/app/wizboard-ai-keyboard-chat/id6448659827?platform=iphone
-https://wizboard.ai/
-比较特别的地方是做了一个还算完整的键盘扩展，可以在所有能够打开键盘的地方用 AI 功能。
-
-其他一些亮点:
-prompt 支持参数/例子
-消息支持 LaTex 渲染 (显示数学公式有点用，但可能也没什么人在乎。。)
-支持 OCR 图片扫描输入
-每天 10 条免费消息
-由于需要备案的缘故，目前没在国区上架。
-感觉 App 的设计稍微有点复杂，一开始会有些门槛。目前还在考虑一些更易用的 AI 功能。
-欢迎大家试用，提供反馈！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[宽带症候群] 最近国际出口带宽全面爆炸]]></title>
-        <id>https://www.v2ex.com/t/984674#reply14</id>
-        <link href="https://www.v2ex.com/t/984674#reply14"/>
-        <updated>2023-10-23T14:10:41.000Z</updated>
-        <summary type="html"><![CDATA[传闻 10 月 14 日那天海底光纤断了，也不知道是真是假，反正那天开始，很多机房都炸了，直到今天都没恢复。但是为什么孟买也会炸，又不过海底，搞不懂。
-下面数据来自 ping0.cc ，drop 是掉包率，ping 是延迟。
-腾讯云-印度-孟买 101.32.*.*
-2023-10-23 00:00 drop: 86.6% ping: 405
-2023-10-20 00:00 drop: 64.0% ping: 397
-2023-10-17 00:00 drop: 67.4% ping: 400
-2023-10-14 00:00 drop: 69.5% ping: 400
-2023-10-11 00:00 drop: 4.3%  ping: 296
-2023-10-08 00:00 drop: 5.2%  ping: 304
-2023-10-05 00:00 drop: 5.8%  ping: 303
-2023-10-02 00:00 drop: 7.8%  ping: 301
-2023-09-29 00:00 drop: 7.1%  ping: 303
-2023-09-26 00:00 drop: 4.6%  ping: 308
-2023-09-23 00:00 drop: 7.5%  ping: 302
-搬瓦工-香港-CMI 45.78.*.*
-2023-10-23 00:00 drop: 62.0% ping: 337
-2023-10-20 00:00 drop: 32.0% ping: 262
-2023-10-17 00:00 drop: 38.8% ping: 281
-2023-10-14 00:00 drop: 38.5% ping: 279
-2023-10-11 00:00 drop: 0.4%  ping: 91
-2023-10-08 00:00 drop:…]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[投资] [一千万计划 #20231023] 还是不要乱立 flag 为好]]></title>
-        <id>https://www.v2ex.com/t/984673#reply4</id>
-        <link href="https://www.v2ex.com/t/984673#reply4"/>
-        <updated>2023-10-23T14:09:46.000Z</updated>
-        <summary type="html"><![CDATA[今日市场
-上周末立了个 flag：从股市赚 1000 万
-就说这行情
-刚看到新闻
-富时中国 A50 期货一波拉升
-今日巨亏 18635.73 元
-1001.863573 万 
-今日交易
-买入：
-沪深 300 ETF
-创业板 ETF
-一只可转债
-因为看不清什么时候是底
-每天或者每两天买一份
-明天只要不大涨，继续买
-与祖国共进退
-与大 A 共存亡]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[生活] 拼多多的那些骚操作]]></title>
-        <id>https://www.v2ex.com/t/984671#reply8</id>
-        <link href="https://www.v2ex.com/t/984671#reply8"/>
-        <updated>2023-10-23T14:00:15.000Z</updated>
-        <summary type="html"><![CDATA[拼多多的那些骚操作
-之前我在拼多多百亿补贴买过挺多东西的，包括 iPhone, iPad, AppleWatch ，全部安全下车，直到这次购买 iPhone 15 Pro Max 原色，被坑了一把。
-我是在 9 月 15 日晚 8 点通过拼多多百亿补贴下单了一部 iPhone 15 Pro Max 原色 256G 版本，苹果官方售价 9999 元，拼多多补贴 500 元，付款 9499 元，拼多多承诺 9 月 28 日发货。
-骚操作 1: 虚假的快递单号
-在 9 月 28 日晚 23 点多，拼多多提示发货了，是顺丰快递，直到第二天（ 9 月 29 日中午），该快递单号没有任何揽收记录，下午 3 点多再一看，快递单号变了一个，提示从北京揽收了。
-骚操作 2: 奇怪的手机序列号
-9 月 28 号虚假发货后，拼多多 APP 上出现了手机的序列号，经过查询发现是一个 iPhone 15 的序列号（未激活），随后问了客服是不是发错了手机，客服没有回复，在第二天（ 9 月 29 日下午），变了一个快递单号后， 拼多多 APP 上出现了第二个手机序列号，经过查询，是 iPhone 15 Pro Max 系列（未激活）。两个序列号见图
-Imgur
-骚操作 3: 故意发错颜色
-10 月 2 日，手机开始派送，由于我本人不在当地，与顺丰约定自提。
-10 月 5 日去顺丰网点自提，在这之前，有在小红书看到有人说拼多多会故意发蓝色给你，然后会说仓库原因发错了颜色，蓝色愿意留下可以补贴一些钱，我看到的有 50 元到 300 元不等。在取货的时候，我全程录像，拆开快递盒，由于灯光比较昏暗，从盒子没太看出来颜色，背面没有仔细看（实际上背面有一行英文小字写了颜色），就把手机给拆封了，发现，真的是蓝色。
-维权：
-10 月 5 日早晨，当时在现场联系了拼多多客服，客服表示这个需要售后来处理，会帮我联系，但在顺丰网点等了接近 1 个小时都没人联系我，跟顺丰协商能不能拒收，顺丰说拆封了不能拒收，没办法就签收拿回家了。
-10 月 6 日下午，在跟客服联系 24 小时之后，接到了拼多多售后客服，我期望退款退货，不要了，客服跟我核实了手机是仅拆封，未激活后，表示可以退货。挂完电话后几分钟，客服又来电话询问如果补一点钱，蓝色留下使用也可以，我拒绝，同时客服说因为我是拼多多优质客户，会提供 300 块钱的赔偿，我说可以（直接提现到银行卡了）。
-10 月 7 日，退回快递发出，收货地址是北京中关村的某一个店铺，10 月 9 日，卖家签收，收到了 9499 元退款。
-折腾了半个多月，手机没拿到，收到了 300 块钱补偿，我以后再也不会在拼多多买这种贵重物品了，最多买点垃圾袋。另外，那台蓝色的 iPhone ，已经被激活了，是当二手卖掉了，还是重新封了当全新的卖了，就不得而知了。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] 锁屏启动小组件的快捷小程序失效了]]></title>
-        <id>https://www.v2ex.com/t/984670#reply0</id>
-        <link href="https://www.v2ex.com/t/984670#reply0"/>
-        <updated>2023-10-23T13:48:20.000Z</updated>
-        <summary type="html"><![CDATA[本来锁屏界面点一下就能跳转门禁码小程序还蛮方便的
-请问还有什么办法把微信小程序快捷键固定在锁屏界面吗]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[全球工单系统] 我们的个人信息究竟是怎么泄露的？]]></title>
-        <id>https://www.v2ex.com/t/984669#reply4</id>
-        <link href="https://www.v2ex.com/t/984669#reply4"/>
-        <updated>2023-10-23T13:48:09.000Z</updated>
-        <summary type="html"><![CDATA[今天接到一个诈骗电话，骗子可以报出我的飞机航班信息以及手机号。问题是机票我是在航空公司官网买的，现在想想我们的信息究竟是怎么到骗子手里的？真的有黑市存在吗]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 请问这 2 个设备是什么？（有图）]]></title>
-        <id>https://www.v2ex.com/t/984667#reply7</id>
-        <link href="https://www.v2ex.com/t/984667#reply7"/>
-        <updated>2023-10-23T13:32:59.000Z</updated>
-        <summary type="html"><![CDATA[今天去礼品展，不少直播的，其中有个直播位的设备我很感兴趣，打算入手，就是不知道具体叫什么名字（见图中 A/B), 哪位可以给点启发？
-Imgur]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 直接 2200 可以买，能冲吗，双十一淘宝到手价会更低点吗]]></title>
-        <id>https://www.v2ex.com/t/984666#reply1</id>
-        <link href="https://www.v2ex.com/t/984666#reply1"/>
-        <updated>2023-10-23T13:30:43.000Z</updated>
-        <summary type="html"><![CDATA[可是我明天到了也没硬盘啊。。。。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] web 服务时区问题]]></title>
-        <id>https://www.v2ex.com/t/984664#reply8</id>
-        <link href="https://www.v2ex.com/t/984664#reply8"/>
-        <updated>2023-10-23T13:26:49.000Z</updated>
-        <summary type="html"><![CDATA[有个 web 服务时区问题,后端服务和数据库都统一使用 utc+0 时区,由前端根据访问者所在时区进行格式化,现在问题是用户新增数据时,应该让前端传创建时间还是使用服务器时间,如果使用服务器时间,则创建的数据时间和展示给用户的时间可能不一致(比如用户是东八区,服务器按 0 时区存,展示时就差了 8 小时),如果让前端传创建时间,这个创建时间不可靠,用户可能通过非法手段修改,想咨询大佬有没有很好的解决时区的办法]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Pixel] Pixel 8 Pro 移动信号]]></title>
-        <id>https://www.v2ex.com/t/984663#reply1</id>
-        <link href="https://www.v2ex.com/t/984663#reply1"/>
-        <updated>2023-10-23T13:25:14.000Z</updated>
-        <summary type="html"><![CDATA[前几天入手 Pixel 8 Pro, 不带毫米波的版本。发现用移动卡的时候信号表现比 6 Pro 差很多。有些 6 Pro 信号不错的地方完全搜不到信号。
-看到规格上不带毫米波的版本没有 39 频段，不知道是不是受这个影响。
-而且最近有点想换到联通，不知道 Pixel 用联通的话信号怎么样，有没有用过的老哥介绍下。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 风向有变 有朋友去日本 可以带日版的 iPhone15pro 有啥区别]]></title>
-        <id>https://www.v2ex.com/t/984662#reply13</id>
-        <link href="https://www.v2ex.com/t/984662#reply13"/>
-        <updated>2023-10-23T13:23:21.000Z</updated>
-        <summary type="html"><![CDATA[应该不是双卡的吧]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 明天就是程序员节了，各位的公司都有啥福利/滚动吗？]]></title>
-        <id>https://www.v2ex.com/t/984661#reply5</id>
-        <link href="https://www.v2ex.com/t/984661#reply5"/>
-        <updated>2023-10-23T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[我们估计就弄个下午茶啥的，吃吃喝喝]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[30 天免费试用：零刻 SER7 迷你主机 2799 元补货（R7 7840HS）]]></title>
         <id>https://www.ithome.com/0/727/024.htm</id>
         <link href="https://www.ithome.com/0/727/024.htm"/>
@@ -1249,151 +2236,6 @@ Imgur]]></summary>
 
 广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。
 【广告】]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星 Galaxy S24 国际版手机现身 Geekbench：搭载十核 Exynos 2400 芯片]]></title>
-        <id>https://www.ithome.com/0/727/005.htm</id>
-        <link href="https://www.ithome.com/0/727/005.htm"/>
-        <updated>2023-10-23T11:30:50.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，不出意外的话，三星将会在明年年初推出新一代 Galaxy S24 系列旗舰手机。
-现有一款型号为 SM-S921B 的机型出现在了 Geekbench 上，结合之前的信息来看是三星 Galaxy S24 国际版 / 欧版。
-
-该机配备三星刚刚发布的 Exynos 2400 芯片，与 Exynos 2200 芯片相比 CPU 性能要快 70%，AI 处理能力快 14.7 倍。
-从跑分来看，该机运行基于 Android 14 的 One UI，配备 8GB 内存，单核 2011 分，多核 6086 分。
-Exynos 2400 拥有 10 颗核心，比骁龙 8 Gen 3 多两颗核心，包括一颗 3.21 GHz 的超大核、两个 2.9GHz 的大核、三个 2.59GHz 的中核以及四个 1.96GHz 的小核。
-作为对比，Geekbench 6 中收录的三星 Galaxy S23 Ultra 平均分为单核 1882 分，多核 4989 分。
-
-IT之家附目前三星 Galaxy S24 系列三款型号已知型号和 SoC：
-
-S24 Ultra：SM-S928B-> 骁龙 8 Gen3、SM-S928U-> 骁龙 8 Gen3
-
-S24+：SM-S926B -> Exynos 2400、SM-S926U -> 骁龙 8 Gen3
-
-S24：SM-S921B -> Exynos 2400、SM-S921U -> Snapdragon 8 Gen3
-
-
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想发布小新 Pad 2024 平板电脑：骁龙 685 处理器，首发 899 元]]></title>
-        <id>https://www.ithome.com/0/727/001.htm</id>
-        <link href="https://www.ithome.com/0/727/001.htm"/>
-        <updated>2023-10-23T11:20:52.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，联想小新 Pad 2024 平板现已发布，8+128GB 版本 1099 元，首发价 899 元，鸽子灰配色现已开启预售，烟霞紫配色要到 10 月 31 日才会开启预售。
-
-小新 Pad 2024 可选鸽子灰 / 烟霞紫两款配色，采用金属一体化机身，重量 465g，厚度 7.1mm，配有 3.5mm 耳机孔，以及 7040mAh 电池 + 20W 快充。
-
-该机搭载高通骁龙 685 处理器，最高 8GB LPDDR4x 内存 + 128GB UFS2.2 存储，支持 Micro SD 卡扩展，运行 ZUI 15。
-小新 Pad 2024 配有 11 英寸 1920x1200 90Hz 屏，最高 400 尼特亮度，支持同屏双开 App，搭载四扬声器，可选 4096 级压感手写笔。
-
-此外，该平板配有前置 8MP 和后置 8MP 镜头，感兴趣的IT之家用户可以关注一下。
-京东联想（Lenovo）小新 Pad 2024 轻薄机身 学测练丰富资源 高刷护眼 杜比全景声 11 英寸平板学习机 8+128 灰色 899 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDC：国内 CAD 类软件去年市场份额达 48.6 亿元，本土厂商占有率保持 20%]]></title>
-        <id>https://www.ithome.com/0/726/985.htm</id>
-        <link href="https://www.ithome.com/0/726/985.htm"/>
-        <updated>2023-10-23T10:03:43.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，IDC 咨询官方公众号今日发布报告，主要针对 2022 年中国 CAD、CAE 市场的规模、增长速度、主要玩家、市场与技术的发展趋势等内容进行了研究。
-IT之家从 IDC 报告中得知，2022 年中国设计研发类工业软件中，计算机辅助设计（CAD）总市场份额达到 48.6 亿元人民币，年增长率为 15.4%，与上年相比增速有所放缓。
-从竞争格局来看，达索系统、西门子和欧特克在 2022 年中国 CAD 软件市场仍为前三，但市场占比均有所下降：
-
-
-达索系统从 25.3% 下降至 23.5%；
-
-西门子从 16.4% 下降至 15.3%；
-
-欧特克从 14.0% 下降至 12.5%；
-
-中望软件、PTC、苏州浩辰、数码大方分列第四到第七。
-
-
-3D CAD 子市场为 30.9 亿元人民币，占总市场的 73.4%，年增长率为 21.5%，高于整体 CAD 市场。其他典型服务商包括新迪数字、华天软件、浙江凌迪、酷家乐、三维家、设序科技、天河软件、EPLAN、利驰软件、卡伦特、工之易等都在各自细分领域有不错的成绩。
-
-▲ 图源 IDC
-IDC 表示，2022 年中国计算机辅助工程（CAE）总市场份额达到 37.6 亿元人民币，年增长率为 17.1%，保持稳定的增速。
-Ansys、西门子和达索系统在 2022 年中国 CAE 软件市场排名前三，市场占比也有所下降。其中，Ansys 从 19.1% 下降至 16.8%，西门子从 16.5% 下降至 14.7%，达索系统从 10.2% 下降至 7.9%。其他典型服务商包括澳汰尔、上海索辰、云道智造、中船奥蓝托、英特仿真、前沿动力、安怀信、天洑、霍莱沃、云庐科技、中望软件等，也有不俗的市场表现。
-
-▲ 图源 IDC
-IDC 认为，CAD、CAE 市场深度相关，又有所不同。CAD 市场厂商集中，产品技术趋同，而 CAE 市场则更为分散，厂商数量也远高于 CAD：
-
-2022 年 CAD 市场排名前七的总市场占有率为 69.9%，而同时期 CAE 该数据仅为 49.5%。主要原因是 CAE 虽然有几何建模、网格划分、有限元模型等相通的底层技术，但由于涉及结构仿真、流体仿真、电磁仿真、噪声仿真以及各类专业仿真等不同领域，即使头部厂商也很难拥有全物理场的通用仿真产品。
-因此，在市场中广泛存在着各类通用和专业的 CAE 仿真产品。基于此市场特性，CAE 市场下半场的竞争除了进一步扩大自身现有市场和产品优势，还会以厂商之间整合的形式进行。
-
-IDC 声称，近几年本土厂商在各类设计研发类工业软件上都开始有所突破，报告数据显示，2022 年本土厂商在 CAD 市场仍保持接近 20% 的市场占有率，而 CAE 市场该数字则仍保持在 15% 左右。据此 IDC 认为，未来整体市场持续上涨的同时，该比例会持续提升。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌将从 Chrome 119 开始测试 IP 隐私保护功能]]></title>
-        <id>https://www.ithome.com/0/726/977.htm</id>
-        <link href="https://www.ithome.com/0/726/977.htm"/>
-        <updated>2023-10-23T09:42:37.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 Alejandro86、Coje_He 的线索投递！
-IT之家 10 月 23 日消息，谷歌正在为 Chrome 浏览器开发一项新功能，以帮助用户保护其 IP 地址的隐私。
-据介绍，这一 IP 保护功能旨在阻止网站对用户的追踪行动。谷歌将从 Chrome 119 版本开始对这一功能进行测试，直到 125 版本。IT之家提醒，该功能是一种可选功能，你可以自行决定是否启用。
-
-据介绍，谷歌将会使用自己的代理服务器进行测试，第一阶段将面向美国用户推出，并覆盖 33% 的实验性 Chrome 版本。
-
-互操作性和兼容性。
-IP 保护会改变客户端 IP 地址的稳定性，但不会对现有网站造成重大改变。在此实验中，唯一受影响的是 Google 拥有的域名，其中包括某些第三方加载的域名。对于这些请求，客户端不再需要稳定的 IP 地址。目前，其他域名没有受到影响。
-
-数据将利用 CONNECT 和 CONNECT-UDP 技术通过代理进行定向，并通过 TLS 协议建立安全通道进行全加密。为了减少风险，首次访问时需要加密令牌，而这个令牌由 Google 的认证服务器在 Chrome 登录过程中生成，与用户的 Google 账户绑定。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源轻量级 BT 下载器 qBittorrent 4.6 发布：支持“I2P 隐形互联网项目”等功能]]></title>
-        <id>https://www.ithome.com/0/726/971.htm</id>
-        <link href="https://www.ithome.com/0/726/971.htm"/>
-        <updated>2023-10-23T09:37:49.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 Coje_He 的线索投递！
-IT之家 10 月 23 日消息，qBittorrent 是一款基于 Qt 工具包和 libtorrent-rasterbar 的免费开源 BT 软件，可在所有主流操作系统上运行，如 Windows，Linux，MacOS，OS / 2 或 FreeBSD（包括对 25 种以上语言的支持）。
-根据官网信息显示，qBittorrent 目前推出了 4.6 版本，主要的新功能是支持 I2P（IT之家注：The Invisible Internet Project，隐形互联网项目），号称“使用完全加密的隐私网络层来隐藏用户活动和位置”，相关服务不依赖服务器，而是依赖所用使用软件的用户。
-
-▲ 图源 qBittorrent 官网
-qBittorrent 声称，当启用时 I2P 功能后，“没有人能看到流量来自哪里，去哪里，或者其中的内容”。
-除此之外，qBittorrent 4.6 还改善了 RSS 功能和 WebUI，引入了多个设置选项，用户可以调节以下功能：
-
-
-特点：添加（实验性）I2P 支持（glassez）
-
-特点：为默认主题（glassez）提供 UI 编辑器
-
-特点：各种 UI 主题改进（glassez）
-
-特点：实现种子标签编辑对话框（glassez）
-
-功能：修改“已观看文件夹选项”和“自动 RSS 下载器”对话框（glassez）
-
-特点：允许在深色模式下使用另一个图标（glassez）
-
-特点：允许将新的种子添加到队列顶部（glassez）
-
-特点：允许按保存路径过滤种子列表（Tom）
-
-特点：公开“套接发送 / 接收缓冲区大小”选项（Chocobo1）
-
-特点：公开“最大种子文件大小”设置（Chocobo1）
-
-功能：暴露“bdecode 限制”设置（Chocobo1）
-
-功能：添加选项以调整将跟踪器合并到现有种…]]></summary>
         <author>
             <name>IT之家</name>
         </author>
@@ -1513,486 +2355,6 @@ qBittorrent 声称，当启用时 I2P 功能后，“没有人能看到流量来
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[双十一来了！万字长文教你手把手选好学习机 —— 科大讯飞 AI 学习机 T20 Pro、小度智能学习平板 Z20、学而思学习机 XPad 横评]]></title>
-        <id>https://www.ithome.com/0/726/940.htm</id>
-        <link href="https://www.ithome.com/0/726/940.htm"/>
-        <updated>2023-10-23T08:32:36.000Z</updated>
-        <summary type="html"><![CDATA[开头导语
-2023 年开年以来，AI 领域的技术大爆发令我们叹为观止，其中 AIGC（生成式人工智能）表现出的极强的创造力更是被快速运用到了各行各业，这其中也包括了教育行业。而 AI 学习机便是模型落地教育领域的典型应用。
-恰好双十一购物节就要到了，市面上 AI 学习机也都开启了大促，让不少家长们挑得眼花缭乱。但是 AI 这个卖点又没有一个明确的标准，稍微融入一点人工智能技术就敢称自己为“AI 学习机”。如何选择一款真正能发挥 AI 大模型潜力的学习机呢？这篇万字长文选购指南带你手把手选好 AI 学习机。
-所谓 AI 学习机是一种利用人工智能技术来辅助孩子学习的新式学习机，它可以根据孩子的学习情况和兴趣，提供个性化的教学内容和互动方式，让孩子在轻松愉快的氛围中学习知识，提高成绩，培养兴趣。
-而且得益于最近几个月 AI 大模型技术的快速发展，市面上一些龙头企业的 AI 学习机都升级了 AI 大模型技术。在本文中，IT之家就选择两台有代表性的 AI 学习机，和一台侧重课程资源的传统学习机。它们分别是科大讯飞 AI 学习机 T20 Pro、小度智能学习平板 Z20 和学而思学习机 XPad。
-科大讯飞 AI 学习机 T20 Pro 搭载了讯飞星火大模型，该大模型曾被《麻省理工科技评论》评为“最聪明的大模型”。小度智能学习平板 Z20 搭载了百度的文心一言大模型，该大模型发布时间早于讯飞，但学习机搭载的时间却晚于讯飞。学而思学习机 XPad 还尚未搭载大模型。
-
-▲ 图片来源《麻省理工科技评论》
-
-▲ 图片来源《麻省理工科技评论》
-下面带大家看看，AI 时代究竟谁才能更好地发挥 AI 大模型的潜力为孩子的学习服务，谁才是更适合当代孩子需要的辅学工具。希望能给大家双十一的选购提供帮助。
-
-拒绝刷题、拒绝刷课，个性化精准学才是学习机 AI 能力试金石
-开头我们就有提到，现在 AI 学习…]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持双卡双待：酷比魔方掌玩 mini 平板 747 元京东新低]]></title>
-        <id>https://www.ithome.com/0/726/937.htm</id>
-        <link href="https://www.ithome.com/0/726/937.htm"/>
-        <updated>2023-10-23T08:24:40.000Z</updated>
-        <summary type="html"><![CDATA[酷比魔方 掌玩 mini 平板电脑（8.4 英寸），日常售价为 999 元。
-京东今日可领取 222 元优惠券，叠加 20 元补贴券 + 晒单返 10 元红包，今晚 20 点到手价为 747 元：
-
-20 元补贴券：点此领取。
-
-京东酷比魔方 掌玩 mini 平板电脑 8.4 英寸券后 747 元领 222 元券
-如果不喜欢 10 元红包，还可以更换为蓝牙耳机或者移动电源。
-另外，今晚 8 点还可抽 3 次京东无门槛红包，支持即领即用，结算省上加省：点此抽取。
-官方表示，掌玩 mini 是一款通话平板，外观上延续了 iPlay 50 mini 的设计。
-
-这款小尺寸安卓平板将搭载联发科曦力 G99 处理器，配备 8GB 内存和 256GB 闪存。电池容量为 5000 mAh，支持 18W 快充。
-屏幕为 8.4 英寸 1920*1200 分辨率，全贴合设计。机身采用金属后盖设计，有 USB-C、3.5mm 接口以及 SIM 卡 / TF 卡槽。网络方面，这款平板支持 4G 全网通以及双频 Wi-Fi。
-
-此外，这款平板支持自行解锁 bl，可刷入第三方系统。
-
-20 元补贴券：点此领取。
-
-京东酷比魔方 掌玩 mini 平板电脑 8.4 英寸券后 747 元领 222 元券
-今晚 8 点还可抽 3 次京东无门槛红包，支持即领即用，结算省上加省：点此抽取。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。
-【广告】]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达推出 AI 系统 Eureka，可令机器人执行转笔传球等复杂工作]]></title>
-        <id>https://www.ithome.com/0/726/927.htm</id>
-        <link href="https://www.ithome.com/0/726/927.htm"/>
-        <updated>2023-10-23T08:07:12.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，英伟达日前公布了一个名为 Eureka 的 AI 系统，该系统以 OpenAI 的 GPT-4 为基础，能够让机器人执行例如“转笔”、“开抽屉”、“拿剪刀”、“双手互传球”等 30 多种复杂动作。
-
-IT之家经过查询得知，英伟达研究院主导开发了 Eureka，该 AI 系统可令开发者配合英伟达自家物理模拟软件 Isaac Gym 进行强化学习（reference learning）。
-英伟达 AI 研究部门资深总监 Anima Anandkumar 认为，过去 10 年以来“强化式学习”虽然有所进展，但仍存在不少挑战，例如“奖赏设计”等环节，现在还停留在“试错”阶段。而目前英伟达公布的 Eureka，则是为执行困难的任务而设计，结合生成式 AI 与强化式学习算法，进行首次尝试。
-Eureka 利用 GPT-4 生成出的“奖赏设计”方案可助力机器人的“试错（trial-and-error）”学习，并能够起到接替 80% 人类专家的任务，从而使机器人平均训练效率提升超过 50%。
-据悉，在 Eureka 生成“奖赏设计”方案时，开发者不需要额外输入任务提示或撰写预定义的奖赏范本，再结合人工修正奖赏，最终使机器人动作更符合开发人员的意图。
-该 AI 系统配合 Issac Gym 时，可利用 GPU 加速进行模拟，并针对大量批次的候选回馈快速评估品质，从而提升训练效率，并根据训练结果的作出统计摘要，从而改良“奖赏方案”，在提升机器人反应水平的同时，令 AI 系统适用的机器人类型更为广泛，例如“走兽型”（四足）、“人型（两足）”、“四轴飞行器”、手臂型等机器人都可以搭载 Eureka 系统。
-
-▲ 图源 英伟达
-
-▲ 图源 英伟达
-英伟达将 Eureka 进行了“开源灵敏性标竿测试”，在评估 20 种任务训练结果后，得出了令人满意的结果。
-据此，英伟达认为 Eureka 可实现灵巧的机器人控制，并为动画作者提供“生成逼真实体动作”的新方法。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星 Galaxy Tab A9 + 平板国行版上架：骁龙 695 处理器，1399 元起]]></title>
-        <id>https://www.ithome.com/0/726/925.htm</id>
-        <link href="https://www.ithome.com/0/726/925.htm"/>
-        <updated>2023-10-23T07:56:59.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 妈话我系叉烧 的线索投递！
-IT之家 10 月 23 日消息，三星 Galaxy Tab A9 + 平板国行版现已上架各大电商平台，该产品搭载骁龙 695 处理器，提供 WLAN 和 5G 双版本，售价 1399 元起，10 月 27 日 0 点开售。
-
-据介绍，Galaxy Tab A9 + 采用简约设计 + 金属机身，提供山岩灰、星系银和海浪蓝三款配色，产品正面配备 11 英寸 LCD 显示屏，支持 90Hz 刷新率，分辨率为 1920 x 1200，支持 1600 万色，配备四扬声器，支持杜比全景声。
-
-该产品搭载骁龙 695 处理器，CPU 主频 2.2GHz，提供 4GB+64GB 和 8GB+128GB 两个存储版本，支持 microSD 存储卡（最高 1TB)。此外，该产品还配备 7040mAh（典型值）电池，续航时间约 13 小时，后置 800 万像素镜头（支持自动对焦），前置 500 万像素镜头。
-
-其他方面，这款产品还支持 USB 2.0、3.5mm 耳机接口、蓝牙 v5.1，产品尺寸为 168.7mm x 257.1mm x 6.9mm，重量为 480g。
-IT之家附 Galaxy Tab A9 + 国行版售价：
-
-4GB+64GB WLAN 版 1399 元
-
-8GB+128GB WLAN 版 1699 元
-
-8GB+128GB 5G 版 2099 元
-
-京东三星 Galaxy Tab A9+ 平板国行版 4+64GB1399 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天玑 9300 安兔兔跑分曝光：率先突破 200 万分，联发科剑指最强性能]]></title>
-        <id>https://www.ithome.com/0/726/920.htm</id>
-        <link href="https://www.ithome.com/0/726/920.htm"/>
-        <updated>2023-10-23T07:42:46.000Z</updated>
-        <summary type="html"><![CDATA[临近年末，两大旗舰移动芯片平台都正蓄势待发，为明年的旗舰手机市场的竞争打下基础。随着发布时间越来越近，相关的爆料消息也是越来越密集。这不，今天安兔兔官方微博就表示，在后台发现了联发科即将推出的旗舰移动平台天玑 9300 的跑分成绩。
-
-从安兔兔识别到的信息来看，天玑 9300 在 CPU 部分采用了 4 个超大核 Cortex-X4 搭配 4 个大核 Cortex-A720 的架构，并没有小核心，这映证了此前传闻的“全大核”架构；GPU 型号则是 Immortalis-G720。
-安兔兔表示，这台测试机内置了 16GB 内存以及 512GB 存储，运行的是 Android 14 系统，安兔兔统计到的总成绩为 2055084 分，这是 Android 旗舰平台在安兔兔 V10 版本下跑分首次突破 200 万，成为安卓旗舰跑分新高。
-
-根据之前曝光的信息，联发科天玑 9300 平台的 CPU 将采用全大核架构，包括 4 个 Cortex-X4 超大核和 4 个 Cortex-A720 大核，这是一个比较大胆的创新，从而让平台整体性能大幅提升，首次突破 200 万的跑分也映证了全大核的架构的强大，如果爆料信息和跑分都属实，那么天玑 9300 将成为名副其实的旗舰性能天花板。
-根据爆料信息，天玑 9300 全大核架构在性能飙升的同时，功耗相比上一代还能下降 50%，联发科如何通过技术创新，让全大核的架构功耗进一步下降，也是天玑 9300 最核心的看点之一。
-GPU 方面，根据已经掌握的信息，天玑 9300 采用的应该是 Arm 最新旗舰 Immortalis-G720，不仅有效算力和能效显著提升，而且日常场景中 GPU IP 的功耗下降 25%。其引入的延迟顶点着色技术可以减少内存访问和带宽使用，从而提高性能并降低功耗。
-另外联发科和 vivo 不久前曾宣布，双方在手机领域首次实现了 10 亿和 70 亿 AI 大语言模型和 10 亿 AI 视觉大模型，可以猜到双方在该领域的合作，显然是基于即将推出的天玑 9300 旗舰芯片以及 vivo X100 系列。也就是说天玑 9300 具备非常强大的 AI 算力，足以支持 70 亿这样庞大的 AI 大语言模型在手机端运行。
-
-根据已知的信息，联发科与 vivo 合作可以覆盖“文生文”、“文生图”等大部分生成式 AI 应用场景，已经满足了当前最全的手机用户生成式 AI 使用需求，这也是行业第一次在移动端落地如此大参数规模和全面的生成式 AI 应用，天玑 9300 的 AI 算力由此可见一斑。
-另外此前还有消息显示，天玑 9300 将支持 LPDDR5T 内存，9.6Gbps 的传输速度不仅是目前全世界最 快的移动 DRAM，而且在低功耗方面表现优异。这意味着 LPDDR5T 不仅能提供最 快的应用加载速度，还能为手机用户带来更长的续航时间。
-
-总体来说，天玑 9300 激进、大胆的全大核 CPU 架构以及 CPU、GPU 功耗双双拿稳的架势，加上在终端侧 AI 能力和 LPDDR5T 内存方面的发力，明年的旗舰手机市场估计又要被联发科卷起来了。当然，也许这些还都只是冰山一角，根据消息，天玑 9300 即将在 11 月发布，届时大家可以一同期待一下这个全大核 CPU 架构的 SoC 将会带来怎样的精彩表现。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo Y55t 手机上架官网：搭载联发科天玑 6020 芯片、5000mAh 电池]]></title>
-        <id>https://www.ithome.com/0/726/919.htm</id>
-        <link href="https://www.ithome.com/0/726/919.htm"/>
-        <updated>2023-10-23T07:36:48.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，vivo 在官网上架了一款 vivo Y55t 手机，配置方面与之前的 Y35+/Y35m + 没有区别（配色有区别），但是价格大幅降低，其中 8+128GB 版本首发价 999 元，256GB 版本 1199 元。
-
-该机搭载了联发科天玑 6020 移动处理平台（IT之家注：原天玑 700）、LPDDR4X 内存、UFS 2.2 闪存，支持 1TB 存储卡扩展。
-
-此外，该机配备了 6.64 英寸 2388×1080 分辨率的 LCD 水滴屏，支持 60Hz 刷新率，240Hz 采样率，峰值亮度 550nit。
-
-其他方面，该机前置采用了 8MP 镜头，后置 50MP 主摄 + 未知副摄；内置 5000mAh 电池，支持 15W 充电，厚 8.07mm，重 190g，采用侧边指纹识别方面，保留 3.5mm 耳机孔，预装 OriginOS 3 系统，提供星云紫、盐湖蓝、星环黑、涟漪绿 4 款配色。
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甲骨文为 Visual Studio Code 推出 Java 扩展插件，号称涵盖全开发周期]]></title>
-        <id>https://www.ithome.com/0/726/905.htm</id>
-        <link href="https://www.ithome.com/0/726/905.htm"/>
-        <updated>2023-10-23T07:16:22.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，据甲骨文官方新闻稿，甲骨文目前推出了一款面向 Visual Studio Code 的 Java Platform 扩展插件，该扩展号称涵盖了整个开发周期，支持类级和变量重构，该扩展目前已在 Visual Studio Code marketplace 上提供，感兴趣的小伙伴可以点此访问。
-
-▲ 图源 甲骨文
-甲骨文表示，Visual Studio Code 作为通用 IDE 越来越受欢迎，该工具改变了编程语言与其 IDE 之间的关系。
-
-过去，开发者首先选择开发语言，再选择 IDE。而今天，例如 Visual Studio Code 这样的工具，可以为绝大多数开发语言供良好的支持。
-虽然 Java 本身就拥有优秀的专业 IDE，不过目前也有大量的 Java 开发人员使用 Visual Studio Code，我们希望 Java 开发者，能在他们喜欢的 IDE 中开发自己所喜爱的内容。
-
-甲骨文声称，Visual Studio Code 扩展插件将支持当前的 JDK 版本以及未来的 JDK 版本，目前的初始版本已经提供以下功能：
-
-
-“项目视图”
-
-“自动完成（auto-complete）”
-
-“错误高亮显示”
-
-“跳转到定义（jump to definition）”
-
-“自动重构”
-
-“JavaDoc-on-hover”
-
-“调试支持”
-
-“对 JUnit 的单元测试支持（unit-testing support for JUnit）”
-
-“对 Gradle 和 Maven 项目的支持”。
-
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国务院办公厅：梳理盘活高校和科研机构存量专利，运用 AI 等促成供需对接]]></title>
-        <id>https://www.ithome.com/0/726/893.htm</id>
-        <link href="https://www.ithome.com/0/726/893.htm"/>
-        <updated>2023-10-23T07:05:14.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，国务院办公厅日前印发《专利转化运用专项行动方案（2023—2025 年）》（下称《方案》），目标到 2025 年，推动一批高价值专利实现产业化。高校和科研机构专利产业化率明显提高，全国涉及专利的技术合同成交额达到 8000 亿元。
-《方案》提出，要从提升专利成果质量和加强政策激励两方面发力，进一步优化市场服务、培育良好生态，加快创新成果向现实生产力转化。IT之家汇总主要内容如下：
-
-关于盘活存量专利
-梳理盘活高校和科研机构存量专利
-
-建立市场导向的存量专利筛选评价、供需对接、推广应用、跟踪反馈机制，力争 2025 年底前实现高校和科研机构未转化有效专利全覆盖。
-
-由高校、科研机构组织筛选具有潜在市场价值的专利，依托全国知识产权运营服务平台体系统一线上登记入库。
-
-有效运用大数据、人工智能等新技术，按产业细分领域向企业匹配推送，促成供需对接。
-
-基于企业对专利产业化前景评价、专利技术改进需求和产学研合作意愿的反馈情况，识别存量专利产业化潜力，分层构建可转化的专利资源库。
-
-加强地方政府部门、产业园区、行业协会和全国知识产权运营服务平台体系等各方协同，根据存量专利分层情况，采取差异化推广措施。
-
-针对高价值存量专利，匹配政策、服务、资本等优质资源，推动实现快速转化。
-
-在盘活存量专利的同时，引导高校、科研机构在科研活动中精准对接市场需求，积极与企业联合攻关，形成更多符合产业需要的高价值专利。
-
-关于打通专利转化关键堵点
-强化高校、科研机构专利转化激励
-
-探索高校和科研机构职务科技成果转化管理新模式，健全专利转化的尽职免责和容错机制。
-
-
-对达成并备案的专利开放许可，依法依规予以技术合同登记认定。
-
-
-推动高校、科研机构加快实施以产业化前景分析为核心的专利申请前评估制度。
-
-
-强化职务发明规范管理，建立单位、科研人员和技术转移机构等权利义务对等的…]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国外科学家开发出“AI 中医”：舌诊系统看病最高准确率达 94%]]></title>
-        <id>https://www.ithome.com/0/726/885.htm</id>
-        <link href="https://www.ithome.com/0/726/885.htm"/>
-        <updated>2023-10-23T06:50:06.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 佳宜 的线索投递！
-IT之家 10 月 23 日消息，两千多年以来，中医就通过观察人们舌头的颜色和形状来诊断疾病，这种方法现在正在通过人工智能和机器学习技术得到增强。
-伊拉克和澳大利亚研究人员之间的一项合作研究表明，计算机辅助舌头诊断系统可以准确识别 94% 的糖尿病和肾衰竭等疾病。这种诊断方法通常使用智能手机等简单设备，为远程健康监测提供了一种非常有前途、经济高效的替代方案。
-巴格达中央技术大学（MTU）和南澳大学（UniSA）的工程师们使用了 USB 网络摄像头和电脑，拍摄了 50 名患有糖尿病、肾衰竭和贫血的患者的舌头图片，并与一个包含 9000 张舌头图片的数据库进行了比较。他们使用图像处理技术，以 94% 的准确率诊断出了这些疾病。
-MTU 和 UniSA 的副教授 Ali Al-Naji 及其同事们发表了一篇新论文，回顾了基于舌部颜色的计算机辅助疾病诊断在全球范围内的进展。Al-Naji 副教授说：“几千年前，中医就开创了通过观察舌头来检测疾病的做法。传统医学也一直支持这种方法，证明舌头的颜色、形状和厚度可以揭示出糖尿病、肝脏问题、循环和消化问题以及血液和心脏疾病的迹象。现在，基于舌头外观诊断疾病的新方法正在利用人工智能和摄像头 —— 甚至是智能手机 —— 远程进行。计算机化的舌部分析具有很高的准确性，可以以安全、有效、简单、无痛和经济的方式帮助远程诊断疾病。这在后疫情时代尤其有意义，因为人们可能无法轻易地到达医疗中心。”
-通常情况下，患有糖尿病的患者舌头呈黄色，患有癌症的患者舌头呈紫色，并且舌苔很厚很油腻，急性中风患者则会有红色且常常歪斜的舌头。
-IT之家注意到，2022 年在乌克兰进行的一项针对 135 名 COVID 患者的舌部图像分析显示，64% 轻度感染者舌头呈淡粉色，62% 中度感染者舌头呈红色，而 99% 重度感染者舌头呈深红色。之前使用舌诊系统进行的一些研究也准确地诊断出了阑尾炎、糖尿病和甲状腺疾病。
-Al-Naji 副教授说：“通过舌部颜色的变化，可以以 80% 的准确率诊断出十多种疾病。在我们的研究中，我们针对三种疾病达到了 94% 的准确率，所以这项研究还有进一步完善的潜力。”
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荣耀 Play8T 手机开售：6000mAh 大电池 + 天玑 6080，到手价 1099 元起]]></title>
-        <id>https://www.ithome.com/0/726/881.htm</id>
-        <link href="https://www.ithome.com/0/726/881.htm"/>
-        <updated>2023-10-23T06:42:17.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，荣耀 Play8T 手机今日正式开售，该产品搭载天玑 6080 处理器，配备 6000mAh 大容量电池，售价 1099 元起。
-
-据介绍，荣耀 Play8T 提供幻夜黑、墨玉青、流光银三款配色，机身背部采用纹理设计。该产品正面配备 6.8 英寸 FHD + 三等边显示屏，支持 90Hz 刷新率，亮度可达到 850nit，支持 2nit~850nit 自动调光。
-
-这款新机搭载天玑 6080 处理器，提供 8GB+256GB 和 12GB+256GB 两个存储版本。天玑 6080 处理器采用台积电 6nm 制程工艺，CPU 有 2×Cortex-A76@2.4GHz 和 6×Cortex-A55@2.0GHz 组成，GPU 为 Mali-G57 MC2。
-
-荣耀 Play8T 机身内置 6000mAh 大电池，支持 35W 有线充电，官方宣称这款新机音乐播放时长达 123 小时，游戏时长达 10 小时，通话时长可达 55 小时。该手机还配备立体声双扬声器，户外多场景支持大音量模式，配备 5000 万像素主摄以及 800 万像素前摄。
-IT之家附荣耀 Play8T 售价：
-
-8GB+256GB 1099 元
-
-12GB+256GB 1299 元
-
-京东荣耀 Play8T1099 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OriginOS 4 开启内测招募：面向多款 vivo 和 iQOO 机型，用上自研 AI 大模型]]></title>
-        <id>https://www.ithome.com/0/726/863.htm</id>
-        <link href="https://www.ithome.com/0/726/863.htm"/>
-        <updated>2023-10-23T06:23:52.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 联发科技MTK、偏科骚黄4100只眼、软媒新友2043699、点一下玩几年、失念_pain、路過的無聊人 的线索投递！
-IT之家 10 月 23 日消息，vivo 将于 11 月 1 日举行 2023 开发者大会，届时将正式公布 OriginOS 4，官方口号为“流畅好用，智有妙用”。
-
-今日下午 2 点，vivo 官方开启 OriginOS 4 内测招募，面向多款 vivo 和 iQOO 机型，每个机型 2000 人，其中默认开启 Log 300 人和不开启 Log 1700 人。
-
-
-vivo 机型：X Fold2、X Flip、X90 Pro+、X90 Pro、X90、X90s
-
-iQOO 机型：iQOO 11 Pro、iQOO 11S、iQOO 11
-
-IT之家附内测具体事项如下：
-
-报名时间：2023 年 10 月 23 日 14:00-10 月 29 日 23:59
-
-名单公布：2023 年 10 月 30 日 20:00 前
-
-进群时间：2023 年 11 月 1 日 20:00 截止
-
-推送时间：2023 年 11 月 2 日
-
-1、先将当前手机软件版本升级为最新版本，升级方法：手机桌面 > 设置 > 系统升级；
-2、手机桌面点击“设置 > 系统升级 > 右上角设置按钮 > 升级尝鲜 > 内测报名卡片点击【查看详情】按钮，进入内测报名界面按照提示完成报名申请”；
-
-3、在手机桌面点击“设置 > 系统升级 > 升级尝鲜 > 内测报名”下方按钮显示“您已加入本次内测，有版本时会推送给您”字样即为申请成功。
-注意，对应机型要升级到以下版本或者更新的版本才能检测到内测版本：
-
-X Fold2：13.0.17.2.W10.V000L1
-
-X Flip：13.0.20.6.W10.V000L1
-
-X90 Pro+：13.0.24.5.W10.V000L1
-
-X90 Pro：13.0.20.2.W10.V000L1
-
-X90：13.0.24.10.W10.V000L1
-
-X90s：13.0.24.10.W10.V000L1
-
-iQOO 11 Pro：13.0.13.3.W10.V000L1
-
-iQOO 11S：13.0.11.2.W10.V000L1
-
-iQOO 11：13.0.14.2.W10.V000L1
-
-据博主 @数码闲聊站 此前爆料，OriginOS 4 将落地 vivo 自研 AI 大模型 —— Jovi Copilot，其能力包括能够搜索手机里的信息，如照片和文件等；创作各种类型的文本，如活动营销方案和工作总结等；还有画图能力，可以画出用户想要的图片，也可以将用户上传的照片转化为二次元风格；还可以分析生活中的问题，与用户聊天。
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鲨鲨酱充电动画向非黑鲨手机开放，已支持大部分安卓机型]]></title>
-        <id>https://www.ithome.com/0/726/837.htm</id>
-        <link href="https://www.ithome.com/0/726/837.htm"/>
-        <updated>2023-10-23T04:32:32.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，黑鲨游戏手机的二次元智能助手 —— 鲨鲨酱于今年 9 月回归，开放其他品牌手机使用。
-鲨鲨酱官方近日宣布，充电动画已支持大部分安卓机型，在更新到 V5.0.213.20231019 版本后，在界面显示和功能适配上全面兼容市面主流设备，并新增一款航天版充电动画。
-
-
-IT之家体验测试，用户可进入商城的充电动画版块，选择领取或购买动画。从首页的放置空间中选择充电驿站版块，滑动选择喜爱的充电动画，点击开启开关和应用按钮，即可完成充电动画的选择设置。
-
-
-鲨鲨酱最新版本可在应用宝、黑鲨应用商城、小米应用商店下载。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米米家电动鼻毛修剪器开售：采用纳米抗菌涂层，到手价 69 元]]></title>
-        <id>https://www.ithome.com/0/726/829.htm</id>
-        <link href="https://www.ithome.com/0/726/829.htm"/>
-        <updated>2023-10-23T03:53:58.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 Edvin 的线索投递！
-IT之家 10 月 23 日消息，此前在小米有品众筹的米家电动鼻毛修剪器现已正式开售，到手价 69 元，点此前往。
-
-据介绍，米家电动鼻毛修剪器配备刀头抗菌涂层，有效抗菌率≥99.0%（IT之家注：大肠杆菌抗菌率 99.99%，金黄色葡萄球菌抗菌率 99.98%），内部搭配双刃刀片；采用磁吸式刀头保护盖，按键隐藏于底部，具有防误触作用。该产品配备高速低噪微型马达，可实现 6500 转 / 分钟稳定运转，≤ 33.8 dB 低噪运行。
-
-这款产品续航时间达 90 分钟，官方宣称“满电模式可用近 1 年”（满电状态下，每星期使用 1 次且每次使用约 1 分钟的情况下）。此外，该产品还采用可分离机身设计，刀头可拆卸水洗；支持一键启动，即开即修剪；配备 Type-C 接口，方便充电。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米智能家庭面板今晚预售：触控 + 物理按键，到手价 319 元]]></title>
-        <id>https://www.ithome.com/0/726/802.htm</id>
-        <link href="https://www.ithome.com/0/726/802.htm"/>
-        <updated>2023-10-23T02:43:24.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 23 日消息，此前在小米有品众筹的小米智能家庭面板现已上架京东，并将于今晚 8 点开启预售，到手价 319 元。
-
-IT之家从官方获悉，小米智能家庭面板配备 3.23 英寸臻彩触控屏，采用触控 + 物理按键双形态控制，集智能开关、中控屏、小爱同学、蓝牙 Mesh 网关于一身，家中照明、环境、插座、窗帘等设备状态一目了然。
-
-这款新品具备“强大设备兼容性”，可控制 5500 + 智能设备，可让智能设备联动起来，支持睡眠、观影、离家等多种个性化智能场景自定义。该产品内置蓝牙 Mesh 网关功能，可同时连接 100 个蓝牙 Mesh 设备和 100 个蓝牙子设备。
-
-此外，该产品搭配中枢网关，可打造本地网络控制，官方宣称“提高响应速度与连接稳定性，偶然断网也可触控操作指定设备”。
-其他方面，这款新品支持小爱语音控制，配备光敏传感器，采用传统 86 盒尺寸，提供白色、深空灰两款配色，分别采用珠光漆、金属漆工艺。
-京东小米智能家庭面板 319 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米米家立式学习灯上架预售：定制全光谱灯珠，到手价 2299 元]]></title>
-        <id>https://www.ithome.com/0/726/789.htm</id>
-        <link href="https://www.ithome.com/0/726/789.htm"/>
-        <updated>2023-10-23T02:21:02.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 很宅很怕生 的线索投递！
-IT之家 10 月 23 日消息，在前段时间经过众筹之后，小米米家立式学习灯现已在电商平台正式上架，预售将于 10 月 23 日 20:00 开启，到手价 2299 元。
-
-IT之家汇总米家立式学习灯信息如下：
-
-这款灯具采用米家定制全光谱 LED 灯珠，灯光接近上午阳光，并可大幅削弱蓝光峰值。同时，在夜间模式下也能还原自然光下的真实色彩。
-
-这款灯具采用三重散射匀光结构，下光源采用一珠一镜设计，号称灯下写字几乎无手影。同时，上光源采用 360° 环带型出光，以漫反射来充分补充环境光。
-
-其上光源为 7000 流明，光线经天花板向各个方向反射，提升整室亮度，降低环境光与书桌学习亮暗差异；下光源为 3000 流明，采用一珠一镜设计，144 枚透镜多方位打散出光，防眩不刺眼。
-
-结构方面，这款灯具采用 90° 可旋转 + 探出式灯头，主照明区更容易覆盖学习区，且能避免因摆放位置受限导致的学习区照度偏低。同时配备 10kg 重、0.8cm 厚的底座，支持前后 15° 防倾倒，通过国标和欧盟 6° 防倾倒测试。
-
-该产品还配备无线蓝牙遥控器，双击可开启专注模式，并支持无级调光、管理用眼时间。
-
-该产品还可通过米家 App 来自定义开关渐变时长，可避免骤亮导致的光线涌入瞳孔刺激眼睛。同时，也可在米家 App 中设置与其他智能设备联动，打造包括“人来灯亮”在内的自动化智能场景。
-
-
-
-京东米家立式学习灯 2299 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac 版 WPS 接入 WPS AI，支持内容创作、修改文章、提炼重点等功能]]></title>
-        <id>https://www.ithome.com/0/726/763.htm</id>
-        <link href="https://www.ithome.com/0/726/763.htm"/>
-        <updated>2023-10-23T01:09:58.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 想笑 的线索投递！
-IT之家 10 月 23 日消息，“WPS 办公助手”公众号发文宣布，Mac 版 WPS 现已接入 WPS AI，将带来内容生成、内容修改、辅助阅读等功能。
-
-IT之家汇总 Mac 版 WPS 接入 WPS AI 之后，在文字、PDF 方面的功能如下：
-
-一键生成文章大纲、讲话稿、会议纪要等文件，在“WPS 文字”中双击 command 键，随后点击“文章大纲”即可启用。
-
-完成文章续写、扩充篇幅、润色段落，为用户智能修改文章，同样在“WPS 文字”，选中相应段落之后，双击 command 键之后即可选择相对应的“内容处理”功能。
-
-针对长文档，可利用 WPS AI 进行提炼重点，并提供用户想问的问题，为答案提供原文溯源，官方称可辅助用户全方位理解文档信息。该功能的入口则是在“PDF-选项卡-WPS AI-内容提问”中。
-
-可为外文文件进行解释、总结，具体操作为“PDF-选中段落-WPS AI-解释 / 总结”，通过鼠标划取相应内容，AI 即可生成解释和总结。
-
-
-
-金山办公在今年 9 月 5 日宣布，WPS AI 即日起面向社会开放。据金山办公官方公众号介绍，WPS AI 支持内容生成、公式生成等功能。用户输入主题可一键生成文字内容、制作 PPT，可分析表格数据生成报告、自动生成复杂公式等，结合随手拍功能可扫描识别并分析文件，移动端还支持语音操作。
-WPS AI 于今年 4 月正式发布，据介绍，WPS AI 是一个基于大语言模型下的生成式人工智能应用，可以帮助生成文档，支持多轮对话，以及对已有的文档进行处理等。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软 CEO 纳德拉：我经历过四次重大转变，AI 是第五次]]></title>
-        <id>https://www.ithome.com/0/726/753.htm</id>
-        <link href="https://www.ithome.com/0/726/753.htm"/>
-        <updated>2023-10-23T00:20:13.000Z</updated>
-        <summary type="html"><![CDATA[10 月 23 日消息，近日，微软首席执行官萨蒂亚・纳德拉（Satya Nadella）在媒体专访中表示，其经历过四次重大转变，目前正在经历第五次重大转变，即人工智能。
-纳德拉还表示，如果不能适应新的技术转变，那么可能会失去一切。
-此外，纳德拉在采访中称，完成动视暴雪交易是他迄今为止的最佳商业决策。北京时间 10 月 13 日晚间，微软正式对外宣布，已完成 687 亿美元收购动视暴雪交易。
-以下纳德拉在美国网络媒体 BI 专访中谈及的三个问题：
-1.微软收购动视暴雪的交易已经获得监管机构批准，为何这笔价值 650 亿美元的交易如此重要？
-纳德拉：的确，这笔收购的价格很高，但我们对此感到非常兴奋。对我们来说，有些东西甚至可以追溯到公司成立之初，游戏就是其中之一。当提到微软时，人们想到的可能是开发者工具、专有软件和游戏。这是我们从一开始就在做的三件事。
-所以，对我们来说，游戏是我们认为自己可以在消费者市场做出真正贡献的领域。如果仔细观察，你会发现人们花在游戏上的时间在增加，而 Z 世代会花更多的时间在游戏上。游戏的制作方式和传播方式正在发生根本性的变化。无论是手机、游戏机、个人电脑甚至是云计算，都是如此。
-有鉴于此，我们期待着以游戏制作人和发行商的双重身份加倍努力。现在，我们将成为最大的游戏发行商之一，同时也是一家为游戏搭建平台的公司。
-2.你认为微软最大的潜力在哪里?
-纳德拉：对我来说，我们最大的机会是人工智能（AI）。就像云计算改变了所有软件类别一样，我们认为人工智能就是这样一个变革性的转变。无论是搜索还是我们的 Office 软件套件，都会发生巨变。
-我们创建文档和电子表格或消费信息的方式正在发生根本性的变化。因此，我们引入的 Copilot 概念在推动生产力提高和沟通方面将真正产生革命性的影响。软件开发也是一样。事实上，人类的工作，无论是一线工作还是知识工作，都可以通过人工智能 Copilot 来增强，这将是最大的转变。
-3.你认为微软面临的最大风险是什么？你最害怕什么？
-纳德拉：我一直在寻找两样东西。在科技领域，不存在所谓的特许经营价值（franchise value）。我经历过四次重大转变：首先是个人电脑和 Windows 占据主导地位，然后是网络、移动以及云计算的高速发展，现在是人工智能，我非常关注从根本上改变所有类别的技术转变。
-如果你不能适应新的技术转变，那么你可能会失去一切。技术上的转变是一个方面。另一个是商业模式的转变，你不能指望未来的商业模式和过去的商业模式完全一样。云计算就是一个很好的例子。我们有很棒的服务器业务模式，而云计算完全是颠覆性的。我认为这是需要注意的事情。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲首家，Stellantis 旗下 DS 汽车宣布为部分车型集成 ChatGPT]]></title>
-        <id>https://www.ithome.com/0/726/747.htm</id>
-        <link href="https://www.ithome.com/0/726/747.htm"/>
-        <updated>2023-10-22T23:45:36.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 OC_Formula 的线索投递！
-IT之家 10 月 23 日消息，欧洲汽车巨头 Stellantis 上周四通过官方新闻稿宣布，聊天机器人 ChatGPT 即将登陆法国豪华汽车品牌 DS，这将是欧洲首家搭载 ChatGPT 的车企。
-
-▲ 图源 DS，下同
-据介绍，ChatGPT 与 DS 汽车的车机系统 DS IRIS SYSTEM 集成，将在 DS 3、DS 4、DS 7、DS 9 车型上搭载，用户将能获得“革命性”的对话体验，获取有用信息、完成大量任务。这次“上车”的 ChatGPT 将是 GPT-3.5 版本，通过与现有车机系统进行整合，ChatGPT 可用于为游客指路、提供艺术品的信息、解答成年人提出的问题或给儿童讲故事。
-
-ChatGPT 版车机首先将进行为期半年的测试，位于德国、法国、英国、西班牙和意大利的首批 20000 名客户可免费试用这项服务，当地的参与者可通过 OTA 来获得内置本国语言的 ChatGPT 版车机。据介绍，后续 Stellantis 旗下其他品牌、市场也将陆续用上集成 ChatGPT 的车机系统。
-现如今正在或即将集成 AI 大模型的车企越来越多，国内包括理想、智己、吉利等多家车企都已发布内置 AI 大模型的车机系统或新车；在海外车企中，测试在车机内集成大模型的则是梅赛德斯-奔驰。
-
-▲ 图源奔驰
-IT之家此前报道，梅赛德斯-奔驰今年上半年宣布陆续开始测试将车载语音助手接入 ChatGPT 聊天机器人，初期仅限于美国市场部分豪华车型。该公司表示，ChatGPT 与大约 90 万辆搭载 MBUX 智能人机交互系统的汽车兼容，车主可通过梅赛德斯应用或语音命令选择加入该测试计划，并通过无线方式下载 ChatGPT 功能。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[古尔曼：新款苹果 iPad 计划于 2024 年 3 月推出]]></title>
         <id>https://www.ithome.com/0/726/740.htm</id>
         <link href="https://www.ithome.com/0/726/740.htm"/>
@@ -2037,51 +2399,6 @@ Gurman 认为，苹果有可能会采用综合方法，亦或者是说折中方�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[会员年卡低至三折起：腾讯视频 / B站 / WPS / 网盘 / 微博 11.11 汇总]]></title>
-        <id>https://www.ithome.com/0/726/720.htm</id>
-        <link href="https://www.ithome.com/0/726/720.htm"/>
-        <updated>2023-10-22T12:51:00.000Z</updated>
-        <summary type="html"><![CDATA[目前大多数会员已开始 11.11 限时预售，叠加 10 元京东平台补贴后，价格都非常不错，有需求的小伙伴需速速下手哦。
-另外，23 日晚 8 点还可抽 3 次京东无门槛红包，支持即领即用：点此抽取。
-腾讯视频
-腾讯视频 VIP 会员年卡 11.11 狂促价 123 元，叠加京东平台补贴后仅需 113 元。
-超级年卡（支持电视端）11.11 狂促价 238 元，叠加补贴后低至 228 元官方年内探底价：
-京东腾讯视频 超级影视 SVIP 年卡预售 折合 19 元 / 月券后 228 元领 10 元券京东腾讯视频 VIP 会员年卡预售 折合 9.4 元 / 月券后 113 元领 10 元券
-SVIP 会员支持手机、平板、电脑、电视 4 端通用，本次大促折合 19 元 / 月。
-B站大会员
-B站大会员年卡原价 233 元，今年 11.11 大促直降至 88 元。
-且本次电视会员仅需 + 10 元，98 元即可入手大会员年卡：
-京东哔哩哔哩 大会员年卡 20 日~24 日 88 元直达链接京东哔哩哔哩 电视大会员年卡电视等四端通用补贴后 98 元直达链接
-WPS
-WPS 超级会员 4 年套餐 11.11 大促价 298 元，折合 6.1 元 / 月、73.2 元 / 年好价：
-京东 WPS 超级会员 4 年卡加赠 28 天预售到手 299 元领 20 元券
-超级会员 Pro 6 年套餐大促价 528 元，折合 7.3 元 / 月、88 元 / 年好价：
-京东 WPS 超级会员 Pro 5 年卡加赠 1 年 共 6 年预估到手 528 元领 20 元券
-超级会员 Pro 4 年套餐大促价 388 元，折合 7.9 元 / 月、95 元 / 年好价：
-京东 WPS 超级会员 Pro  4 年卡加赠 28 天预售到手 388 元直达链接
-百度网盘
-百度网盘 超级会员年卡 官方售价 298 元，11.11 大促直降至 178 元年内好价，赠送B站大会员季卡。
-预售期充值不到账，下单预定名额，31 号充值到账：
-京东百度网盘 SVIP 年卡赠B站大会员季卡 178 元直达链接京东百度网盘 SVIP 年卡赠B站大会员半年卡券后 198 元领 10 元券
-如果不喜欢B站大会员季卡，还可赠送优酷会员季卡：
-京东百度网盘 SVIP 年卡赠优酷会员季卡 178 元直达链接
-注：现购买权益时长 + 已有权益时长，不能超过 5 年，否则会充值失败。
-阿里网盘
-阿里云盘 超级会员官方定价 298 元 / 年，三年卡日常售价 894 元。
-今日三年卡可领 566 元大额券，实付 328 元即可入手
-折合 109 元 / 年、9 元 / 月 3.6 折官方年内探底好价：
-天猫阿里云盘 SVIP 三年卡 8TB 容量券后 328 元领 566 元券
-微博会员
-微博会员年卡日常售价 120 元，11.11 大促 + 叠加京东平台补贴后，实付 54 元即可入手。
-下单再赠 1 个月（共到手 13 个月），折合 4.15 元 / 月年内新低价：
-京东新浪微博 会员年卡到账 13 个月 20 日开始京东平台补贴 54 元直达链接
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。
-【广告】]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[市场研究机构：苹果已开始对折叠产品进行深入评估，预计 2027 年左右发布]]></title>
         <id>https://www.ithome.com/0/726/682.htm</id>
         <link href="https://www.ithome.com/0/726/682.htm"/>
@@ -2095,272 +2412,6 @@ IT之家 10 月 22 日消息，市场研究机构司 Stone Partners 总监 Kim K
 “OLED 过渡从第一代 iPhone 发布后约 10 年开始，我们谨慎地预测 2027 年会出现外形变化，这又是 10 年后的事了”，“考虑到发展情况，我们预计要到 2026 年或 2027 年才能看到新品发布。”
 “我们认为，苹果已经开始认真考虑推出四种类型的可折叠产品，包括翻盖式和可折叠式”，“基本上，开发一款产品需要三年以上的时间，因此，如果明年正式开始开发，我们预计要到 2027 年左右才能看到目前市场期待的具体可折叠产品。”
 据透露，苹果公司设想中的折叠屏产品是用于平板电脑和笔记本电脑等大屏设备，而不是智能手机。这是一种我们以前从未见过的“新形式因素”。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4 不知道自己错了！ LLM 新缺陷曝光，自我纠正成功率仅 1%]]></title>
-        <id>https://www.ithome.com/0/726/667.htm</id>
-        <link href="https://www.ithome.com/0/726/667.htm"/>
-        <updated>2023-10-22T07:21:05.000Z</updated>
-        <summary type="html"><![CDATA[【新智元导读】GPT-4 根本不知道自己犯错？最新研究发现，LLM 在推理任务中，自我纠正后根本无法挽救性能变差，引 AI 大佬 LeCun 马库斯围观。
-大模型又被爆出重大缺陷，引得 LeCun 和马库斯两位大佬同时转发关注！
-
-
-在推理实验中，声称可以提高准确性的模型自我纠正，把正确率从 16%「提高」到了 1%！
-
-
-简单来说，就是 LLM 在推理任务中，无法通过自我纠正的形式来改进输出，除非 LLM 在自我纠正的过程中已经知道了正确答案。
-
-由 ASU 研究人员发表的两篇论文，驳斥了之前很多研究提出的方法「自我纠正」—— 让大模型对自己的输出的结果进行自我纠正，就能提高模型的输出质量。
-
-论文地址：https://arxiv.org/ abs / 2310.12397
-
-论文地址：https://arxiv.org/ abs / 2310.08118
-论文的共同作者 Subbarao Kambhampati 教授，一直致力于 AI 推理能力的相关研究，9 月份就发表过一篇论文，甚至全盘否定了 GPT-4 的推理和规划能力。
-
-论文地址：https://arxiv.org/ pdf / 2206.10498.pdf
-而除了这位教授之外，最近 DeepMind 和 UIUC 大学的研究者，也针对 LLM 在推理任务中的「自我纠正」的能力提出了质疑。
-这篇论文甚至呼吁，所有做相关研究的学者，请严肃对待你们的研究，不要把正确答案告诉大模型之后再让它进行所谓的「自我纠正」。
-因为如果模型不知道正确答案的话，模型「自我纠正」之后输出质量反而会下降。
-
-https://arxiv.org/abs/2310.01798
-接下来，就具体来看看这两篇最新论文。
-GPT-4「自我纠正」，输出结果反而更差
-第一篇论文针对 GPT-4 进行研究，让 GPT-4 对图形着色问题提供解决方案，然…]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信聊天消息提示功能更新：App 打开时也能收到新消息弹窗]]></title>
-        <id>https://www.ithome.com/0/726/619.htm</id>
-        <link href="https://www.ithome.com/0/726/619.htm"/>
-        <updated>2023-10-22T00:20:29.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 Cris_Yi、kex1meirugu0、Alejandro86、佳宜 的线索投递！
-IT之家 10 月 22 日消息，最近不少网友发现，微信对消息弹窗进行了升级优化，在微信打开聊天页面、朋友圈时也能收到新消息显示了。
-打开微信，点击「我」-「设置」-「消息通知」，可以看到新增了「微信内消息横幅」以及「横幅显示内容」选项。有 3 种内容显示形式，分别为：仅显示你收到 1 条消息；显示朋友名称、群聊名；显示朋友名称、群聊名及消息内容。
-
-
-有网友试了下，感觉还不错，这样不会错过信息了。也有不少网友觉得，这个功能比较鸡肋，称信息更密集地铺在页面上没意义。还有网友在呼唤更多功能更新，比如老生常谈的朋友圈修改图片、文字......
-IT之家注意到，iOS 系统升级至微信版本 8.0.42 后可设置该功能，安卓系统需再等等。
-大家在IT之家微信号回复“微信”两字，即可获取当前最新官方内部版微信下载。
- 
- 
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丝绢流水怎么拍，4 种方法拍出拉丝效果，手机相机都可以]]></title>
-        <id>https://www.ithome.com/0/726/577.htm</id>
-        <link href="https://www.ithome.com/0/726/577.htm"/>
-        <updated>2023-10-21T10:20:10.000Z</updated>
-        <summary type="html"><![CDATA[丝绢流水是一种流行的拍摄题材，可以将河流、瀑布拍出拉丝效果，水流宛如白色的绸缎。
-原本普普通通的水流，有了拉丝效果的加持，立刻就变得高大上了。
-这种拍摄手法也非常简单，手机、相机都可以拍摄，今天我们来分享 4 种拍摄丝绢流水的效果。
-
-
-丝滑流水拍摄原理
-上面的照片是如何把水拍得这么丝滑呢，答案是使用慢门，也就是照片的快门速度长达 1 秒、5 秒、10 秒甚至更多。这段时间里，流水的运动轨迹被完全记录下来，重叠在了照片上，就形成了拉丝效果。
-快门时间控制着进光量，快门时间变长后，进光量增加，假如正常曝光是 1/4000 秒的快门，你用 1 秒的快门拍摄，照片就比原来亮 4000 倍，很可能就白花花一片了。所以有些人拍摄丝绢流水，拍出来的照片是白的。
-
-拍摄丝绢流水的核心 2 点：
-1.增加快门时间；
-2.保持正常曝光。
-
-
-拍摄方法 1：ND 镜
-买个“ND 减光镜”，这是一个类似于墨镜的镜片，拧在镜头前面，可以减少进光量。
-目前常见型号 ND 镜的减光能力：
-ND 0.3 = ND2 = 降低 1 挡快门
-ND 0.6 = ND4 = 降低 2 挡快门
-ND 0.9 = ND8 = 降低 3 挡快门
-ND 3.0 = ND1000 = 降低 10 挡快门
-教你个简单的记法，ND2 就代表快门速度可以乘 2，ND4 就代表快门速度可以乘 4。假如我没安 ND 镜的快门速度是 1/10 秒，那么我安装一块 ND2 就可以把快门调到 1/5 秒，照片的亮度是一样的。
-一般会先设置个较低的 iso，再用个小一点的光圈，这样可以减少进光量。然后试拍一张，看看快门时间是多少，再根据 ND 镜计算一下。
-盖上 ND 镜可能就漆黑一片了，所以要先构好图，调整好对焦，最后一步再盖上 ND 镜拍摄。
-特点：适用于相机，白天拍摄（光线强），需要配件，一次出片。
-拍摄方法 2：暗光环境
-在傍晚，天将黑未黑时拍摄；或在清晨，天将亮未亮时拍摄。这时候光线非常微弱，就不需要用 ND 镜了。
-一般把感光度调整到最低（如 iso100），再用个小一点的光圈，如 F16，由于光线较暗，快门能开到 1~5 秒左右。对于流速快的水，1~5 秒时间完全可以拍出很棒的拉丝效果。
-特点：适用于相机和手机，必须是暗光环境，无需配件，一次出片。
-
-拍摄方法 3：智能手机
-许多智能手机（如华为、小米、荣耀）都有一个专门拍摄丝滑流水的模式，我们可以打开这个模式直接用。以华为手机为例，打开相机-更多-流光快门-丝绢流水，对准流水按一下就是拍摄，再按一下就是停止，根据现场情况自己把握拍摄时长。
-特点：仅适用于部分手机，任何环境都可以拍，无需配件，一次出片。
-
-拍摄方法 4：后期堆栈
-如果我不想买 ND 镜配件，也没法等到暗光环境再拍，手机也没有专门的模式，那还能拍吗？
-答案是能。可以用 PS 后期平均值堆栈的方法拍摄。
-前期依然要固定相机不动，按照常规照片的拍摄方法，在同一个位置连续拍摄几十甚至上百张照片。（至于要拍多少张，就要看你的快门时间和水流的速度了）
-打开 ps，选择“文件-脚本-统计”，点击“浏览”选中所有的照片，堆栈模式选择“平均值”，稍等片刻就能生成一张丝滑的流水照片了。
-特点：适用于手机和相机，无需配件，拍摄工作量大，无法一次出片。
-
-构图建议
-在拍摄的时候，如果只有水流，未免显得有些单调，我们可以考虑低角度拍摄，寻找水中的岩石、岸边的植物作为前景，照片更加有层次感。同时低角度也能把很小的水流拍的比较大，看起来更有气势。
-
-构图除了要增加元素丰富画面，还有学会取舍，要格外注意不利于图像美感的杂乱元素，如果周围环境视觉美感欠佳，可以直接从瀑布顶端裁掉，重点表现水即可。
-
-本文来自微信公众号：摄影研修社 （ID：shoujiPhotography）
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徕卡 M4 相机，性能和操作]]></title>
-        <id>https://www.ithome.com/0/726/549.htm</id>
-        <link href="https://www.ithome.com/0/726/549.htm"/>
-        <updated>2023-10-21T08:05:06.000Z</updated>
-        <summary type="html"><![CDATA[LEICA M4
-徕卡 M4 是一种性能相对简单，但生产背景复杂的相机。它也是早期徕卡 M 和后期徕卡 M 功能和外观上的分界线。徕卡 M4 吸取了很多日本照相机的设计经验，这种吸收一定程度上改变了相机的外观，但徕卡 M 相机的设计精髓依然被保留下来。
-由于 M4 的功能实在简单，所以我们还是先看一下它的外观，功能几乎都写在脸上。我选用的是一台在拍卖会上的黑漆 M4，而在现实中，绝大部分 M4 都是银色的，原厂黑漆很少。我们看到的黑漆 M4 很多都是后制的，无论在中国还是日本都有这方面的手艺人。
-
-
-
-
-
-M4 的快门就是 M3 以来那块横走布帘快门，速度 1000，带 B 门，闪光同步 45。这个布制快门如果一直对着太阳会被烧出一个洞。快门如果经过保养，准确度和稳定性都很好。
-黄斑旁轴对焦，取景器结构和 M2 一样，取景倍率 0.7，倾向广角向，并且新增了一条框线，框线 35，50，90 和 135 共 4 条。如果是常用徕卡相机的朋友，那么这 4 条线肯定足够了，后面多出来的是 28 和 75，28 用得还多一点，75 其实很少有人用。
-相机带有定时拍摄，可以自拍，和之前的 M 相机一样，以旋扭的方式放置在正面。不过，M4 的正面零件外观发生了变化，不再是 M3，M2 的一体件，改为分体件，这个外观也很有日系相机的感觉，实际上分体不能提升多少使用体验。
-相比过去的 M2 相机，M4 的主要改动，或者说升级都是在非曝光操作层面。
-
-
-
-M4 使用 M3 的小窗计数，改变了过片扳手的形状和倒片的结构。
-过片改为分体的部件，减小了过片的角度，理论上可以提升过片的速度和手感。实际上只有在你眼睛在不离开取景器的前提下，这种过片才会顺手一点，否则没有太大区别。
-倒片从扣出按钮旋转变为一个旋转扳手，这个设计大大提升了相机倒片的效率。而在这之前，记者们为了提升效率是在倒片上加了一个部件…]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌 Chrome 等浏览器被曝漏洞，可以泄露你经常访问的网站]]></title>
-        <id>https://www.ithome.com/0/726/543.htm</id>
-        <link href="https://www.ithome.com/0/726/543.htm"/>
-        <updated>2023-10-21T07:27:43.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 21 日消息，根据 Fingerprint 发布的最新安全报告，包括谷歌 Chrome 浏览器在内，所有基于 Chromium 的浏览器都存在漏洞，可以泄露你经常访问的站点。
-
-这个问题主要出在站点参与度 (Site Engagement) 上，用户可以打开浏览器，在地址栏上输入 chrome://site-engagement，点击访问之后可以看到你参与度最高的所有网站。
-想要窃取用户经常访问的站点，需要配合另一项功能 -- Lookalike Warnings。IT之家注：该功能于 Chrome 75 版本开始默认引入，主要识别相似 URL 地址，避免用户点击钓鱼站点。
-Fingerprint 目前在 Chromium 中嵌入了主流域名列表，其中包括 489 个“top bucket”站点，共计有 4990 个域名。
-Lookalike Warnings 有两种警告类型：高度可疑站点会显示全屏警告；低可疑站点会显示弹出式窗口。
-
-网站可以通过滥用 Lookalike Warnings 的方式，泄露 Chromium 浏览器用户最常访问的站点。
-例如用户访问 app.slack.com.detection.site，只有 app.slack.com 互动的用户显示高度可疑警告。
-任意网站都可以通过检测网站打开的警告情况，来判断用户对某些站点的参与度，而 opener 可以重复将弹出窗口重定向到不同的地址，从而重复确认用户参与度比较高的站点。
-该公司还发布了一个演示网站，使用任何基于 Chromium 的浏览器用户可以点击这里进行测试。
-现阶段用户无法禁用 Site Engagement 功能，目前的措施就是定期删除数据，用户可以在浏览器的地址栏中加载 chrome://settings/clearBrowserData 进行清理。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photon Camera 应用更新：iPhone 15 Pro / Max 拍的照片可直接保存到外部储存中]]></title>
-        <id>https://www.ithome.com/0/726/522.htm</id>
-        <link href="https://www.ithome.com/0/726/522.htm"/>
-        <updated>2023-10-21T05:28:38.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 21 日消息，Photon Camera 在近日发布的 1.7.1 版本更新中，可以让 iPhone 15 Pro 和 iPhone 15 Pro Max 用户，直接将拍摄的照片储存到外接储存设备上。
-
-iPhone 用户如果选择 ProRAW 格式，拍摄 4800 万像素照片，那么单张容量大约在 75MB 左右。那么在参加活动、婚礼等场景下，拍摄下来可能会快速占用数十 GB 的空间。
-
-Photon Camera 在最新版本中简化了这些操作，可以将拍摄的照片直接保存在外部储存中。这项功能目前仅限于 iPhone 15 Pro 和 iPhone 15 Pro Max，并不兼容 iPhone 15 和 iPhone 15 Plus。
-IT之家注：Photon Camera 是一款专业的手机相机应用，可以保存为 JPEG，HEIF，RAW 或 ProRAW 格式，手动调整焦距、ISO 等相关数值。
-
-Photon Camera 是一款付费应用，一次性买断为 39.99 美元（IT之家备注：当前约 293 元人民币），订阅费用为每月 3.99 美元、每年 19.99 美元。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓版微软 Edge 浏览器加速整合 Copilot：可生成网页摘要等]]></title>
-        <id>https://www.ithome.com/0/726/494.htm</id>
-        <link href="https://www.ithome.com/0/726/494.htm"/>
-        <updated>2023-10-21T00:27:08.000Z</updated>
-        <summary type="html"><![CDATA[IT之家 10 月 21 日消息，微软正邀请安卓 Beta 成员，测试新版 Edge 浏览器，重点引入了 Copilot 功能，底部的新选项卡按钮已经替换为“Microsoft Copilot”。
-用户使用 Edge 浏览器过程中，点击 Copilot 按钮之后，就会看到对话浮动窗口，可以要求 AI 汇总当前页面的主要内容。
-
-这项功能对于经常在手机端浏览长文的用户比较友好，可以由 AI 生成摘要，让用户更快、更方便地了解主要内容。
-安卓版 Edge 浏览器中还引入了 PDF Copilot 功能，在用户阅读 PDF 文件时候，可以生成摘要等。
-
-IT之家根据文章附上一个案例如下，如果你想要阅读一篇关于金融的长报告，您可以要求一份包含主要内容的简短版本。
-
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暂未生效，微软 Edge 浏览器未来可 OCR 识别并翻译视频中文字内容]]></title>
-        <id>https://www.ithome.com/0/726/492.htm</id>
-        <link href="https://www.ithome.com/0/726/492.htm"/>
-        <updated>2023-10-21T00:10:15.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 Alejandro86 的线索投递！
-IT之家 10 月 21 日消息，消息源 Leopeva64 近日发布推文，表示在 Canary 频道最新版 Microsoft Edge 浏览器中引入新特性（暂未生效），可以 OCR 识别 YouTube 视频中的文本内容。
-
-在 Canary 频道最新版 Edge 浏览器中，用户将鼠标悬停到视频播放窗口，在画中画选项之外，还可以看到一个名为“翻译”的图标，但目前点击之后并不会生效。
-IT之家也尝试升级到 Canary 最新版 Edge 浏览器，在 B 站和 YouTube 网站均未发现这个“翻译”图标选项，预估目前微软仅邀请少量用户参与测试。
-Leopeva64 认为此翻译功能关联“翻译”侧边栏，用户未来点击之后，应该会呼出侧边栏，展示视频中相关的文字描述。
-广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
-        <author>
-            <name>IT之家</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果推送 iOS 17.1 RC2：仅面向 iPhone 15 / Pro 机型，修复“烧屏”等问题]]></title>
-        <id>https://www.ithome.com/0/726/484.htm</id>
-        <link href="https://www.ithome.com/0/726/484.htm"/>
-        <updated>2023-10-20T22:00:38.000Z</updated>
-        <summary type="html"><![CDATA[感谢IT之家网友 草莓慕斯糕、吉茵珂絲、手写的从前 的线索投递！
-IT之家 10 月 21 日消息，苹果公司以测试为目的，今天仅面向 iPhone 15、iPhone 15 Pro 系列四款机型，推送了第 2 个 iOS 17.1 候选版本。
-
-
-根据苹果官方日志，本次更新重点修复了会重置打开“重要地点”选项，以及“烧屏”问题。
-IT之家在此附上 iOS 17.1 RC2 更新内容如下：
-AirDrop
-
-用户走出 AirDrop 范围之后，可以继续通过互联网来传输内容。
-
-StandBy
-
-在关闭屏幕之后引入新的控制选项。（仅限于 iPhone 14 Pro、iPhone 14 Pro Max、iPhone 15 Pro 和 iPhone 15 Pro Max）。
-
-Music：
-
-收藏夹扩展为包括歌曲、专辑和播放列表，用户可以在曲库中过滤显示你最喜欢的内容。
-
-引入新的封面艺术收藏，可以跟随播放列表中的音乐，动态调整颜色。
-
-每个播放列表的底部会出现歌曲建议，可以轻松添加与播放列表氛围相匹配的音乐
-
-改进和修复错误
-
-选择特定相册以与锁定屏幕上的照片随机播放一起使用的选项
-
-Home 应用中的钥匙支持 Matter 门锁。
-
-提高了跨设备同步 Screen Time 设置的可靠性
-
-修复了在转移 Apple Watch 或首次配对时可能导致重要位置隐私设置重置的问题。
-
-解决了当您正在进行其他通话时可能不会显示来电者姓名的问题
-
-解决了自定义和购买的铃声可能不会显示为文本铃声选项的问题
-
-修复了可能导致键盘响应速度降低的问题
-
-优化车祸检测（所有 iPhone 14 和 iPhone 15 型号）
-
-修复了可能导致显示图像残留的问题
-
-某些功能可能不适用于所有地区或所有 Apple 设备。
-
 广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。]]></summary>
         <author>
             <name>IT之家</name>
