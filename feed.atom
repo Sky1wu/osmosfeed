@@ -1,791 +1,670 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-21T00:30:01.852Z</id>
+    <id>urn:2023-12-22T00:30:06.297Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T00:30:01.852Z</updated>
+    <updated>2023-12-22T00:30:06.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[[问与答] 我想在 cloudflare 的 worker 中写云函数,涉及到查询的 sdk,那 sdk 依赖问题怎么解决? 第一次写云函数,请大佬们指教一下.我看了很多个模板,都没看到有引入依赖的方式]]></title>
-        <id>https://www.v2ex.com/t/1002132#reply0</id>
-        <link href="https://www.v2ex.com/t/1002132#reply0"/>
-        <updated>2023-12-21T00:23:02.000Z</updated>
-        <summary type="html"><![CDATA[问与答 - @HUZHUANGZHUANG -]]></summary>
+        <title type="html"><![CDATA[[程序员] C#程序员开发手机页面有什么适合的 UI 框架？]]></title>
+        <id>https://www.v2ex.com/t/1002476#reply0</id>
+        <link href="https://www.v2ex.com/t/1002476#reply0"/>
+        <updated>2023-12-21T23:52:09.000Z</updated>
+        <summary type="html"><![CDATA[在谈一个外快单，页面基本都是增删改查功能，都是手机页面.]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Apple] iPhone 12pro 升级 17.2 后面容 ID 不定时调用失败、摄像头不定时调用失败]]></title>
-        <id>https://www.v2ex.com/t/1002131#reply1</id>
-        <link href="https://www.v2ex.com/t/1002131#reply1"/>
-        <updated>2023-12-21T00:05:43.000Z</updated>
-        <summary type="html"><![CDATA[你们有遇到到过 iPhone 升级后，面容 ID 会是不是抽风，摄像头也会时不时调用失败吗？无论是相机 app 还是微信调用不到摄像头，一片黑色。
-我试过重置手机，重装系统还是一样。]]></summary>
+        <title type="html"><![CDATA[[问与答] wise 账户以及入金问题]]></title>
+        <id>https://www.v2ex.com/t/1002473#reply1</id>
+        <link href="https://www.v2ex.com/t/1002473#reply1"/>
+        <updated>2023-12-21T18:36:12.000Z</updated>
+        <summary type="html"><![CDATA[想折腾美卡，发现 wise 入金 20 刀后会给一个美国 checking 账户，可以还款用，请问一下这个账户靠谱吗？
+另外，活动拿了一张中行的电汇手续费减免券，中行方面收的费用可以免掉，有往 wise 的美金账户电汇过的朋友知道中转行收费大概是多少吗？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[分享发现] 分享一个在线的极简网络记事本]]></title>
-        <id>https://www.v2ex.com/t/1002130#reply1</id>
-        <link href="https://www.v2ex.com/t/1002130#reply1"/>
-        <updated>2023-12-20T23:35:44.000Z</updated>
-        <summary type="html"><![CDATA[一个极简的网络记事本，在这个记事本中可以记录任意文字内容。
-网址（两个网站维护者不同，但功能一样）：
-https://notecho.in/
-https://notes.orga.cat/
-
-
-用法：
-https://notecho.in/v2v2
-
-
-注意：
-
-
-PS：个人平时习惯用来记录一些临时内容，包括但不限于密码（密码的一部分）、临时的教程摘录等，还挺好用的。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[生活] 精装房遇到房屋质量问题，开发商(维修经理)撒手不想管，实际中如何处理比较好]]></title>
-        <id>https://www.v2ex.com/t/1002129#reply3</id>
-        <link href="https://www.v2ex.com/t/1002129#reply3"/>
-        <updated>2023-12-20T21:13:50.000Z</updated>
-        <summary type="html"><![CDATA[是租的房子，这事跟我关系不大，其实就是想问问，如果自己买房遇到这种情况怎么处理最好最有效呢
-现在这个房子是 4 月份交房，7 月份入住的，住进来就发现房子有很多问题，房东说开发商有两年质保，所以能修。就开始了修房之旅，截至目前过去了 5 个多月，讲一下都什么位置修过，最后一次维修就是几天前
-天花板 两次
-墙壁开裂 两次
-室内门框变形 一次
-入户门漏风 一次
-淋浴房没打胶(密封) 一次
-卧室窗户漏水 一次
-所有窗户漏风 五次
-窗户漏风问题还挺严重的，就是普通平开窗的合页，合页位置风很大，已经不是说细风了，是呼呼的风，维修的五次胶条什么都换过，因为师傅水平参差不齐，每次来的师傅都会否定之前来的师傅做的事。除了合页漏风，整个窗户保温也很差。室外零下十度，其中一个卧室的窗户位置零下 1 度，其他的都还好。这还是室内有供暖的情况，地热，管内水温 25 度。 巧的是这个房子全明户型，所有屋都有窗户。 上个厕所得穿上棉袄，跟 TM 冬天上旱厕一样。
-现在主管这号楼得维修经理 以及他的经理，都不想管了。 最后一个师傅来说可能不是窗户漏风，可能是窗框与窗户之间胶没密封好导致得透风。经理原话是合页漏风是正常的，窗户冷也是正常的。 这种问题在北方租过这么多年房子是没遇到过的，就算是家里老房子也没有说这么严重(换过胶条还这样)
-作为租户来讲解决这个漏风、或是保暖问题还是比较简单的，买点东北大棚塑料布一粘都能解决。 但是如果说这房子要是我自己买的，可真是闹心啊。新房子就要用这种东西，而且开发商还不管了。
-所以问问大家，如果自己真遇到这种事，怎么处理，直接起诉么？非主体问题住建局是不管的吧。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[宽带症候群] 出国的话 联通移动电信哪个强]]></title>
-        <id>https://www.v2ex.com/t/1002128#reply6</id>
-        <link href="https://www.v2ex.com/t/1002128#reply6"/>
-        <updated>2023-12-20T20:21:35.000Z</updated>
-        <summary type="html"><![CDATA[现在出国的话用哪个宽带强]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 有没有人遇到过类似情况，苹果官网买礼品卡，支付手段不能用，过几天又能用了]]></title>
-        <id>https://www.v2ex.com/t/1002127#reply0</id>
-        <link href="https://www.v2ex.com/t/1002127#reply0"/>
-        <updated>2023-12-20T18:25:33.000Z</updated>
-        <summary type="html"><![CDATA[由于订阅了不少服务，因此得定期充值礼品卡到美区的账号。
-但是每次官网下单，感觉要支付成功得靠运气。因为经常会遇到「 Your payment authorization failed on card XXXX. Please verify your information and try again, or try another payment method.」的错误。
-然而往往过几天，输入同样的地址信息和卡，就能购买成功，非常奇怪。我有国内银联信用卡和万事达银联双标卡，和一张虚拟信用卡，都试过没有区别。因此可以肯定是苹果的问题。
-不知道各位有无类似经验，我 Google 上搜到不少，但没有解决方案。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 有人能分享一下 Google Earth VR 的使用体验吗?真的有旅行的感觉吗?]]></title>
-        <id>https://www.v2ex.com/t/1002126#reply3</id>
-        <link href="https://www.v2ex.com/t/1002126#reply3"/>
-        <updated>2023-12-20T18:25:23.000Z</updated>
-        <summary type="html"><![CDATA[一直很想买套 VR 设备玩玩,但看了下我手边这些年一时兴起跟风买的设备,iPadPro MacbookPro Kindle 全部一周都用不到一次,听说 VR 设备的吃灰率更高所以一直没买.]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] 由于 ToDesk 免费版几乎没法用了，分享两个替代的远程控制软件 [非自建]]]></title>
-        <id>https://www.v2ex.com/t/1002125#reply8</id>
-        <link href="https://www.v2ex.com/t/1002125#reply8"/>
-        <updated>2023-12-20T18:11:53.000Z</updated>
-        <summary type="html"><![CDATA[迫于 TODESK 一直炸鱼，电脑在境外，先是每十几秒断一次，提示你买高级版和全球包，现在发展到了直接不让连。
-找了好久，不自建服务器的情况下的远程控制软件，最好免费且没有很多离谱的限制
-1 ，UU 远控 https://yc.uu.163.com
-就是网易 UU 加速器那个 UU ，还在测试阶段，但是功能相对较少，但反正该有的都有，估计速度不错，毕竟加速器出身。境外不限制。
-2 ，爱思远控 https://www.i4.cn/pros.html
-就是给 iOS 刷机的那个爱思，现在也有远程桌面了
-界面和功能和 TODESK 几乎完全一样，能直接远程重启或者 CMD 。境外不限制。
-截止到 2023.12.20 这两个现在都是完全免费，没有任何故意的功能限制或者限速，以后不确定]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Python] 如何访问正在编写的包的版本号？]]></title>
-        <id>https://www.v2ex.com/t/1002124#reply1</id>
-        <link href="https://www.v2ex.com/t/1002124#reply1"/>
-        <updated>2023-12-20T17:49:07.000Z</updated>
-        <summary type="html"><![CDATA[我尝试建立一个 Python 项目。我使用 Poetry 来管理依赖。在我的 pyproject.toml 里，有下列内容：
-[tool.poetry]
-name = "gitdida"
-version = "0.2.0"
-
-我的目录结构为：
-project-root/
-|-- pyproject.toml
-|-- src/
-|   |-- gitdida/
-|       |-- __init__.py
-|-- tests/
-|   |-- test_script.py
-
-我希望能在项目的代码文件里访问到 version。但是，Poetry 自身没有提供代码访问途径。我查找网络上的信息，chatGPT 说可以通过importlib.metadata取得版本号：
-from importlib.metadata import version
-
-def test_version():
-    expected = "0.2.0"
-    assert version("gitdida") == expected
-
-
-但是，我执行测试后得到错误提示：importlib.metadata.PackageNotFoundError: No package metadata was found for gitdida
-为什么会找不到 gitdida 包呢？我卡这里很久了]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[天黑以后] 20231221 午夜俱乐部]]></title>
-        <id>https://www.v2ex.com/t/1002123#reply7</id>
-        <link href="https://www.v2ex.com/t/1002123#reply7"/>
-        <updated>2023-12-20T17:21:07.000Z</updated>
-        <summary type="html"><![CDATA[555]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[iPadOS] iPad pro 外接键盘输入法问题]]></title>
-        <id>https://www.v2ex.com/t/1002122#reply0</id>
-        <link href="https://www.v2ex.com/t/1002122#reply0"/>
-        <updated>2023-12-20T17:12:46.000Z</updated>
-        <summary type="html"><![CDATA[发现 ipad pro 的一个问题，不知算不算 bug ，外接第三方键盘时，在浏览器里打开百度搜索可以输入中文标点，打开 google 搜索输入的中文标点会自动转为英文标点，没有找到修复的地方]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Go 编程语言] Go 竟然没有标准库的 min max]]></title>
-        <id>https://www.v2ex.com/t/1002121#reply5</id>
-        <link href="https://www.v2ex.com/t/1002121#reply5"/>
-        <updated>2023-12-20T16:59:27.000Z</updated>
-        <summary type="html"><![CDATA[最近开始学 go ，就用 go 刷 leetcode ，竟然没有 min max 函数，真的非常蛋疼
-虽然 go 现在也有泛型了，但是直接用泛型写一个 min max 也是不行的
-func max[T comparable](a, b T) T {
-    if a > b {
-        return a
-    }
-    return b
-}
-
-还得再引入一个包
-import (
-	"golang.org/x/exp/constraints"
-)
-
-func max[T constraints.Ordered](a, b T) T {
-	if a > b {
-		return a
-	}
-	return b
-}
-
-所以这么设计的意义在哪里，很怪很怪，还有什么流行的语言没有内置 min 和 max 吗？
-C 也没有 max 和 min ，但是人家好歹可以用宏一行写一个，go 就不行]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[数学] 问个初中几何题目，没做出来]]></title>
-        <id>https://www.v2ex.com/t/1002120#reply13</id>
-        <link href="https://www.v2ex.com/t/1002120#reply13"/>
-        <updated>2023-12-20T16:46:29.000Z</updated>
-        <summary type="html"><![CDATA[https://imgur.com/gallery/VHctV9y]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 圈 X 支持协议及美区购买问题]]></title>
-        <id>https://www.v2ex.com/t/1002119#reply3</id>
-        <link href="https://www.v2ex.com/t/1002119#reply3"/>
-        <updated>2023-12-20T16:04:57.000Z</updated>
-        <summary type="html"><![CDATA[刚入的老 iPhone 啊，已经巨魔了，想入圈 X ，可是国区貌似没上架，美区没有信用卡，从哪可以买共享账号下载圈 X ，另外圈Ｘ是否支持 WARP 协议？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Android] 小米手机大陆版的 rom 不能使用谷歌镜头吧，有破吗？]]></title>
-        <id>https://www.v2ex.com/t/1002115#reply2</id>
-        <link href="https://www.v2ex.com/t/1002115#reply2"/>
-        <updated>2023-12-20T15:21:18.000Z</updated>
-        <summary type="html"><![CDATA[Android - @Windyzhou -]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[生活] 在某个店买了口香糖等商品放口袋，去另一个便利店能带进去吗？会被误会为偷或被搜身或出现警报提示吗？]]></title>
-        <id>https://www.v2ex.com/t/1002113#reply17</id>
-        <link href="https://www.v2ex.com/t/1002113#reply17"/>
-        <updated>2023-12-20T14:56:27.000Z</updated>
-        <summary type="html"><![CDATA[1 、其他物品也类似。
-2 、手里拿着一瓶水这种直接拿在外面的应该是不行的吧？这种应该很容易引起误会的吧？
-3 、如果是背了包，水和口香糖放包里是否与放口袋有不同？
-4 、如果是口香糖放口袋，然后去大超市（非便利店）呢？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[服务器] 有用过香港 3Broadband 吗，打开了内网端口，也无法从外网访问？]]></title>
-        <id>https://www.v2ex.com/t/1002112#reply3</id>
-        <link href="https://www.v2ex.com/t/1002112#reply3"/>
-        <updated>2023-12-20T14:43:25.000Z</updated>
-        <summary type="html"><![CDATA[香港通过 5G 联网的无线宽带，用的赠送的华为 5G 路由器，在内网电脑上开个 web 服务，在路由器上打开了 80 端口，也无法从外网访问。
-ping 也不行。
-是不是运营商就封杀了全部端口？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[微软] 用微软的 copilot（老名字叫 new bing）老是断线，]]></title>
-        <id>https://www.v2ex.com/t/1002110#reply0</id>
-        <link href="https://www.v2ex.com/t/1002110#reply0"/>
-        <updated>2023-12-20T14:34:47.000Z</updated>
-        <summary type="html"><![CDATA[为啥用微软的 https://copilot.microsoft.com
-用梯子老是会断线，用一会儿就不能用了，老是提示：正在尝试重新连接...
-求大佬解答]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[互联网] 小新 Pro16 2024 款值得入手吗]]></title>
-        <id>https://www.v2ex.com/t/1002109#reply2</id>
-        <link href="https://www.v2ex.com/t/1002109#reply2"/>
-        <updated>2023-12-20T14:25:05.000Z</updated>
-        <summary type="html"><![CDATA[最近想买一款笔记本，要求续航好一些，看到新发布的小新 Pro 16 寸的电池是 84WH ，所以心动了。但是以往小新 Pro 的口碑不好，还在纠结。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 关于罗技鼠标的问题]]></title>
-        <id>https://www.v2ex.com/t/1002108#reply0</id>
-        <link href="https://www.v2ex.com/t/1002108#reply0"/>
-        <updated>2023-12-20T14:23:39.000Z</updated>
-        <summary type="html"><![CDATA[各位大佬，请教一下我的 G102 鼠标，在 chrome 和 edge 上面左侧的前进和后退按键都不起作用，但在 window 文件资源管理器和其他的软件上面又可以，之前 chrome 是可以的，貌似是升级到 win11 以后就出问题了。鼠标驱动啥的也装了！不知道各位有碰到过这种情况没？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 如何本地训练一个简易的某个领域的模型， nanoGPT 可以吗？]]></title>
-        <id>https://www.v2ex.com/t/1002107#reply0</id>
-        <link href="https://www.v2ex.com/t/1002107#reply0"/>
-        <updated>2023-12-20T14:20:53.000Z</updated>
-        <summary type="html"><![CDATA[自己配置训练数据，如给某小说的 txt 进去，训练一个懂这个小说的模型，后面再调用这样。有看到一个 nanoGPT,还在研究]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[职场话题] 明年互联网圈大环境会比今年更好吗？工作会更好找吗？]]></title>
-        <id>https://www.v2ex.com/t/1002106#reply12</id>
-        <link href="https://www.v2ex.com/t/1002106#reply12"/>
-        <updated>2023-12-20T14:20:16.000Z</updated>
-        <summary type="html"><![CDATA[职场话题 - @NothingExist -]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 艺术漆和乳胶漆选择哪个？]]></title>
-        <id>https://www.v2ex.com/t/1002105#reply0</id>
-        <link href="https://www.v2ex.com/t/1002105#reply0"/>
-        <updated>2023-12-20T14:16:02.000Z</updated>
-        <summary type="html"><![CDATA[艺术漆和乳胶漆选择哪个？哪个好！！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MacBook Pro] 买 m2 air 还是 m3 pro]]></title>
-        <id>https://www.v2ex.com/t/1002104#reply2</id>
-        <link href="https://www.v2ex.com/t/1002104#reply2"/>
-        <updated>2023-12-20T13:56:07.000Z</updated>
-        <summary type="html"><![CDATA[已有 studio m2 max(12+30)/64G/1TB ，偶尔有移动办公的需求，16 年的 macbook pro i7 太卡了，电池也废了，想再买台笔记本应付下临时需求。
-现有两个选项：
-m2 air 13.6 (8+8) 24G/512 价格 11200
-m3 pro 14 (12+18) 36G/1TB 价格 19400
-有在用 m2 air 的 v 友么，这个配置用来开发 java/node 卡不卡？一年估计最多用上大半个月，买 m3 pro 是不是有点不值？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[旅行] 12 月出发两周时间的旅行，你会去哪？]]></title>
-        <id>https://www.v2ex.com/t/1002103#reply4</id>
-        <link href="https://www.v2ex.com/t/1002103#reply4"/>
-        <updated>2023-12-20T13:54:18.000Z</updated>
-        <summary type="html"><![CDATA[楼主很闲打算去旅行，目的地国内/东南亚，完全没有头绪只想去暖和一点的地方，大家有没有推荐阿]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[奇思妙想] 有没有自动读取剪切板信息问答的 GPT 插件]]></title>
-        <id>https://www.v2ex.com/t/1002102#reply6</id>
-        <link href="https://www.v2ex.com/t/1002102#reply6"/>
-        <updated>2023-12-20T13:53:34.000Z</updated>
-        <summary type="html"><![CDATA[最近突然有个需求：在 MacOS 下快速呼出 Chatgpt 问答
-但是我希望是可以自动读取我剪切板的信息（文本、图片或者是文件），然后自动走 API 问答，返回回答给我，我可以直接粘贴到指定地方。
-场景举例：我在做课堂笔记，看 PPT ，突然想把整页的 ppt 给 chatgpt 读，让他返回关于这页 ppt 的理解（或者根据我的 prompt 做回应），我收到回答后，可以直接把 GPT 的回答和理解修改后作为笔记粘贴在笔记软件上
-我有用 alfred ，但是似乎 alfred 没有这个功能]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] 将 OneDrive 的文件迁移到 Google Drive 的 4 种方法]]></title>
-        <id>https://www.v2ex.com/t/1002101#reply0</id>
-        <link href="https://www.v2ex.com/t/1002101#reply0"/>
-        <updated>2023-12-20T13:52:26.000Z</updated>
-        <summary type="html"><![CDATA[https://www.ricedrive.com/guides/how-to-transfer-files-from-onedrive-to-Google-Drive.html]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] 回顾 2023 年你入手的迷你主机]]></title>
-        <id>https://www.v2ex.com/t/1002100#reply13</id>
-        <link href="https://www.v2ex.com/t/1002100#reply13"/>
-        <updated>2023-12-20T13:47:27.000Z</updated>
-        <summary type="html"><![CDATA[受本坛贴子启发，来个专门的迷你主机回顾贴吧
-说说你的选择和理由
-个人比较关心轻办公不打游戏静音的型号]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 负债 508159.47，如何在两到三年内还完]]></title>
-        <id>https://www.v2ex.com/t/1002098#reply39</id>
-        <link href="https://www.v2ex.com/t/1002098#reply39"/>
-        <updated>2023-12-20T13:41:48.000Z</updated>
-        <summary type="html"><![CDATA[这一年马上就要过去了，一直刻意的不想去算自己的账单，一到月底就是各种还款通知，每天焦虑到睡不着。
-	今天仔细算了一下各种欠款，竟然达到了五十万，整个人又陷入极度的焦虑中，毕业五年，今年已经 26 了，马上 27 ，什么时候才是个头，感觉日子遥遥无期。本来想通过炒股快速致富，但是这垃圾市场跌跌不休，也赚不了什么钱。
-	现在每个月到手 15k,感觉就是杯水车薪，交完房租，跟女朋友吃吃喝喝也剩不了几个钱。以前自己一个人八千的工资能扣出来 3000 还债，现在涨了工资却 3000 都拿不出来还债。上一年账单还只有 12 万，压力也没那么大，一个月到手一万多的工资轻轻松松两年还完。可是后面发生了太多事，做手术 2 万+2 万，术后恢复 2 万、前女友 4 万，家里 4 万，两次租房押金 1 万多，光这些一下想到的大头就增加了十几万。股市还套着十万，这是最后的积蓄了。
-	有没有什么晚上和周末可以做的副业搞一下，开源节流两年三年内把这些钱还清。
-附上账单
-中信 69556.31
-广州 105,745.2
-平安 42809.46
-广发 23333.48
-招商 67154.86 + 73294.66
-光大 6330
-交通 14286.16
-顺德 17000
-京东 35649.34 = 455159.47
-朋友 30000+15000+8000
-总计 508,159.47]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Android] 一加 12 国行 Rom 有内置谷歌吗？]]></title>
-        <id>https://www.v2ex.com/t/1002097#reply17</id>
-        <link href="https://www.v2ex.com/t/1002097#reply17"/>
-        <updated>2023-12-20T13:37:22.000Z</updated>
-        <summary type="html"><![CDATA[不打算 BL 或者刷 Rom ，直接用国行版原装的 OS 。需求如下：
-谷歌全家桶
-Google Pay 能绑 NFC Visa/Mastercard 信用卡
-Gmail 啥的能正常推送
-Google Play 能安装/更新应用
-我目前用的是国行版的小米 11pro ，在国外用了三年了，没刷机基本上没啥大问题，谷歌的服务都能用，GPay 也能 nfc 支付。Google Map 时间线一直没有不过问题不大。 还有一个问题是没有办法匹配最新的 Wear OS 手表，显示 gms 版本过低，我查了一下国版的小米 gms 是阉割过的，而且无法更新。
-年底想回国买一个新的安卓机，正犹豫一加 12 或者小米 14 ，还是在国外用。
-ps 不买国外版的原因一个是要等（至少半年小米 14 才有国际版），价格贵。国外的三星/pixel 性价比不高，硬件配置被国内手机完爆价格却看齐 iPhone]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 防静电手环。真的管用吗？可以消除静电吗？]]></title>
-        <id>https://www.v2ex.com/t/1002096#reply1</id>
-        <link href="https://www.v2ex.com/t/1002096#reply1"/>
-        <updated>2023-12-20T13:34:46.000Z</updated>
-        <summary type="html"><![CDATA[是智商税还是真的可以消除静电呀？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 老码农请教 js/ts 入门。]]></title>
-        <id>https://www.v2ex.com/t/1002095#reply8</id>
-        <link href="https://www.v2ex.com/t/1002095#reply8"/>
-        <updated>2023-12-20T13:23:31.000Z</updated>
-        <summary type="html"><![CDATA[十几年后端，技术栈是 c\c++，golang ，rust 。工作需要，正在学习 solidity 。学习过程中了解到 solidity 相关工具生态都是 js/ts ，需要额外学习 js/ts 用作脚本语言。
-不需要学习前端知识，不需要学习相关 js\ts 后端技术栈，只需要能够用来当脚本语言就行。类似 python 、shell 这些语言，在后端领域都是用来当脚本语言居多。
-请问有什么入门方法，直接看官网 handbook:https://www.typescriptlang.org/docs/handbook/intro.html 是否足够胜任工作？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MySQL] mysql 8 更新了 uuid 函数,所以我想把 id 的值设为 uuid ,是否建表 id char(36) 就可以了?]]></title>
-        <id>https://www.v2ex.com/t/1002094#reply7</id>
-        <link href="https://www.v2ex.com/t/1002094#reply7"/>
-        <updated>2023-12-20T13:18:07.000Z</updated>
-        <summary type="html"><![CDATA[CREATE TABLE color ( 
-  id CHAR ( 36 ) PRIMARY KEY NOT NULL, 
-  name VARCHAR ( 40 ) NOT NULL
-);
-
-INSERT INTO color
-VALUES
-	( UUID(), 'blue' );
-
--- select uuid() -- f5601d25-9f36-11ee-b57e-0242ac130002
-
-我打印(select uuid(),发现是 36 个字符)
-于是用的 id char(36),是不是这样建表的呢?
-插入也需要手动调用 uuid() 方法吗?]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Podcast] 篡改猴脚本：给 web 版小宇宙 FM 增加播放速率选项]]></title>
-        <id>https://www.v2ex.com/t/1002093#reply0</id>
-        <link href="https://www.v2ex.com/t/1002093#reply0"/>
-        <updated>2023-12-20T13:16:14.000Z</updated>
-        <summary type="html"><![CDATA[通过TamperMonkey 扩展写脚本，给小宇宙播放页面增加了倍速选项，方便在电脑上收听。
-搭配枫言枫语的这个播客榜单，上班摸鱼 探索自己感兴趣的播客节目，真不错！
-后续如果有新功能迭代，最新代码会在 博客 上进行更新。
-
-// ==UserScript==
-// @name         小宇宙 FM-增加倍速选项
-// @namespace    http://tampermonkey.net/
-// @version      0.6
-// @description  try to take over the world!
-// @author       icheer
-// @match        https://www.xiaoyuzhoufm.com/episode/*
-// @match        https://www.xiaoyuzhoufm.com/podcast/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=xiaoyuzhoufm.com
-// @grant        none
-// ==/UserScript==
-
-(async function init (delay = 0) {
-  const sleep = time => new Promise(resolve => setTimeout(resolve, time));
-  const $ = sel => document.querySelector(sel);
-  const CE = tag => document.createElement(tag);
-  await sleep(delay);
-  const panel = $('.controls');
-  if (!pa…]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 分享一下你们觉得好用&待入的 Magsafe 配件]]></title>
-        <id>https://www.v2ex.com/t/1002091#reply2</id>
-        <link href="https://www.v2ex.com/t/1002091#reply2"/>
-        <updated>2023-12-20T13:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Apple - @Pig930 -]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Windows] Windows11 上怎么读取 APFS 的移动硬盘]]></title>
-        <id>https://www.v2ex.com/t/1002090#reply7</id>
-        <link href="https://www.v2ex.com/t/1002090#reply7"/>
-        <updated>2023-12-20T13:11:03.000Z</updated>
-        <summary type="html"><![CDATA[搜了一圈，感觉网上的东西都比较杂，有实际用过比较好用的软件吗
-只需要读取，不需要写入
-WSL2 下的方案也可以推荐下 🙇]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[软件] 今天我是吸引 BUG 体质]]></title>
-        <id>https://www.v2ex.com/t/1002089#reply0</id>
-        <link href="https://www.v2ex.com/t/1002089#reply0"/>
-        <updated>2023-12-20T13:06:24.000Z</updated>
-        <summary type="html"><![CDATA[谷歌浏览器（ 120.0.6099.110 版本），点击鼠标右键以在新标签页中打开链接的方式打开新的网页，会发现新打开的这个网页加载不出来。
-在 youtube 看视频时，打开 youtube 的通知，发现滑动鼠标滚轮时页面不会下滑（我理解这是预期现象），但是鼠标拖拽页面右侧的滚动条时，页面会一边滚动一边抖动。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NAS] 请教一下 pt 保种和刮削的冲突问题]]></title>
-        <id>https://www.v2ex.com/t/1002088#reply9</id>
-        <link href="https://www.v2ex.com/t/1002088#reply9"/>
-        <updated>2023-12-20T13:04:56.000Z</updated>
-        <summary type="html"><![CDATA[我的资源已经用 TMM 刮削整理好了，路径是/path/to/Movie 、/path/to/tvshows
-但是我如果用 PT 下载新资源再刮削由于文件名等被修改就无法保种了，如果手动硬链接太麻烦了，nastools 我又没有认证站点的账号
-还有其他的方法吗]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] golang 里 context 和 logger 绑定的问题]]></title>
-        <id>https://www.v2ex.com/t/1002087#reply2</id>
-        <link href="https://www.v2ex.com/t/1002087#reply2"/>
-        <updated>2023-12-20T13:03:05.000Z</updated>
-        <summary type="html"><![CDATA[import (
-	"context"
-
-	"github.com/pingcap/log"
-	"go.uber.org/zap"
-	iris "github.com/kataras/iris/v12"
-)
-
-func NewContext(ctx iris.Context, fields ...zap.Field) iris.Context {
-	ctx.Values().Set(loggerKey, WithContext(ctx).With(fields...))
-	return ctx
-}
-
-func WithContext(ctx iris.Context) *zap.Logger {
-	if ctx == nil {
-		return log.L()
-	}
-
-	if ctxLogger, ok := ctx.Values().Get(loggerKey).(*zap.Logger); ok {
-		return ctxLogger
-	} else {
-		return log.L()
-	}
-}
-
-func NewStdContext(ctx context.Context, fields ...zap.Field) iris.Context {
-	ctx.WithValue(ctx, loggerKey, WithStdContext(ctx).With(fields...))
-	return ctx
-}
-
-func WithStdContext(ctx context.Context) *zap.Logger {
-	if ctx == nil {
-		return log.L()
-	}
-
-	if ctxLogger, ok := ctx.Value(loggerKey).(*zap.Logger); ok {
-		return ctxLogger
-	} else {
-		return log.L()
-	}
-}
-
-分别用到了 iris.Context 和 context.Context ，现在要给每个 context 写一个绑定方法。
-请教下，有没有更好的实现方式？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[YouTube] Youtube 手机端的自动翻译功能失效]]></title>
-        <id>https://www.v2ex.com/t/1002086#reply1</id>
-        <link href="https://www.v2ex.com/t/1002086#reply1"/>
-        <updated>2023-12-20T12:58:32.000Z</updated>
-        <summary type="html"><![CDATA[手机端 对一些没有字幕的视频，一直是先自动生成英文字幕，然后再自动翻译为中文。
-现在自动翻译功能坏了。生成字幕没问题，但只要选择翻译为中文，字幕就消失了。
-选择别的语言没有问题，
-现在必须要视频本身自带字幕之后才可以翻译中文
-如果视频没有自带字幕 是自动翻译的英文字幕，之后在选择翻译中文就失效了，但是选择别的语言都可以]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 微信公众号，小程序应该是变成了一年一认证]]></title>
-        <id>https://www.v2ex.com/t/1002085#reply1</id>
-        <link href="https://www.v2ex.com/t/1002085#reply1"/>
-        <updated>2023-12-20T12:57:13.000Z</updated>
-        <summary type="html"><![CDATA[每年都需要交 300 ，绝了]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[生活] [2024 目标贴]]]></title>
-        <id>https://www.v2ex.com/t/1002083#reply1</id>
-        <link href="https://www.v2ex.com/t/1002083#reply1"/>
-        <updated>2023-12-20T12:54:24.000Z</updated>
-        <summary type="html"><![CDATA[工作之后越发觉得时间过得越来越快，感觉不记录点什么都不知道这一年下来都干嘛了。
-定一下 24 年的小目标：
-看十五本书
-雅思
-狗到 2025
-希望一年后还能来对一下嘿嘿]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[VPS] BandwagonHost CN2 GIA VPS 转让]]></title>
-        <id>https://www.v2ex.com/t/1002081#reply0</id>
-        <link href="https://www.v2ex.com/t/1002081#reply0"/>
-        <updated>2023-12-20T12:27:56.000Z</updated>
-        <summary type="html"><![CDATA[用了好几年了，一直挺稳定的，最近也一直用来连 ChatGPT ，除了用着贵了一点，没什么其他问题。
-最近换了新的服务器，于是转让这台服务器。
-US: Los Angeles, California (DC6 CT CN2GIA-E) [USCA_6] (current)
-US: Los Angeles, California (DC9 CT CN2GIA) [USCA_9]
-US: Los Angeles, California (DC3 CN2) [USCA_3]
-US: Los Angeles, California (DC8 ZNET) [USCA_8]
-US: Los Angeles, California (DC2 AO) [USCA_2]
-US: Los Angeles, California (DC4 MCOM) [USCA_4]
-US: Fremont, California [USCA_FMT]
-US: New Jersey [USNJ]
-US: New York [USNY_2]
-CA: British Columbia, Vancouver [CABC_1]
-CA: British Columbia, Vancouver (CN2GIA) [CABC_6]
-EU: Amsterdam, Netherlands [EUNL_3]
-EU: Amsterdam, Netherlands (China Unicom Premium) [EUNL_9]
-Japan: Osaka (Softbank) [JPOS_1]
-
-到期时间是 2024/11/29,剩余价值 310 ；还有 18.35$ credits
-有需要的朋友可以可以联系 QQ(base64):MjI4NjE4Njgw]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 13PM、14Ps、15Ps 怎么选]]></title>
-        <id>https://www.v2ex.com/t/1002080#reply10</id>
-        <link href="https://www.v2ex.com/t/1002080#reply10"/>
-        <updated>2023-12-20T12:18:08.000Z</updated>
-        <summary type="html"><![CDATA[手持 11pro ，系统一直跟着升到 17.2.1 ，最首要的续航已经有点遭不住了
-平常经常看视频,也经常用人像模式拍照,缺个 5G 没体验过,双持一台 Pixel5,全局 90Hz 让我感觉我对高刷并不算敏感.
-预算内看中了 13PM 、14Plus 、15Ps
-13PM 有人像摄像头、高刷
-14Ps 续航够,能便宜入
-15Ps 有灵动岛+Type C
-这三个机子怎么选好?
-还是或者说入一台 iPad mini? (但其实很多 app 对 iPad 的适配好像不算好)]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 买二手 3070 还是全新 4060ti，大家怎么选择]]></title>
-        <id>https://www.v2ex.com/t/1002079#reply12</id>
-        <link href="https://www.v2ex.com/t/1002079#reply12"/>
-        <updated>2023-12-20T12:17:22.000Z</updated>
-        <summary type="html"><![CDATA[就想买张显卡，也不知道自己有多爱打游戏，可能新鲜感过了就卖了]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[酷工作] 量化招聘： Quant/PM 专场-新加坡-Global Pay]]></title>
-        <id>https://www.v2ex.com/t/1002078#reply0</id>
-        <link href="https://www.v2ex.com/t/1002078#reply0"/>
-        <updated>2023-12-20T11:59:22.000Z</updated>
-        <summary type="html"><![CDATA[▪️招聘：Quant/PM&新加坡&Global Pay
-▫️职位：Quant/PM
-▪️公司：量化对冲基金
-▫️地点：新加坡
-▪️推荐奖：5000 -30000 元人民币
-▫️薪资：Global Pay
-▪️关键词：量化，对冲基金，quant ，AI ，python ，hydge found
-欢迎加入 FinTech 社区🎉 5 万+会员量化/AI 招聘社区，quant 群，技术群，求职群
-▪️500+量化职位合集:https://lnkd.in/g3cFRwdX
-▫️微信：Fintechgl1
-▪️邮箱： career@fintechgl.com]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 十二年 Andorid 转 iOS 有感]]></title>
-        <id>https://www.v2ex.com/t/1002077#reply12</id>
-        <link href="https://www.v2ex.com/t/1002077#reply12"/>
-        <updated>2023-12-20T11:57:16.000Z</updated>
-        <summary type="html"><![CDATA[大概 2011 年吧，正式从日渐衰微的塞班系统转 Android ，第一款选了 moto 的 Defy ，从此开始了我的 Android 旅程，此后开始在 Google 的 Nexus 、Pixel 系列下玩机，后面国外品牌逐渐拉跨，国产品牌崛起，用了 Oneplus ，oppo find 系列，然后 FindN1 、N2 大折叠、Razr Ultra 小折叠，总之 2023 年，对 Android 折腾累了，入了 15PM 。
-为什么放弃安卓呢，有以下几点：
-1.国产安卓定制程度高，但 OTA 频率低，基本入手后就是等大本版更新，管生不管埋；
-2.割裂的通知机制。国内鱼龙混杂的推送 sdk ，还有安卓奇葩的必须挂后台才能接收推送的机制；
-3.Google Pixel 系列的逐渐拉跨，年年用自研（三星）处理器，性能拉跨不说，基带信号还差的要死，性价比相较曾经的 nexus 也无了；
-4.生态混杂。本来安卓牌子就多，出的配套设备也是有一出没一出，换个其他牌子，某些特性就没了。
-5.内存管理成谜。虽说近年内存都挺大，评测对保活数量也显著高于果子，但对于大型游戏的保活做的一团糟，管你怎么设置驻留、去省电优化，结果就是随性的时好时坏。直接点名 Oppo 的 ColorOS ，保活没做好，通知推送竟然还不会响
-自入了 15PM 后，有如下体验
-优点：
-1.统一通知推送。别扯什么微信延迟，就绝大部分应用通知推送非常及时。
-2.生态完备。这个就不说了，明摆着的，现在入了 watch 、airpods ，tv ，等后面新出的 iPad 、mac
-3.体验舒适。都说 iOS 软件制作精美，比 Android 要好不少。真的，至少 Google App 在 iOS 上做的真比自家 Pixel 要强，无论哪方面。apple tv 和 google 4k 一比，高下立判。
-4.屏幕素质。不知道为啥，看果子的屏幕就是挺舒服，可能被近年的国产屏惯的。
-5.siri+快捷指令。非常好用，配合我的 ModelY ，语音控制空调、前后备箱、媒体音量，直接打通车内午睡嘴动流程
-6.周边丰富。想起以前给 Pixel 配些配件都要海淘或者代购，也是醉了，费心费力。
-7.谷歌服务支持优异。这点非常好评，比在 android 下折腾方便多了，用个外区 id 就搞定下载事宜了。
-8.续航满意。Wifi 下是个战神，蜂窝下是个怂。
-缺点：
-1.贵。RAM 和 ROM 都是金子做的；
-2.无线充电鸡肋。不带散热的无线充就是电池杀手；
-3.信号中等偏下。我是单卡，只能说比国产差，比 pixel 好；
-4.骚扰电话及短信没有合理处置措施。
-5.国产化轻微。什么 T9 播放、通话录音别想了。
-6.大刘海。说实话挺影响通知查看的，有时一个不留神，错过挺多通知，每天都要集中时间划呀划。
-7.面容识别。摘了眼镜就不认识我了。晚上解锁也是问题。
-总之处于不折腾的年纪了，就姑且这么用着，目前来说，满意。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MacBook Pro] 14.2.1 这是又把显示器 USBC 充电给整出 bug 了？]]></title>
-        <id>https://www.v2ex.com/t/1002076#reply1</id>
-        <link href="https://www.v2ex.com/t/1002076#reply1"/>
-        <updated>2023-12-20T11:54:18.000Z</updated>
-        <summary type="html"><![CDATA[下班回家
-把 Mac 升级系统到 14.2.1
-然后就发现显示器无法给 MacBook Pro 充电了
-卧槽
-21 年就整过一回，然后 AOC 换了 LG 的显示器
-现在又来
-MacBook Pro M1]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 帮朋友问问电脑配置清单]]></title>
-        <id>https://www.v2ex.com/t/1002074#reply5</id>
-        <link href="https://www.v2ex.com/t/1002074#reply5"/>
-        <updated>2023-12-20T11:45:50.000Z</updated>
-        <summary type="html"><![CDATA[已经有 3070 显卡了
-配置连接：
-https://diy.jd.com/#/assembleDetail?id=6663356&diyType=0&rid=3e0c2a64&share=1&path=myinstall
-图如下：
+        <title type="html"><![CDATA[[ WATCH] 大家的 Apple Watch 天冷会自动关机么？]]></title>
+        <id>https://www.v2ex.com/t/1002472#reply4</id>
+        <link href="https://www.v2ex.com/t/1002472#reply4"/>
+        <updated>2023-12-21T18:13:40.000Z</updated>
+        <summary type="html"><![CDATA[手持 S7 ，室外温度 -10 度，晚上出去跑步。
+到家直接充电，后来看了耗电图，发现关机那段时间（ 22:50 ）电量并没有很低。怀疑是天冷自动关机了。
+耗电图：
  
-有啥需要调整的吗？玩云顶，吃鸡，和 skyline
-没玩游戏，不知道这些配置够不够]]></summary>
+大家的 AW 有这个问题么？有的话是什么型号？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 请教：油管已锁区，用网上教的办法换区不成功 ，怎么办？]]></title>
-        <id>https://www.v2ex.com/t/1002073#reply6</id>
-        <link href="https://www.v2ex.com/t/1002073#reply6"/>
-        <updated>2023-12-20T11:42:58.000Z</updated>
-        <summary type="html"><![CDATA[油管锁区，购买的年包 premium 还在使用，想通过购买图书的方式换区，没成功。有能成功的换区办法吗？]]></summary>
+        <title type="html"><![CDATA[[Android] 苹果用户使用百度输入法的注意！]]></title>
+        <id>https://www.v2ex.com/t/1002470#reply2</id>
+        <link href="https://www.v2ex.com/t/1002470#reply2"/>
+        <updated>2023-12-21T17:42:49.000Z</updated>
+        <summary type="html"><![CDATA[注意！！！苹果 ios 用户，不要使用百度输入法，疑似使用百度输入法后:
+在使用文档复制出来的订阅 URL ，粘贴到小火箭里会发现被删掉了订阅链接 https://域名.com 里的英文冒号 : 成了 https//域名.com 导致用户无法更新订阅导入节点
+该问题被证实可以复现]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[macOS] MacOS 系统下好用的输入法]]></title>
+        <id>https://www.v2ex.com/t/1002468#reply6</id>
+        <link href="https://www.v2ex.com/t/1002468#reply6"/>
+        <updated>2023-12-21T17:02:15.000Z</updated>
+        <summary type="html"><![CDATA[大家有没有 MacOS 系统下好用的输入法，推荐一下？
+感谢！]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 为什么还有很多人不愿意放弃 mysql5.7]]></title>
+        <id>https://www.v2ex.com/t/1002467#reply21</id>
+        <link href="https://www.v2ex.com/t/1002467#reply21"/>
+        <updated>2023-12-21T16:58:44.000Z</updated>
+        <summary type="html"><![CDATA[切换至 8 的过程中究竟有哪些坑]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] spring security 整合 oauth2 有问]]></title>
+        <id>https://www.v2ex.com/t/1002466#reply0</id>
+        <link href="https://www.v2ex.com/t/1002466#reply0"/>
+        <updated>2023-12-21T16:38:03.000Z</updated>
+        <summary type="html"><![CDATA[下载:[url]https://pjf123.lanzouq.com/ii1TJ1imglgf[/url] 密码:80fm
+下载:[url]https://pjf123.lanzouq.com/icvOM1imgxde[/url] 密码:8wcd
+代码在上面  2 个端  第二个是资源服务器 不复杂,问题在通过授权码获取口令 
+一直返回 { "error": "invalid_client" }
+代码在
+//客户端 id
+.clientId("showDoc")
+//{noop}不加密,客户端密码
+.clientSecret("{noop}123456")
+账号密码也对[color=Red] 能不能帮忙看一下 求 java 大佬帮忙看看[/color] 毕设准备开写了
+curl --location --request POST 'http://auth-server:8080/oauth2/token?redirect_uri=http://auth-server:8080/authorized&grant_type=authorization_code&code=3-JjPZUTZfGsZ6C49R9eqbU8XHIndMZwn55SpCuhnSJ6RZSF4Je_EgiV5bismaeg49IgFLCPURFqAI9DhZ6c61O0pLrzx2R5cWy4YcXX-Gmb_vqJZMuDqcR93rN5TKZz' 
+对了  hosts 要配置下
+127.0.0.1 auth-server
+127.0.0.1 res-server
+127.0.0.1 client]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OpenAI] 之前的这个 GPT4 插件商店是不是下架了？]]></title>
+        <id>https://www.v2ex.com/t/1002465#reply1</id>
+        <link href="https://www.v2ex.com/t/1002465#reply1"/>
+        <updated>2023-12-21T16:33:28.000Z</updated>
+        <summary type="html"><![CDATA[之前的这个 GPT4 插件商店是不是下架了？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[设计师] Figma 图片生成和处理插件]]></title>
+        <id>https://www.v2ex.com/t/1002464#reply0</id>
+        <link href="https://www.v2ex.com/t/1002464#reply0"/>
+        <updated>2023-12-21T16:31:11.000Z</updated>
+        <summary type="html"><![CDATA[https://www.figma.com/community/plugin/1316813792007294382/picwise-ai]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Linux] Windows 打游戏的方案是什么？]]></title>
+        <id>https://www.v2ex.com/t/1002463#reply8</id>
+        <link href="https://www.v2ex.com/t/1002463#reply8"/>
+        <updated>2023-12-21T16:26:22.000Z</updated>
+        <summary type="html"><![CDATA[之前就打算将笔记本换到 Linux 系统，但是有打游戏的需求又要怎么解决？电脑很少关机不考虑双系统方案。
+首先是独显，其次是刷新率的问题
+系统方面打算将当前 Windows 导出为虚拟机镜像并逐渐迁移到一个新环境（基本上只拿来娱乐）]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[全球工单系统] Todesk 有啥大病，日志文件占用 2G？]]></title>
+        <id>https://www.v2ex.com/t/1002462#reply1</id>
+        <link href="https://www.v2ex.com/t/1002462#reply1"/>
+        <updated>2023-12-21T16:25:54.000Z</updated>
+        <summary type="html"><![CDATA[C:\Program Files (x86)\ToDesk\Logs
+占用我 2.77 GB ？它想干啥？
+有没有可替代的。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[淘宝] 淘宝是真的该死了（交易快照废了）]]></title>
+        <id>https://www.v2ex.com/t/1002460#reply4</id>
+        <link href="https://www.v2ex.com/t/1002460#reply4"/>
+        <updated>2023-12-21T15:58:09.000Z</updated>
+        <summary type="html"><![CDATA[交易快照是个非常好用的功能，即使商品下架，商家跑路，也能用来查看以前购买商品的规格、使用说明等等信息。
+大概两个月前，这个功能开始在比较老的订单上无法使用，并且现在也没有恢复。
+咨询了人工客服，所谓的 88VIP 专属客服，让我感觉更加离谱。
+首先，客服完全不了解业务，不知道快照是个什么东西，用途是什么，一直要我去查看商品详情页，或者直接找商家咨询。
+其次，客服完全没有主动性，一番解释后，大致意思是看不到就是看不到，完全没有想过向技术部门反馈一下这个问题。当我提出能不能修复一下这个问题，对方表示没有这个选项。震精！]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 什么样的人生才是幸福的？]]></title>
+        <id>https://www.v2ex.com/t/1002459#reply2</id>
+        <link href="https://www.v2ex.com/t/1002459#reply2"/>
+        <updated>2023-12-21T15:57:43.000Z</updated>
+        <summary type="html"><![CDATA[铁子们，想问问你们感觉到幸福吗？什么样的人生才是幸福的。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[上海] 居转户问题求助，关于空档期代缴社保]]></title>
+        <id>https://www.v2ex.com/t/1002458#reply0</id>
+        <link href="https://www.v2ex.com/t/1002458#reply0"/>
+        <updated>2023-12-21T15:57:03.000Z</updated>
+        <summary type="html"><![CDATA[上家离职后有一年 gap year ，找了一家人力资源公司代缴社保和个税。现在提交居转户申请被退回，要求提供这家人力资源公司的离职证明或者劳动合同等证明材料。
+但是联系这家人力资源公司，他们不能直接出证明。需要我本人去找一家必须注册在上海的实际用户单位 ，和这家人力资源公司签劳务派遣协议。之后人力资源公司才会给我开离职证明等盖章的材料。
+那么问题来了，我怎么去找这家“实际用工单位”？淘宝看了一圈业内人士，大家都没有资源可用。亲戚朋友也没有在上海开公司的。。。不知道下一步怎么处理。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] Xbox Series X 换区之后一定要用离线模式升级吗？]]></title>
+        <id>https://www.v2ex.com/t/1002455#reply0</id>
+        <link href="https://www.v2ex.com/t/1002455#reply0"/>
+        <updated>2023-12-21T15:39:48.000Z</updated>
+        <summary type="html"><![CDATA[首次启动国行，激活之后进行 USB $ConsoleGen9 换区并关闭了自动更新。但是好像一旦 Xbox 提示你有新的更新，下载更新的话会遇到问题，错误代码如下：
+0x8B05000F 0x00000000 0x90070007
+
+此时我执行数次重试未果，最终选择了 offline system update，但这样做就会清空所有的用户数据（除了游戏本体，存档貌似是云下载回来），每个月弄都要花费至少半小时感觉有一点麻烦，并且不 online 也下载和更新不了游戏，也不能联机，在每天都想开机即玩跟国行保修之间只能二选一了吗……]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 公司以下班后虚假打卡骗取公司补贴为由辞退我]]></title>
+        <id>https://www.v2ex.com/t/1002454#reply0</id>
+        <link href="https://www.v2ex.com/t/1002454#reply0"/>
+        <updated>2023-12-21T15:36:54.000Z</updated>
+        <summary type="html"><![CDATA[昨天下午 5 点通知我，今天让我交接明天签字走人。没有补偿(调监控发现打卡时间人不在公司)]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Cloudflare] 请教关于 cloudflare tunnel 和开放 443 端口的问题]]></title>
+        <id>https://www.v2ex.com/t/1002452#reply1</id>
+        <link href="https://www.v2ex.com/t/1002452#reply1"/>
+        <updated>2023-12-21T15:31:07.000Z</updated>
+        <summary type="html"><![CDATA[在一个 vps 中仅开放 443 端口给 vless-xtls-utls-reality 协议使用，其他的私有服务通过 cloudflare tunnel 穿透出去。
+请问大佬们，这样会不会对私有服务有安全性的影响？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 微信电脑版聊天记录有办法破解吗]]></title>
+        <id>https://www.v2ex.com/t/1002451#reply4</id>
+        <link href="https://www.v2ex.com/t/1002451#reply4"/>
+        <updated>2023-12-21T15:20:35.000Z</updated>
+        <summary type="html"><![CDATA[没有登陆]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] 用.net maui 写了一个多 AI 客户端-AI 超元域，功能很丰富]]></title>
+        <id>https://www.v2ex.com/t/1002450#reply0</id>
+        <link href="https://www.v2ex.com/t/1002450#reply0"/>
+        <updated>2023-12-21T15:16:04.000Z</updated>
+        <summary type="html"><![CDATA[使用.net maui 框架已经快一年了，期间为了练手开发了这个多 Ai 集合的客户端-Ai 超元域。
+现已完全开源到了 GitHub ，仅供大家参考：
+https://github.com/win4r/AISuperDomain]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[站长] 2024 程序员副业必备的源码百宝箱！这下妈妈再也不用担心我敲代码敲坏脑子了]]></title>
+        <id>https://www.v2ex.com/t/1002449#reply0</id>
+        <link href="https://www.v2ex.com/t/1002449#reply0"/>
+        <updated>2023-12-21T15:15:21.000Z</updated>
+        <summary type="html"><![CDATA[最近在研究出海做站，学做网站花了不少时间，后来一怒之下直接买了个源代码站  智研优享  mall 点 linktoai 点 top
+发现实在是太爽了，集齐全网 4 万多互联网资源，想学什么就有什么。
+分享 10 个百元面值的资源卡密，需要的朋友可自取。
+ey7vS0VG59x4
+Nf0PqLKoh0Um
+ThGWs4MBn1dq
+FEfW6x0R46XT
+dRDxQv0Vge5Z
+A6FRAivIdFpV
+TTpqGmmKzAUJ
+cYJvcorB5iZ1
+JPZzk8s8nqmS
+L1pVjC1pIEAj
+MCVPHpiPsBQU]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 如何在 idea 中启动 gradle kotlin 项目]]></title>
+        <id>https://www.v2ex.com/t/1002448#reply0</id>
+        <link href="https://www.v2ex.com/t/1002448#reply0"/>
+        <updated>2023-12-21T15:14:04.000Z</updated>
+        <summary type="html"><![CDATA[本来是 java 后端，最近有接触到一个用 gradle 和 kotlin 的 java 项目，以前没了解过，导致我把项目拉下来后 idea 一片红，更别说把项目跑起来了😓，一头雾水，网上资料也无从下手。这让我想起来第一次用 idea 跑 java 项目时也是一脸懵😂，无奈上这里来想问问各位大佬，有没有啥教程，能让我快速将这种项目跑起来，比如该改那些配置之类的，我下了个 gradle8.5 ，然后看了点 gradle 和 kotlin 的视频，但是还是搞不懂怎么设置才能把项目跑起来！如有大佬可以指点迷津的，小弟不胜感激！！！]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] [求推荐]打算买个二手 iPad +iPencil 用于看 PDF 和记笔记]]></title>
+        <id>https://www.v2ex.com/t/1002447#reply7</id>
+        <link href="https://www.v2ex.com/t/1002447#reply7"/>
+        <updated>2023-12-21T15:12:53.000Z</updated>
+        <summary type="html"><![CDATA[平时没有使用 pad 娱乐的场景，所以这么多年买的好多个 Android pad 都吃灰了，所以在使用方式上主要就是用于学习。属于典型的实用主义（够用就行）。希望预算不要太高，我这相当于买个电子笔记本，所以能便宜点最好。
+另外有什么建议或意见也可以推荐给我，感谢大佬们。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 一个海外站点在国内无法访问，有什么办法建立镜像站点或者代理站点吗？]]></title>
+        <id>https://www.v2ex.com/t/1002446#reply3</id>
+        <link href="https://www.v2ex.com/t/1002446#reply3"/>
+        <updated>2023-12-21T15:01:07.000Z</updated>
+        <summary type="html"><![CDATA[首先不是自己的海外站点，
+希望有白嫖的方案，
+镜像或者代理节点不一定要求在国内，只要能顺利地通过它访问到境外站点就行。
+主要目的是想要在国内有一个免翻墙的地址。
+不知道有没有什么免费 cdn 能够实现这一点？
+不知道有没有什么免费边缘计算服务能够实现这一点？
+试过 cloudflare workers 代理，发现 cf 的 ip 本身也被墙了，代了个寂寞。(自定义域名没起到什么作用，好像确实被墙了)。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享发现] 使用 Python 调用 outfit-anyone api 效果测试]]></title>
+        <id>https://www.v2ex.com/t/1002444#reply0</id>
+        <link href="https://www.v2ex.com/t/1002444#reply0"/>
+        <updated>2023-12-21T14:55:51.000Z</updated>
+        <summary type="html"><![CDATA[测试了一下生成效果，可以娱乐一下]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Windows] windows 下图片浏览器有对触控屏支持好的吗？]]></title>
+        <id>https://www.v2ex.com/t/1002443#reply0</id>
+        <link href="https://www.v2ex.com/t/1002443#reply0"/>
+        <updated>2023-12-21T14:54:45.000Z</updated>
+        <summary type="html"><![CDATA[主要需求是要能左右滑翻页，就像手机一样]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 买了一个 Red Pocket 实体卡，想找回之前的美区 paypal 账号，添加就显示不支持，太难了]]></title>
+        <id>https://www.v2ex.com/t/1002442#reply1</id>
+        <link href="https://www.v2ex.com/t/1002442#reply1"/>
+        <updated>2023-12-21T14:46:56.000Z</updated>
+        <summary type="html"><![CDATA[弄一个美区 paypal ，真的太难了]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 美区 apple id 充值]]></title>
+        <id>https://www.v2ex.com/t/1002441#reply4</id>
+        <link href="https://www.v2ex.com/t/1002441#reply4"/>
+        <updated>2023-12-21T14:42:17.000Z</updated>
+        <summary type="html"><![CDATA[使用支付宝给美区 apple id 充值是真方便啊，最近还有 95 折优惠，一下子充了 500 刀。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 自己有办法无脑做一个融合怪一键 shell 脚本吗?]]></title>
+        <id>https://www.v2ex.com/t/1002440#reply3</id>
+        <link href="https://www.v2ex.com/t/1002440#reply3"/>
+        <updated>2023-12-21T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[环境是 debian root
+想把下面的代码整合到一起,最后一次性输出再屏幕上,除了自己拼接代码有啥万能的框架办法吗?
+感谢
+
+先看一下三网回国
+curl https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh -sSf | sh
+完成后测试下载
+bash <(curl -sL https://raw.githubusercontent.com/i-abc/Speedtest/main/speedtest.sh)
+跑完后再然后跑个分
+curl -sL yabs.sh | bash
+最后测试一个流媒体,选择 4
+bash <(curl -L -s check.unlock.media)]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 有哪些付费 简单,节约开发时间的后台模板呢?]]></title>
+        <id>https://www.v2ex.com/t/1002438#reply2</id>
+        <link href="https://www.v2ex.com/t/1002438#reply2"/>
+        <updated>2023-12-21T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[前端后台模板
+付费,且增加开发效率的
+界面美观点的,主要是后台]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 探讨：移动互联网时代之前的程序员们如今何处？]]></title>
+        <id>https://www.v2ex.com/t/1002437#reply4</id>
+        <link href="https://www.v2ex.com/t/1002437#reply4"/>
+        <updated>2023-12-21T14:19:03.000Z</updated>
+        <summary type="html"><![CDATA[桌面端的开发工具链，跟现在市面上的比，已经发生了很大的变化。
+并且桌面端的就业市场也没以前那么兴盛。
+所以必然有很大一部分人离开了桌面端开发这个就业方向。
+那他们去哪里了？
+转行？成管理层不写代码了？还是换了工具链在其他岗位上发光发热？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 大家一个月话费多少钱]]></title>
+        <id>https://www.v2ex.com/t/1002436#reply0</id>
+        <link href="https://www.v2ex.com/t/1002436#reply0"/>
+        <updated>2023-12-21T14:18:04.000Z</updated>
+        <summary type="html"><![CDATA[移动太恶心了，流量超一点点就扣 30 一年超好几次
+现在已经是 8 块套餐+流量包了]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享发现] AtomHub 开源容器镜像中心开放公测：华为、浪潮等发起建设，国内服务稳定下载]]></title>
+        <id>https://www.v2ex.com/t/1002435#reply10</id>
+        <link href="https://www.v2ex.com/t/1002435#reply10"/>
+        <updated>2023-12-21T14:16:33.000Z</updated>
+        <summary type="html"><![CDATA[由开放原子开源基金会主导，华为、浪潮、DaoCloud 、谐云、青云、飓风引擎以及 OpenSDV 开源联盟、openEuler 社区、OpenCloudOS 社区等成员单位共同发起建设的 AtomHub 可信镜像中心正式开放公测。AtomHub 秉承共建、共治、共享的理念，旨在为开源组织和开发者提供中立、开放共建的可信开源容器镜像中心。
+由于 Docker Hub 等镜像仓库的不稳定性和不可控性，以及一些政策和法规的限制，开发者们使用这些镜像仓库时也面临着种种问题和困难。
+网络不稳定：包括 Docker Hub 在内的多数容器镜像托管平台，服务器都位于海外，国内用户在访问时经常会遇到网络延迟和丢包的问题，导致镜像的上传和拉取频繁超时或请求失败。
+镜像拉取被限流：以 Docker Hub 为例，匿名用户 6 小时内只能拉取镜像 100 次，而注册登录的免费用户每 6 小时也只能拉取镜像 200 次，严重影响了镜像构建和应用部署的效率。
+缺失中立平台：国内用户缺失中立的镜像分享平台，构建镜像上传到 Docker Hub 再从国内下载受限制，影响容器镜像在中国的分享和传播。
+鉴于上述原因，打造一个中立、开放共建的可信开源容器镜像中心，成为了当前亟待解决的问题。AtomHub 项目 —— 开源容器镜像中心由此发起，旨在为开发者提供来源真实、生态开放、平台中立、安全可信的新一代开源容器镜像中心。
+https://atomhub.openatom.cn/]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[前端开发] [求助贴] img 标签使用 src 属性无法显示 svg 图像]]></title>
+        <id>https://www.v2ex.com/t/1002433#reply2</id>
+        <link href="https://www.v2ex.com/t/1002433#reply2"/>
+        <updated>2023-12-21T14:14:09.000Z</updated>
+        <summary type="html"><![CDATA[我在 vue 前端项目中，需要显示一张图片，图片 url 地址从接口获取，我无法从数据分辨图像类型（可能是 jpg/png/svg ）等
+当我直接使用 img 标签，尝试使用 ur 显示这个图像时，svg 格式的图像无法正常显示
+<img :src="url">
+
+我直接在浏览器输入该 svg 图像的 url ，回车以后会直接下载该图片
+我尝试使用 axios({ method: "get", url, responseType: "blob" }) 请求图像，可以成功获取，并通过以下方式将 svg 图像显示出来，请求如下： 
+axios({ method: "get", url: item.url, responseType: "blob" })
+        .then((res: any) => {
+            if (res?.hasError) {
+                item.error = true;
+                instance.delete(item.key);
+                return;
+            }
+
+            let blob: any;
+            if (item.mediaType === "IMAGE_SVG" || item.mediaType === "104" || res?.headers?.["content-type"] === "image/svg+xml") {
+                blob = new Blob([res.data], { type: "image/svg+xml" });
+            } else {
+                blob = new Blob([res.data]);
+            }
+
+            el.setAttribute("src", URL.createObjectURL(blob));
+            instance.caches.set(item.key, { status: 1, result: URL.createObjectURL(blob), responseData: res });
+
+            // 动态获取大小
+            if (res?.data?.size) {
+                item.size = res?.data?.size;
+            }
+
+            item.error = false;
+        })
+
+请求返回的响应信息如下：
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Cache-Control: max-age=0
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Disposition: attachment; filename="ç¬”è®°.svg"
+Content-Type: application/x-download;charset=UTF-8
+Date: Thu, 21 Dec 2023 14:08:30 GMT
+Expires: 0
+Keep-Alive: timeout=4
+Pragma: no-cache
+Proxy-Connection: keep-alive
+Server: nginx/1.20.1
+Transfer-Encoding: chunked
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+
+
+想求助下大佬们，为什么直接使用 img 标签的 src 无法显示 svg 图像？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享发现] 迁移 dropbox 文件到 onedrive 的 3 种免费方法]]></title>
+        <id>https://www.v2ex.com/t/1002432#reply0</id>
+        <link href="https://www.v2ex.com/t/1002432#reply0"/>
+        <updated>2023-12-21T13:55:01.000Z</updated>
+        <summary type="html"><![CDATA[https://www.ricedrive.com/guides/how-to-transfer-files-from-Dropbox-to-OneDrive.html]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[北京] 找一个小伙伴一块学英语]]></title>
+        <id>https://www.v2ex.com/t/1002431#reply1</id>
+        <link href="https://www.v2ex.com/t/1002431#reply1"/>
+        <updated>2023-12-21T13:52:15.000Z</updated>
+        <summary type="html"><![CDATA[大学六级考的不错，高中也没少读口语。但接下来工作中逐渐丢了。人生不留遗憾，准备把英语捡起来了！最近在多邻国上自学，想找一个伙伴一块学习。如果专同道合，可以一块，相互勉励，共同进步！如有意向，可以联系我。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 快速批量裁剪视频的片头的方法]]></title>
+        <id>https://www.v2ex.com/t/1002430#reply1</id>
+        <link href="https://www.v2ex.com/t/1002430#reply1"/>
+        <updated>2023-12-21T13:49:49.000Z</updated>
+        <summary type="html"><![CDATA[有一批几百个视频文件，需要把片头（固定 20 秒）裁剪掉，有老哥有比较快捷的方法吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[求职] 求大佬们帮小弟瞧瞧找明年暑期实习的简历，孩子听劝！]]></title>
+        <id>https://www.v2ex.com/t/1002428#reply5</id>
+        <link href="https://www.v2ex.com/t/1002428#reply5"/>
+        <updated>2023-12-21T13:42:52.000Z</updated>
+        <summary type="html"><![CDATA[求大佬们帮小弟瞧瞧找明年暑期实习的简历，孩子听劝！有什么建议都可以说。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OpenAI] 现在怎么充值 OpenAI API 方便省钱呢]]></title>
+        <id>https://www.v2ex.com/t/1002427#reply1</id>
+        <link href="https://www.v2ex.com/t/1002427#reply1"/>
+        <updated>2023-12-21T13:41:36.000Z</updated>
+        <summary type="html"><![CDATA[有没有推荐的虚拟信用卡商，最好费用低一点的。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[职场话题] 公司饮水有异味，后续个人解决方案]]></title>
+        <id>https://www.v2ex.com/t/1002426#reply0</id>
+        <link href="https://www.v2ex.com/t/1002426#reply0"/>
+        <updated>2023-12-21T13:37:38.000Z</updated>
+        <summary type="html"><![CDATA[之前帖子：公司饮水有异味，个人解决方案是否可行？ - V2EX - https://www.v2ex.com/t/981173#reply61
+公司饮水机：
+https://imgur.com/a3wrl8t
+个人改进后：美团买菜或者 PDD 买菜 一天成本 2 元不到  + 小米煮水壶（支持直接加热到 60 不烧开）]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 找个 go 开发，全力临时搞个 demo 赚个小钱哈，关于 webrtc ice 的不会的勿扰]]></title>
+        <id>https://www.v2ex.com/t/1002425#reply8</id>
+        <link href="https://www.v2ex.com/t/1002425#reply8"/>
+        <updated>2023-12-21T13:36:26.000Z</updated>
+        <summary type="html"><![CDATA[1.go 实现 webrtcice 打洞，a 端和 b 端通信，
+2.打洞失败走中转，coturn
+3.打洞成功之后暴露端口用于其他应用借助隧道通信
+有 demo 或者能实现的直接留联系方式]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 快 2024 了， Wi-Fi 还要分频命名吗？同名时如何手动切换？]]></title>
+        <id>https://www.v2ex.com/t/1002424#reply3</id>
+        <link href="https://www.v2ex.com/t/1002424#reply3"/>
+        <updated>2023-12-21T13:30:36.000Z</updated>
+        <summary type="html"><![CDATA[2 个问题
+1. Wi-Fi 名还要分频命名吗？感觉不分频命名更省事，跟客人或者朋友分享的时候更方便些，能无脑连接。而且听说 Wi-Fi7 有同名兼容加持？
+2. 如果同名的话，如何切换到另一个频段？手机电脑各种平台都有此需求，有没有什么方法或者工具？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 浏览器有[跳转回上一个标签页]的快捷键吗？]]></title>
+        <id>https://www.v2ex.com/t/1002423#reply4</id>
+        <link href="https://www.v2ex.com/t/1002423#reply4"/>
+        <updated>2023-12-21T13:30:34.000Z</updated>
+        <summary type="html"><![CDATA[类似于
+$ cd -
+跳回上一个路径的效果
+在不安装插件的情况下，有什么方法能实现吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 你每天编程多久？]]></title>
+        <id>https://www.v2ex.com/t/1002422#reply1</id>
+        <link href="https://www.v2ex.com/t/1002422#reply1"/>
+        <updated>2023-12-21T13:30:18.000Z</updated>
+        <summary type="html"><![CDATA[问与答 - @LittleDust - ![]( https://i.imgur.com/SBOVXs5.jpeg)]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 各位大佬项目里写单元测试了吗？]]></title>
+        <id>https://www.v2ex.com/t/1002421#reply8</id>
+        <link href="https://www.v2ex.com/t/1002421#reply8"/>
+        <updated>2023-12-21T13:29:42.000Z</updated>
+        <summary type="html"><![CDATA[自己写了一个 app ，总是担心自己手动测试覆盖度不够会导致崩溃，所以一开始就接了 firebase 。
+看了下近一个月崩溃为 0 ，当然也是因为日活接近 0😂
+每次发版前也会点点点好久，功能复测好几种情况，但仍然在发布后会发现一些别的小问题。。。
+看某位大佬说他自己的项目，跑测试都要跑很久。之前工作中也从来没写过单元测试、集成测试等，现在也在看一些 flutter 的单元测试教程。bug 不可怕，就怕崩溃再也打不开 app ，修复都无法修复的那种。
+所以各位大佬会写一些单元测试集成测试吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 请教一个 appleID 的问题]]></title>
+        <id>https://www.v2ex.com/t/1002420#reply7</id>
+        <link href="https://www.v2ex.com/t/1002420#reply7"/>
+        <updated>2023-12-21T13:27:53.000Z</updated>
+        <summary type="html"><![CDATA[我有若干个苹果账号，现在想在常用的账号 A 邮箱切换为账号 B 的邮箱，账号 B 可以直接注销
+现有问题：
+AppleID 一旦注销了之后，其邮箱就无法再重新注册新的账号，但我这个是邮箱直接更改？不知道能不能绕过这个限制，广大 V 友是如何解决这个问题的？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享发现] 2023AI 元年即将过去，你用上 AI 了吗？都用 AI 来做什么？]]></title>
+        <id>https://www.v2ex.com/t/1002417#reply0</id>
+        <link href="https://www.v2ex.com/t/1002417#reply0"/>
+        <updated>2023-12-21T13:15:35.000Z</updated>
+        <summary type="html"><![CDATA[2023 年可以说是 AI 觉醒之年，ChatGPT 和 Midjourney 两大顶级 AI 工具横空出世，整个互联网的创新创作激情被重新点燃。作为一名计算机专业毕业生，业务编程爱好者，虽然没有从事互联网行业，多年前学习的编程技能一直没用上，但我意识到这是新一轮的创新浪潮。图灵测试的神话被打破了，大语音模型必定成为互联网领域乃至更多领域“蒸汽机”式的发明，必将重塑我们未来很多年的生活方式。
+    为了参与这场创新浪潮，我从搭建一个 AI 导航网站（ AI 未来城，www.linktoai.top ）入门 AI ，这个导航站聚合了我试验过的顶级 AI 工具。为了研究推广 AI ，又上线了一个聚合 ChatGPT 、Midjourney 的工具站（ AI 智研院，www.ai4you.top ）,并逐步学会了对接 GPT 、文心一言、讯飞星火、ChatGLM 等模型接口，使用多模型 api 分发系统，微信公众号开发、WordPress 模板建站。直到后面使用 ChatGPT 开发了 https://sai-art-generator.top 和 https://sgptcreator.top 两个网站，探索用 AI 运营今日头条、抖音视频、微信公众号等自媒体，我的生活中越来越多使用 AI 来创作、咨询和解答问题。在 AI 绘画中，我业在 AI 智研院接入了 Midjourney ，DALL-E3 ，用于创作令人惊叹的绘画。可以说，这一年在 AI 的帮助下，我做到了很多过去自己想都想不到的事情。
+    亲爱的朋友，你用上 AI 了吗？你都用 AI 来做什么事情，欢迎在评论区留下你的使用经验，一起探讨用 AI 提高自己的生产力，也欢迎使用我的免费无广告 AI 导航网站 AI 未来城 https://swww.linktoai.top 、AI 工具网站 AI 智研院 https://sys.ai4you.top 。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[macOS] Safari 里面输入框输入一段文字无法在中间修改]]></title>
+        <id>https://www.v2ex.com/t/1002416#reply5</id>
+        <link href="https://www.v2ex.com/t/1002416#reply5"/>
+        <updated>2023-12-21T13:07:19.000Z</updated>
+        <summary type="html"><![CDATA[感觉这个问题已经存在好久了。症状是在 Safari 里打开页面，然后在输入框中敲字，这时候发现这句话中间想要加几个字，结果在中间输入的文字会强制地莫名其妙地变到句尾。如果是删除句中的一些字，光标也会莫名其妙地跳到句尾删除字符。
+发生频率：不定，时有时无。在推特上经常发生，在 GitHub 上时常发生。我现在在 V 站上发这篇帖子，暂时没有遇到这个问题。
+设备：Macbook Pro 13 2020 M1
+系统：Ventura 13.6.3
+Safari 版本：17.2
+请问大家有遇到相同或者类似的问题吗？大家的解决方案又是什么呢？
+（不会是换 Chrome 什么的吧……]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Google] Google News Android primary 中文时有通知吗]]></title>
+        <id>https://www.v2ex.com/t/1002415#reply0</id>
+        <link href="https://www.v2ex.com/t/1002415#reply0"/>
+        <updated>2023-12-21T13:03:54.000Z</updated>
+        <summary type="html"><![CDATA[好像没收到过，Win 的 MSMS News 也是]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 突发奇想：大家有没有闲置的 App 项目，或许可以打包转让出售？]]></title>
+        <id>https://www.v2ex.com/t/1002414#reply4</id>
+        <link href="https://www.v2ex.com/t/1002414#reply4"/>
+        <updated>2023-12-21T12:56:51.000Z</updated>
+        <summary type="html"><![CDATA[这里的闲置项目指的是那种上架了 App Store ，但是却无暇维护的 App ，或许转让是一个好的归宿？
+可以聊聊，也可以发邮件 The6XStudio###gmail.com 或者私信我。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[职场话题] 有一个晋升管理层的机会，要不要上？]]></title>
+        <id>https://www.v2ex.com/t/1002412#reply19</id>
+        <link href="https://www.v2ex.com/t/1002412#reply19"/>
+        <updated>2023-12-21T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[有一个晋升管理层的机会，要不要上？
+背景是这样，我们公司是 30 人规模的小公司，前端组前组长是 1 年前上任的，表示太累沟通能力差自闭难以胜任，想做回开发，向上司推荐让我来做这个位置。
+了解到情况后，上司电话我希望我来做，还没答应。
+目前了解到的内情有，公司股权似乎已经分过了，是没有前端组长的，我上任当然也没有；组长 100%加班牛马，估计还得写代码；]]></summary>
         <author>
             <name>V2EX</name>
         </author>
