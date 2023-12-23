@@ -1,670 +1,783 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T00:30:06.297Z</id>
+    <id>urn:2023-12-23T00:29:27.345Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T00:30:06.297Z</updated>
+    <updated>2023-12-23T00:29:27.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[[程序员] C#程序员开发手机页面有什么适合的 UI 框架？]]></title>
-        <id>https://www.v2ex.com/t/1002476#reply0</id>
-        <link href="https://www.v2ex.com/t/1002476#reply0"/>
-        <updated>2023-12-21T23:52:09.000Z</updated>
-        <summary type="html"><![CDATA[在谈一个外快单，页面基本都是增删改查功能，都是手机页面.]]></summary>
+        <title type="html"><![CDATA[[宽带症候群] 需求：海外直播，找一个稳定的回国线路]]></title>
+        <id>https://www.v2ex.com/t/1002794#reply0</id>
+        <link href="https://www.v2ex.com/t/1002794#reply0"/>
+        <updated>2023-12-22T22:30:13.000Z</updated>
+        <summary type="html"><![CDATA[人在海外，经常开直播，需要一条 30M 上下行左右的回国线路
+不用整的太高端，cn2 gia 就可以，回国跳板莫斯科、法兰克福、伦敦都可以
+QuickFox 的专线我用过了，价格偏高，30M 要加 300 元人民币一个月，希望能找一个比他家便宜一点的。]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] wise 账户以及入金问题]]></title>
-        <id>https://www.v2ex.com/t/1002473#reply1</id>
-        <link href="https://www.v2ex.com/t/1002473#reply1"/>
-        <updated>2023-12-21T18:36:12.000Z</updated>
-        <summary type="html"><![CDATA[想折腾美卡，发现 wise 入金 20 刀后会给一个美国 checking 账户，可以还款用，请问一下这个账户靠谱吗？
-另外，活动拿了一张中行的电汇手续费减免券，中行方面收的费用可以免掉，有往 wise 的美金账户电汇过的朋友知道中转行收费大概是多少吗？]]></summary>
+        <title type="html"><![CDATA[[OpenAI] 使用 Google 订阅 ChatGPT Plus 的风险提醒]]></title>
+        <id>https://www.v2ex.com/t/1002793#reply4</id>
+        <link href="https://www.v2ex.com/t/1002793#reply4"/>
+        <updated>2023-12-22T22:15:46.000Z</updated>
+        <summary type="html"><![CDATA[简要概括：狗歌会抽查狗歌 Pay 付款资料是否与账号持有人所在地区一致，如果你没有对应地区的身份、地址证明，付款资料/功能将会被关闭，严重的甚至账号也会被波及。之后将无法使用该付款资料/账号支付任何订单。
+最近我一个从未在 Play 上购买东西，仅添加了付款资料的账号收到了谷歌的邮件（标题：与您的 Google 帐号相关的重要信息），要求提供身份、地址证明，否则威胁要被停止使用谷歌服务。
+可以参见这里，情况类似（不知道原帖后续如何了）： https://www.v2ex.com/t/985005
+对于既往采用 Google Play 换区来订阅 ChatGPT Plus 的（不换到 openai 支持的区域将无法订阅成功），例如帖子： 
+https://www.v2ex.com/t/1001599 
+https://www.v2ex.com/t/1000191 
+https://www.v2ex.com/t/991122
+如果被抽查到，必然无法提供证明材料，届时最好的结果是：付款资料被禁，GPT Plus 还能继续续费，但是不能取消，否则没法重新订阅，也不能在 Play 商店购买任何服务了；最坏的结果是：账号废掉，GPT Plus 无法继续续费。
+什么时候会触发抽查是个迷，我收到邮件的（老）账号最近大半年都没有操作或修改过付款乃至狗歌账号的设置，平常使用的 IP 也都是自己的固定 IP ，很少变动，从未购买或订阅 Play 上的东西。除了随机抽查能解释外我真不知道还有什么可以解释我会收到类似要求。
+真是令人郁闷。数字身份实在是太脆弱了。
+各位在订阅 Plus 前还是做好两手准备吧，别用重要账号来订阅跨区服务，最好使用单独的账号，只用来订阅对应区域的 Play 服务，不另作他用。]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ WATCH] 大家的 Apple Watch 天冷会自动关机么？]]></title>
-        <id>https://www.v2ex.com/t/1002472#reply4</id>
-        <link href="https://www.v2ex.com/t/1002472#reply4"/>
-        <updated>2023-12-21T18:13:40.000Z</updated>
-        <summary type="html"><![CDATA[手持 S7 ，室外温度 -10 度，晚上出去跑步。
-到家直接充电，后来看了耗电图，发现关机那段时间（ 22:50 ）电量并没有很低。怀疑是天冷自动关机了。
-耗电图：
- 
-大家的 AW 有这个问题么？有的话是什么型号？]]></summary>
+        <title type="html"><![CDATA[[程序员] 公司发的电脑]]></title>
+        <id>https://www.v2ex.com/t/1002792#reply4</id>
+        <link href="https://www.v2ex.com/t/1002792#reply4"/>
+        <updated>2023-12-22T19:59:10.000Z</updated>
+        <summary type="html"><![CDATA[大家的工作电脑都是什么系统呀？
+下班后，大家还会使用公司发的笔记本吗？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Android] 苹果用户使用百度输入法的注意！]]></title>
-        <id>https://www.v2ex.com/t/1002470#reply2</id>
-        <link href="https://www.v2ex.com/t/1002470#reply2"/>
-        <updated>2023-12-21T17:42:49.000Z</updated>
-        <summary type="html"><![CDATA[注意！！！苹果 ios 用户，不要使用百度输入法，疑似使用百度输入法后:
-在使用文档复制出来的订阅 URL ，粘贴到小火箭里会发现被删掉了订阅链接 https://域名.com 里的英文冒号 : 成了 https//域名.com 导致用户无法更新订阅导入节点
-该问题被证实可以复现]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[macOS] MacOS 系统下好用的输入法]]></title>
-        <id>https://www.v2ex.com/t/1002468#reply6</id>
-        <link href="https://www.v2ex.com/t/1002468#reply6"/>
-        <updated>2023-12-21T17:02:15.000Z</updated>
-        <summary type="html"><![CDATA[大家有没有 MacOS 系统下好用的输入法，推荐一下？
-感谢！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 为什么还有很多人不愿意放弃 mysql5.7]]></title>
-        <id>https://www.v2ex.com/t/1002467#reply21</id>
-        <link href="https://www.v2ex.com/t/1002467#reply21"/>
-        <updated>2023-12-21T16:58:44.000Z</updated>
-        <summary type="html"><![CDATA[切换至 8 的过程中究竟有哪些坑]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] spring security 整合 oauth2 有问]]></title>
-        <id>https://www.v2ex.com/t/1002466#reply0</id>
-        <link href="https://www.v2ex.com/t/1002466#reply0"/>
-        <updated>2023-12-21T16:38:03.000Z</updated>
-        <summary type="html"><![CDATA[下载:[url]https://pjf123.lanzouq.com/ii1TJ1imglgf[/url] 密码:80fm
-下载:[url]https://pjf123.lanzouq.com/icvOM1imgxde[/url] 密码:8wcd
-代码在上面  2 个端  第二个是资源服务器 不复杂,问题在通过授权码获取口令 
-一直返回 { "error": "invalid_client" }
-代码在
-//客户端 id
-.clientId("showDoc")
-//{noop}不加密,客户端密码
-.clientSecret("{noop}123456")
-账号密码也对[color=Red] 能不能帮忙看一下 求 java 大佬帮忙看看[/color] 毕设准备开写了
-curl --location --request POST 'http://auth-server:8080/oauth2/token?redirect_uri=http://auth-server:8080/authorized&grant_type=authorization_code&code=3-JjPZUTZfGsZ6C49R9eqbU8XHIndMZwn55SpCuhnSJ6RZSF4Je_EgiV5bismaeg49IgFLCPURFqAI9DhZ6c61O0pLrzx2R5cWy4YcXX-Gmb_vqJZMuDqcR93rN5TKZz' 
-对了  hosts 要配置下
-127.0.0.1 auth-server
-127.0.0.1 res-server
-127.0.0.1 client]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[OpenAI] 之前的这个 GPT4 插件商店是不是下架了？]]></title>
-        <id>https://www.v2ex.com/t/1002465#reply1</id>
-        <link href="https://www.v2ex.com/t/1002465#reply1"/>
-        <updated>2023-12-21T16:33:28.000Z</updated>
-        <summary type="html"><![CDATA[之前的这个 GPT4 插件商店是不是下架了？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[设计师] Figma 图片生成和处理插件]]></title>
-        <id>https://www.v2ex.com/t/1002464#reply0</id>
-        <link href="https://www.v2ex.com/t/1002464#reply0"/>
-        <updated>2023-12-21T16:31:11.000Z</updated>
-        <summary type="html"><![CDATA[https://www.figma.com/community/plugin/1316813792007294382/picwise-ai]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Linux] Windows 打游戏的方案是什么？]]></title>
-        <id>https://www.v2ex.com/t/1002463#reply8</id>
-        <link href="https://www.v2ex.com/t/1002463#reply8"/>
-        <updated>2023-12-21T16:26:22.000Z</updated>
-        <summary type="html"><![CDATA[之前就打算将笔记本换到 Linux 系统，但是有打游戏的需求又要怎么解决？电脑很少关机不考虑双系统方案。
-首先是独显，其次是刷新率的问题
-系统方面打算将当前 Windows 导出为虚拟机镜像并逐渐迁移到一个新环境（基本上只拿来娱乐）]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[全球工单系统] Todesk 有啥大病，日志文件占用 2G？]]></title>
-        <id>https://www.v2ex.com/t/1002462#reply1</id>
-        <link href="https://www.v2ex.com/t/1002462#reply1"/>
-        <updated>2023-12-21T16:25:54.000Z</updated>
-        <summary type="html"><![CDATA[C:\Program Files (x86)\ToDesk\Logs
-占用我 2.77 GB ？它想干啥？
-有没有可替代的。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[淘宝] 淘宝是真的该死了（交易快照废了）]]></title>
-        <id>https://www.v2ex.com/t/1002460#reply4</id>
-        <link href="https://www.v2ex.com/t/1002460#reply4"/>
-        <updated>2023-12-21T15:58:09.000Z</updated>
-        <summary type="html"><![CDATA[交易快照是个非常好用的功能，即使商品下架，商家跑路，也能用来查看以前购买商品的规格、使用说明等等信息。
-大概两个月前，这个功能开始在比较老的订单上无法使用，并且现在也没有恢复。
-咨询了人工客服，所谓的 88VIP 专属客服，让我感觉更加离谱。
-首先，客服完全不了解业务，不知道快照是个什么东西，用途是什么，一直要我去查看商品详情页，或者直接找商家咨询。
-其次，客服完全没有主动性，一番解释后，大致意思是看不到就是看不到，完全没有想过向技术部门反馈一下这个问题。当我提出能不能修复一下这个问题，对方表示没有这个选项。震精！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 什么样的人生才是幸福的？]]></title>
-        <id>https://www.v2ex.com/t/1002459#reply2</id>
-        <link href="https://www.v2ex.com/t/1002459#reply2"/>
-        <updated>2023-12-21T15:57:43.000Z</updated>
-        <summary type="html"><![CDATA[铁子们，想问问你们感觉到幸福吗？什么样的人生才是幸福的。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[上海] 居转户问题求助，关于空档期代缴社保]]></title>
-        <id>https://www.v2ex.com/t/1002458#reply0</id>
-        <link href="https://www.v2ex.com/t/1002458#reply0"/>
-        <updated>2023-12-21T15:57:03.000Z</updated>
-        <summary type="html"><![CDATA[上家离职后有一年 gap year ，找了一家人力资源公司代缴社保和个税。现在提交居转户申请被退回，要求提供这家人力资源公司的离职证明或者劳动合同等证明材料。
-但是联系这家人力资源公司，他们不能直接出证明。需要我本人去找一家必须注册在上海的实际用户单位 ，和这家人力资源公司签劳务派遣协议。之后人力资源公司才会给我开离职证明等盖章的材料。
-那么问题来了，我怎么去找这家“实际用工单位”？淘宝看了一圈业内人士，大家都没有资源可用。亲戚朋友也没有在上海开公司的。。。不知道下一步怎么处理。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] Xbox Series X 换区之后一定要用离线模式升级吗？]]></title>
-        <id>https://www.v2ex.com/t/1002455#reply0</id>
-        <link href="https://www.v2ex.com/t/1002455#reply0"/>
-        <updated>2023-12-21T15:39:48.000Z</updated>
-        <summary type="html"><![CDATA[首次启动国行，激活之后进行 USB $ConsoleGen9 换区并关闭了自动更新。但是好像一旦 Xbox 提示你有新的更新，下载更新的话会遇到问题，错误代码如下：
-0x8B05000F 0x00000000 0x90070007
+        <title type="html"><![CDATA[[程序员] 某银行网银登陆为什么要用一个叫 Web Secure Connection Root 的自签 ca，是否可信？]]></title>
+        <id>https://www.v2ex.com/t/1002791#reply4</id>
+        <link href="https://www.v2ex.com/t/1002791#reply4"/>
+        <updated>2023-12-22T19:48:35.000Z</updated>
+        <summary type="html"><![CDATA[官方名字叫“网上银行登录安全控件”，下载地址 https://dlsev.boc.cn/support/secWidgets/InfoSuite.BOC.pkg
+备份： https://file.io/wRu4QOzkIEtN
+看了下里面的内容
+cat Payload | gunzip -dc | cpio -i
+然后
+ls
+InfoDaemon.BOC			com.boc.InfoDaemon.plist
+InfoSuite.BOC.app		install.sh
+Web.cer				installcert.sh
+ca.cer				preinstall.sh
+certutil_mac
 
-此时我执行数次重试未果，最终选择了 offline system update，但这样做就会清空所有的用户数据（除了游戏本体，存档貌似是云下载回来），每个月弄都要花费至少半小时感觉有一点麻烦，并且不 online 也下载和更新不了游戏，也不能联机，在每天都想开机即玩跟国行保修之间只能二选一了吗……]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 公司以下班后虚假打卡骗取公司补贴为由辞退我]]></title>
-        <id>https://www.v2ex.com/t/1002454#reply0</id>
-        <link href="https://www.v2ex.com/t/1002454#reply0"/>
-        <updated>2023-12-21T15:36:54.000Z</updated>
-        <summary type="html"><![CDATA[昨天下午 5 点通知我，今天让我交接明天签字走人。没有补偿(调监控发现打卡时间人不在公司)]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Cloudflare] 请教关于 cloudflare tunnel 和开放 443 端口的问题]]></title>
-        <id>https://www.v2ex.com/t/1002452#reply1</id>
-        <link href="https://www.v2ex.com/t/1002452#reply1"/>
-        <updated>2023-12-21T15:31:07.000Z</updated>
-        <summary type="html"><![CDATA[在一个 vps 中仅开放 443 端口给 vless-xtls-utls-reality 协议使用，其他的私有服务通过 cloudflare tunnel 穿透出去。
-请问大佬们，这样会不会对私有服务有安全性的影响？]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[程序员] 微信电脑版聊天记录有办法破解吗]]></title>
-        <id>https://www.v2ex.com/t/1002451#reply4</id>
-        <link href="https://www.v2ex.com/t/1002451#reply4"/>
-        <updated>2023-12-21T15:20:35.000Z</updated>
-        <summary type="html"><![CDATA[没有登陆]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享创造] 用.net maui 写了一个多 AI 客户端-AI 超元域，功能很丰富]]></title>
-        <id>https://www.v2ex.com/t/1002450#reply0</id>
-        <link href="https://www.v2ex.com/t/1002450#reply0"/>
-        <updated>2023-12-21T15:16:04.000Z</updated>
-        <summary type="html"><![CDATA[使用.net maui 框架已经快一年了，期间为了练手开发了这个多 Ai 集合的客户端-Ai 超元域。
-现已完全开源到了 GitHub ，仅供大家参考：
-https://github.com/win4r/AISuperDomain]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[站长] 2024 程序员副业必备的源码百宝箱！这下妈妈再也不用担心我敲代码敲坏脑子了]]></title>
-        <id>https://www.v2ex.com/t/1002449#reply0</id>
-        <link href="https://www.v2ex.com/t/1002449#reply0"/>
-        <updated>2023-12-21T15:15:21.000Z</updated>
-        <summary type="html"><![CDATA[最近在研究出海做站，学做网站花了不少时间，后来一怒之下直接买了个源代码站  智研优享  mall 点 linktoai 点 top
-发现实在是太爽了，集齐全网 4 万多互联网资源，想学什么就有什么。
-分享 10 个百元面值的资源卡密，需要的朋友可自取。
-ey7vS0VG59x4
-Nf0PqLKoh0Um
-ThGWs4MBn1dq
-FEfW6x0R46XT
-dRDxQv0Vge5Z
-A6FRAivIdFpV
-TTpqGmmKzAUJ
-cYJvcorB5iZ1
-JPZzk8s8nqmS
-L1pVjC1pIEAj
-MCVPHpiPsBQU]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 如何在 idea 中启动 gradle kotlin 项目]]></title>
-        <id>https://www.v2ex.com/t/1002448#reply0</id>
-        <link href="https://www.v2ex.com/t/1002448#reply0"/>
-        <updated>2023-12-21T15:14:04.000Z</updated>
-        <summary type="html"><![CDATA[本来是 java 后端，最近有接触到一个用 gradle 和 kotlin 的 java 项目，以前没了解过，导致我把项目拉下来后 idea 一片红，更别说把项目跑起来了😓，一头雾水，网上资料也无从下手。这让我想起来第一次用 idea 跑 java 项目时也是一脸懵😂，无奈上这里来想问问各位大佬，有没有啥教程，能让我快速将这种项目跑起来，比如该改那些配置之类的，我下了个 gradle8.5 ，然后看了点 gradle 和 kotlin 的视频，但是还是搞不懂怎么设置才能把项目跑起来！如有大佬可以指点迷津的，小弟不胜感激！！！]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] [求推荐]打算买个二手 iPad +iPencil 用于看 PDF 和记笔记]]></title>
-        <id>https://www.v2ex.com/t/1002447#reply7</id>
-        <link href="https://www.v2ex.com/t/1002447#reply7"/>
-        <updated>2023-12-21T15:12:53.000Z</updated>
-        <summary type="html"><![CDATA[平时没有使用 pad 娱乐的场景，所以这么多年买的好多个 Android pad 都吃灰了，所以在使用方式上主要就是用于学习。属于典型的实用主义（够用就行）。希望预算不要太高，我这相当于买个电子笔记本，所以能便宜点最好。
-另外有什么建议或意见也可以推荐给我，感谢大佬们。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 一个海外站点在国内无法访问，有什么办法建立镜像站点或者代理站点吗？]]></title>
-        <id>https://www.v2ex.com/t/1002446#reply3</id>
-        <link href="https://www.v2ex.com/t/1002446#reply3"/>
-        <updated>2023-12-21T15:01:07.000Z</updated>
-        <summary type="html"><![CDATA[首先不是自己的海外站点，
-希望有白嫖的方案，
-镜像或者代理节点不一定要求在国内，只要能顺利地通过它访问到境外站点就行。
-主要目的是想要在国内有一个免翻墙的地址。
-不知道有没有什么免费 cdn 能够实现这一点？
-不知道有没有什么免费边缘计算服务能够实现这一点？
-试过 cloudflare workers 代理，发现 cf 的 ip 本身也被墙了，代了个寂寞。(自定义域名没起到什么作用，好像确实被墙了)。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[分享发现] 使用 Python 调用 outfit-anyone api 效果测试]]></title>
-        <id>https://www.v2ex.com/t/1002444#reply0</id>
-        <link href="https://www.v2ex.com/t/1002444#reply0"/>
-        <updated>2023-12-21T14:55:51.000Z</updated>
-        <summary type="html"><![CDATA[测试了一下生成效果，可以娱乐一下]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Windows] windows 下图片浏览器有对触控屏支持好的吗？]]></title>
-        <id>https://www.v2ex.com/t/1002443#reply0</id>
-        <link href="https://www.v2ex.com/t/1002443#reply0"/>
-        <updated>2023-12-21T14:54:45.000Z</updated>
-        <summary type="html"><![CDATA[主要需求是要能左右滑翻页，就像手机一样]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 买了一个 Red Pocket 实体卡，想找回之前的美区 paypal 账号，添加就显示不支持，太难了]]></title>
-        <id>https://www.v2ex.com/t/1002442#reply1</id>
-        <link href="https://www.v2ex.com/t/1002442#reply1"/>
-        <updated>2023-12-21T14:46:56.000Z</updated>
-        <summary type="html"><![CDATA[弄一个美区 paypal ，真的太难了]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Apple] 美区 apple id 充值]]></title>
-        <id>https://www.v2ex.com/t/1002441#reply4</id>
-        <link href="https://www.v2ex.com/t/1002441#reply4"/>
-        <updated>2023-12-21T14:42:17.000Z</updated>
-        <summary type="html"><![CDATA[使用支付宝给美区 apple id 充值是真方便啊，最近还有 95 折优惠，一下子充了 500 刀。]]></summary>
-        <author>
-            <name>V2EX</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[问与答] 自己有办法无脑做一个融合怪一键 shell 脚本吗?]]></title>
-        <id>https://www.v2ex.com/t/1002440#reply3</id>
-        <link href="https://www.v2ex.com/t/1002440#reply3"/>
-        <updated>2023-12-21T14:37:31.000Z</updated>
-        <summary type="html"><![CDATA[环境是 debian root
-想把下面的代码整合到一起,最后一次性输出再屏幕上,除了自己拼接代码有啥万能的框架办法吗?
-感谢
+openssl x509 -in ca.cer -text -noout
 
-先看一下三网回国
-curl https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh -sSf | sh
-完成后测试下载
-bash <(curl -sL https://raw.githubusercontent.com/i-abc/Speedtest/main/speedtest.sh)
-跑完后再然后跑个分
-curl -sL yabs.sh | bash
-最后测试一个流媒体,选择 4
-bash <(curl -L -s check.unlock.media)]]></summary>
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 11815962403880771290 (0xa3fabb33e2af1eda)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, O=Web Secure Connection, OU=Web Secure Connection Root CA, CN=Web Secure Connection Root
+        Validity
+            Not Before: Jan 15 06:05:10 2019 GMT
+            Not After : Jan 12 06:05:10 2029 GMT
+        Subject: C=CN, O=Web Secure Connection, OU=Web Secure Connection R…]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 有哪些付费 简单,节约开发时间的后台模板呢?]]></title>
-        <id>https://www.v2ex.com/t/1002438#reply2</id>
-        <link href="https://www.v2ex.com/t/1002438#reply2"/>
-        <updated>2023-12-21T14:27:26.000Z</updated>
-        <summary type="html"><![CDATA[前端后台模板
-付费,且增加开发效率的
-界面美观点的,主要是后台]]></summary>
+        <title type="html"><![CDATA[[OpenWrt] 想问一下 openwrt 中 passwall 如何配置 chatgpt 的分流规则]]></title>
+        <id>https://www.v2ex.com/t/1002790#reply3</id>
+        <link href="https://www.v2ex.com/t/1002790#reply3"/>
+        <updated>2023-12-22T18:55:45.000Z</updated>
+        <summary type="html"><![CDATA[在规则列表里添加了
+#chatgpt
+openai.com
+oaistatic.com
+oaiusercontent.com
+但是好像没有用，chatgpt 没有走代理，因为手机用小火箭试了下选中的节点是没问题的，节点是能上 chatgpt 的]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 探讨：移动互联网时代之前的程序员们如今何处？]]></title>
-        <id>https://www.v2ex.com/t/1002437#reply4</id>
-        <link href="https://www.v2ex.com/t/1002437#reply4"/>
-        <updated>2023-12-21T14:19:03.000Z</updated>
-        <summary type="html"><![CDATA[桌面端的开发工具链，跟现在市面上的比，已经发生了很大的变化。
-并且桌面端的就业市场也没以前那么兴盛。
-所以必然有很大一部分人离开了桌面端开发这个就业方向。
-那他们去哪里了？
-转行？成管理层不写代码了？还是换了工具链在其他岗位上发光发热？]]></summary>
+        <title type="html"><![CDATA[[加密货币] usdc 转美金]]></title>
+        <id>https://www.v2ex.com/t/1002789#reply0</id>
+        <link href="https://www.v2ex.com/t/1002789#reply0"/>
+        <updated>2023-12-22T18:07:03.000Z</updated>
+        <summary type="html"><![CDATA[本人目前帮一个币圈的初创公司写代码，酬劳是用 usdc 支付，想咨询下如何最安全费率最低转为美元
+目前人在美国读研究生，我有美元账户/美国银行卡，但是没有美国的 ssn
+提前感谢大佬们的回复！]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 大家一个月话费多少钱]]></title>
-        <id>https://www.v2ex.com/t/1002436#reply0</id>
-        <link href="https://www.v2ex.com/t/1002436#reply0"/>
-        <updated>2023-12-21T14:18:04.000Z</updated>
-        <summary type="html"><![CDATA[移动太恶心了，流量超一点点就扣 30 一年超好几次
-现在已经是 8 块套餐+流量包了]]></summary>
+        <title type="html"><![CDATA[[Apple] iPhone 新机的微信数据迁移带我搞懵了]]></title>
+        <id>https://www.v2ex.com/t/1002788#reply4</id>
+        <link href="https://www.v2ex.com/t/1002788#reply4"/>
+        <updated>2023-12-22T17:46:47.000Z</updated>
+        <summary type="html"><![CDATA[今天换了一台新 iPhone ，使用“从另一台 iphone”完整迁移整机数据，扫码确认一气呵成，但是进入系统后到“iPhone 存储空间”查看微信数据大小：
+新的 iPhone 微信“文稿与数据”占用 14.13GB ，旧的那台打开看微信“文稿与数据”占用 20.26GB 。
+相差 6 个 G 的数据去哪了？临时缓存也不至于这么多吧，我抽查了几条新机微信里的聊天记录，文字没有少，但有些很早以前的图片显示过期了，会不会是这些图片没有传过来，请问各位大佬有遇到这种情况吗？是否有必要重装微信使用微信自带的数据迁移功能重新导入？
+导数据不麻烦，只是借此与大家讨论下 iPhone 自带的数据迁移数据完整性是否靠谱]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[分享发现] AtomHub 开源容器镜像中心开放公测：华为、浪潮等发起建设，国内服务稳定下载]]></title>
-        <id>https://www.v2ex.com/t/1002435#reply10</id>
-        <link href="https://www.v2ex.com/t/1002435#reply10"/>
-        <updated>2023-12-21T14:16:33.000Z</updated>
-        <summary type="html"><![CDATA[由开放原子开源基金会主导，华为、浪潮、DaoCloud 、谐云、青云、飓风引擎以及 OpenSDV 开源联盟、openEuler 社区、OpenCloudOS 社区等成员单位共同发起建设的 AtomHub 可信镜像中心正式开放公测。AtomHub 秉承共建、共治、共享的理念，旨在为开源组织和开发者提供中立、开放共建的可信开源容器镜像中心。
-由于 Docker Hub 等镜像仓库的不稳定性和不可控性，以及一些政策和法规的限制，开发者们使用这些镜像仓库时也面临着种种问题和困难。
-网络不稳定：包括 Docker Hub 在内的多数容器镜像托管平台，服务器都位于海外，国内用户在访问时经常会遇到网络延迟和丢包的问题，导致镜像的上传和拉取频繁超时或请求失败。
-镜像拉取被限流：以 Docker Hub 为例，匿名用户 6 小时内只能拉取镜像 100 次，而注册登录的免费用户每 6 小时也只能拉取镜像 200 次，严重影响了镜像构建和应用部署的效率。
-缺失中立平台：国内用户缺失中立的镜像分享平台，构建镜像上传到 Docker Hub 再从国内下载受限制，影响容器镜像在中国的分享和传播。
-鉴于上述原因，打造一个中立、开放共建的可信开源容器镜像中心，成为了当前亟待解决的问题。AtomHub 项目 —— 开源容器镜像中心由此发起，旨在为开发者提供来源真实、生态开放、平台中立、安全可信的新一代开源容器镜像中心。
-https://atomhub.openatom.cn/]]></summary>
+        <title type="html"><![CDATA[[Mac mini] 适配电缆黏手啊！各位有么？]]></title>
+        <id>https://www.v2ex.com/t/1002787#reply1</id>
+        <link href="https://www.v2ex.com/t/1002787#reply1"/>
+        <updated>2023-12-22T17:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Mac mini - @HeyBoy2077 -]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[前端开发] [求助贴] img 标签使用 src 属性无法显示 svg 图像]]></title>
-        <id>https://www.v2ex.com/t/1002433#reply2</id>
-        <link href="https://www.v2ex.com/t/1002433#reply2"/>
-        <updated>2023-12-21T14:14:09.000Z</updated>
-        <summary type="html"><![CDATA[我在 vue 前端项目中，需要显示一张图片，图片 url 地址从接口获取，我无法从数据分辨图像类型（可能是 jpg/png/svg ）等
-当我直接使用 img 标签，尝试使用 ur 显示这个图像时，svg 格式的图像无法正常显示
-<img :src="url">
+        <title type="html"><![CDATA[[程序员] 为什么比 ALAC 更开放的 FLAC 编码反而不能装入标准的 mp4 容器？ ffmpeg 中需要指定参数强制装入]]></title>
+        <id>https://www.v2ex.com/t/1002786#reply5</id>
+        <link href="https://www.v2ex.com/t/1002786#reply5"/>
+        <updated>2023-12-22T16:49:39.000Z</updated>
+        <summary type="html"><![CDATA[程序员 - @drymonfidelia -]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 如何下载当前设置的电脑壁纸？]]></title>
+        <id>https://www.v2ex.com/t/1002782#reply0</id>
+        <link href="https://www.v2ex.com/t/1002782#reply0"/>
+        <updated>2023-12-22T16:18:51.000Z</updated>
+        <summary type="html"><![CDATA[观看腾讯视频，发现侧边栏可以一键设置相关影视的壁纸，可我想找到储存文件却没找到。
+目前想到的办法就是隐藏桌面图标再截屏了。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[职场话题] 今天通知裁员了，部门解散。]]></title>
+        <id>https://www.v2ex.com/t/1002781#reply4</id>
+        <link href="https://www.v2ex.com/t/1002781#reply4"/>
+        <updated>2023-12-22T16:10:47.000Z</updated>
+        <summary type="html"><![CDATA[今天突然被人事叫去谈话，意思是公司扛不住了账上没钱了，准备做到月底退租，整个公司解散，4 年多的工龄公司只愿意赔偿一个月的工资。我打算坚持 N+1 ，如果公司到时候真退租了，我该怎么办？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] iFast 英国数字银行账户注册成功]]></title>
+        <id>https://www.v2ex.com/t/1002780#reply1</id>
+        <link href="https://www.v2ex.com/t/1002780#reply1"/>
+        <updated>2023-12-22T15:59:49.000Z</updated>
+        <summary type="html"><![CDATA[按照隔壁坛子大佬的方式以及顺利开通 5 镑奖励还不错，期待 1 月出的实体卡
+奕丰环球银行（www.ifastgb.com）是一家总部位于英国的持牌银行，致力于为世界各地的客户、企业及金融机构提供全球性连接的银行服务，隶属 iFAST Corporation ，完全受 FCA 监管的英国数字银行，受 85,000 英镑的金融服务补偿计划 (FSCS)。
+免费开户无管理费，支持全套中国资料注册！支持身份证！ iFast Global Bank 奕丰环球银行
+注册链接(aff)你我各 5 镑
+在申请之前，您需要准备：
+中国护照或身份证
+常用电子邮箱
+常用手机号（国内）
+国内银行对账单（需要体现出地址）-我用的招商银行信用卡对账单地址
 
-我直接在浏览器输入该 svg 图像的 url ，回车以后会直接下载该图片
-我尝试使用 axios({ method: "get", url, responseType: "blob" }) 请求图像，可以成功获取，并通过以下方式将 svg 图像显示出来，请求如下： 
-axios({ method: "get", url: item.url, responseType: "blob" })
-        .then((res: any) => {
-            if (res?.hasError) {
-                item.error = true;
-                instance.delete(item.key);
-                return;
-            }
+现在取消了人工视频通话问话了，今天申办的时候，到了视频流程只要录制视频回答三个问题就可以了。
+注册成功后，iFast 发送了个人 IBAN 到邮箱
 
-            let blob: any;
-            if (item.mediaType === "IMAGE_SVG" || item.mediaType === "104" || res?.headers?.["content-type"] === "image/svg+xml") {
-                blob = new Blob([res.data], { type: "image/svg+xml" });
-            } else {
-                blob = new Blob([res.data]);
-            }
-
-            el.setAttribute("src", URL.createObjectURL(blob));
-            instance.caches.set(item.key, { status: 1, result: URL.createObjectURL(blob), responseData: res });
-
-            // 动态获取大小
-            if (res?.data?.size) {
-                item.size = res?.data?.size;
-            }
-
-            item.error = false;
-        })
-
-请求返回的响应信息如下：
-Cache-Control: no-cache, no-store, max-age=0, must-revalidate
-Cache-Control: max-age=0
-Cache-Control: max-age=0
-Connection: keep-alive
-Content-Disposition: attachment; filename="ç¬”è®°.svg"
-Content-Type: application/x-download;charset=UTF-8
-Date: Thu, 21 Dec 2023 14:08:30 GMT
-Expires: 0
-Keep-Alive: timeout=4
-Pragma: no-cache
-Proxy-Connection: keep-alive
-Server: nginx/1.20.1
-Transfer-Encoding: chunked
-Vary: Origin
-Vary: Access-Control-Request-Method
-Vary: Access-Control-Request-Headers
-X-Content-Type-Options: nosniff
-X-Xss-Protection: 1; mode=block
+据说这家银行明年要发行实体卡了，为数不多的支持全套中国大陆资料申请的靠谱数字银行，需要的快冲，后续政策可能会收紧
+注册成功后首次入金要使用个人同名入金
+wise 入金到 ifast ，随便充点吧
 
 
-想求助下大佬们，为什么直接使用 img 标签的 src 无法显示 svg 图像？]]></summary>
+入金的话可以扫这个领取 500 跨境汇款优惠券 无损激活]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[分享发现] 迁移 dropbox 文件到 onedrive 的 3 种免费方法]]></title>
-        <id>https://www.v2ex.com/t/1002432#reply0</id>
-        <link href="https://www.v2ex.com/t/1002432#reply0"/>
-        <updated>2023-12-21T13:55:01.000Z</updated>
-        <summary type="html"><![CDATA[https://www.ricedrive.com/guides/how-to-transfer-files-from-Dropbox-to-OneDrive.html]]></summary>
+        <title type="html"><![CDATA[[Android] 阿里百川的最新版标准版 SDK， targetSdkVersion 改为 30+后无法唤起淘宝 App]]></title>
+        <id>https://www.v2ex.com/t/1002779#reply2</id>
+        <link href="https://www.v2ex.com/t/1002779#reply2"/>
+        <updated>2023-12-22T15:38:06.000Z</updated>
+        <summary type="html"><![CDATA[我真的服了百川，把他们的 sdk 的 demo targetSdkVersion 改为 30 后，连 demo 都唤不起淘宝 App ，这玩意还有人维护吗？
+而且加他们的钉钉群两天两次没人通过，提工单没人回复！
+明年开始，各大应用市场都不支持 30 以下的了。。。
+有大佬们知道怎么搞么？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[北京] 找一个小伙伴一块学英语]]></title>
-        <id>https://www.v2ex.com/t/1002431#reply1</id>
-        <link href="https://www.v2ex.com/t/1002431#reply1"/>
-        <updated>2023-12-21T13:52:15.000Z</updated>
-        <summary type="html"><![CDATA[大学六级考的不错，高中也没少读口语。但接下来工作中逐渐丢了。人生不留遗憾，准备把英语捡起来了！最近在多邻国上自学，想找一个伙伴一块学习。如果专同道合，可以一块，相互勉励，共同进步！如有意向，可以联系我。]]></summary>
+        <title type="html"><![CDATA[[YubiKey] 求个 Yubikey5]]></title>
+        <id>https://www.v2ex.com/t/1002778#reply1</id>
+        <link href="https://www.v2ex.com/t/1002778#reply1"/>
+        <updated>2023-12-22T15:26:34.000Z</updated>
+        <summary type="html"><![CDATA[求个 Yubikey5 nfc, 吃灰的甩我一个，上次没赶上车，TG: @guinai 谢谢！]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 快速批量裁剪视频的片头的方法]]></title>
-        <id>https://www.v2ex.com/t/1002430#reply1</id>
-        <link href="https://www.v2ex.com/t/1002430#reply1"/>
-        <updated>2023-12-21T13:49:49.000Z</updated>
-        <summary type="html"><![CDATA[有一批几百个视频文件，需要把片头（固定 20 秒）裁剪掉，有老哥有比较快捷的方法吗？]]></summary>
+        <title type="html"><![CDATA[[Java] 今天整了个活，用纯 http post 做了一个反向代理/内网穿透的工具]]></title>
+        <id>https://www.v2ex.com/t/1002777#reply15</id>
+        <link href="https://www.v2ex.com/t/1002777#reply15"/>
+        <updated>2023-12-22T15:25:53.000Z</updated>
+        <summary type="html"><![CDATA[事情是这样子的，我在 A 市工作，我们的 web 应用部署在 B 市，由于用户那边不允许远程访问服务器运维，所以有点事就要飞过去现场处理，超级烦。好在 web 应用只要有网就能访问。
+反正不管 ssh 还是访问 web ，都是把字节传发送到服务器嘛，于是我整了个活，本机用 netty 写个客户端把 ssh 请求发出的字节接住，转成 http post 发到 web 应用的 nginx ，再转发给服务器上的 netty 服务端还原出字节，转到 ssh 端口，大致就是这么个架构：
+
+然后，我就不用飞来飞去了，坐办公室里用 http 端口连服务器了 O(∩_∩)O 。。
+你问为什么不用 websocket ，因为用户不给在 nginx 上加相关配置。。
+忍不住要分享下，项目地址是 https://github.com/codingmiao/hppt]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[求职] 求大佬们帮小弟瞧瞧找明年暑期实习的简历，孩子听劝！]]></title>
-        <id>https://www.v2ex.com/t/1002428#reply5</id>
-        <link href="https://www.v2ex.com/t/1002428#reply5"/>
-        <updated>2023-12-21T13:42:52.000Z</updated>
-        <summary type="html"><![CDATA[求大佬们帮小弟瞧瞧找明年暑期实习的简历，孩子听劝！有什么建议都可以说。]]></summary>
+        <title type="html"><![CDATA[[NAS] 试了试百度网盘群晖官方套件]]></title>
+        <id>https://www.v2ex.com/t/1002775#reply0</id>
+        <link href="https://www.v2ex.com/t/1002775#reply0"/>
+        <updated>2023-12-22T15:15:31.000Z</updated>
+        <summary type="html"><![CDATA[该套件需要 ds7.2 和最新版 docker 以及 x86 机型
+发图太麻烦了（不会），简单文字描述下遇到了哪些问题
+会员 79 块，不开通无法使用同步，能不能下载没注意
+1 、界面非常简陋，文件管理只能下载，删除是没有的。
+2 、下载记录删除...也是没有的。
+3 、自动同步看起来很美好，但和 cloud sync 比起来不能加密、不能时间段，只能无加密同步，唯一的优势就是可选择同步到哪个文件夹，cloud sync 只能同步到'我的应用数据'，不能加密果断关掉。
+4 、宣传的外链下载，没在百度网盘网页找到获取的这个功能。
+5 、每次下载默认为 docker 的文件夹，不能默认为上一次的选择，不能永久更改。
+6 、不是群晖官方套件那样直接网页内的窗口打开，是一个单独的网页，外网使用需要端口映射，仅能扫码登陆，不愧是百度。
+凑合当个下载器还行]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[OpenAI] 现在怎么充值 OpenAI API 方便省钱呢]]></title>
-        <id>https://www.v2ex.com/t/1002427#reply1</id>
-        <link href="https://www.v2ex.com/t/1002427#reply1"/>
-        <updated>2023-12-21T13:41:36.000Z</updated>
-        <summary type="html"><![CDATA[有没有推荐的虚拟信用卡商，最好费用低一点的。]]></summary>
+        <title type="html"><![CDATA[[问与答] “股市低迷，处理好家庭关系”]]></title>
+        <id>https://www.v2ex.com/t/1002774#reply0</id>
+        <link href="https://www.v2ex.com/t/1002774#reply0"/>
+        <updated>2023-12-22T15:14:59.000Z</updated>
+        <summary type="html"><![CDATA[问与答 - @kalman03 -]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[职场话题] 公司饮水有异味，后续个人解决方案]]></title>
-        <id>https://www.v2ex.com/t/1002426#reply0</id>
-        <link href="https://www.v2ex.com/t/1002426#reply0"/>
-        <updated>2023-12-21T13:37:38.000Z</updated>
-        <summary type="html"><![CDATA[之前帖子：公司饮水有异味，个人解决方案是否可行？ - V2EX - https://www.v2ex.com/t/981173#reply61
-公司饮水机：
-https://imgur.com/a3wrl8t
-个人改进后：美团买菜或者 PDD 买菜 一天成本 2 元不到  + 小米煮水壶（支持直接加热到 60 不烧开）]]></summary>
+        <title type="html"><![CDATA[[OpenAI] ChatGPT 会无端使用中文来回答英文问题]]></title>
+        <id>https://www.v2ex.com/t/1002773#reply1</id>
+        <link href="https://www.v2ex.com/t/1002773#reply1"/>
+        <updated>2023-12-22T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[如题。即使我新开一个对话，第一个问题就完全使用英文撰写 prompt, ChatGPT 依旧有一定概率使用中文回答我。
+难道其他的对话会对新的对话有影响吗？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[程序员] 找个 go 开发，全力临时搞个 demo 赚个小钱哈，关于 webrtc ice 的不会的勿扰]]></title>
-        <id>https://www.v2ex.com/t/1002425#reply8</id>
-        <link href="https://www.v2ex.com/t/1002425#reply8"/>
-        <updated>2023-12-21T13:36:26.000Z</updated>
-        <summary type="html"><![CDATA[1.go 实现 webrtcice 打洞，a 端和 b 端通信，
-2.打洞失败走中转，coturn
-3.打洞成功之后暴露端口用于其他应用借助隧道通信
-有 demo 或者能实现的直接留联系方式]]></summary>
+        <title type="html"><![CDATA[[Linux] Linux 下各位都是用什么办法记住或查找那些自己安装的命令行软件的名字非系统自带或常用的命令）的？]]></title>
+        <id>https://www.v2ex.com/t/1002772#reply8</id>
+        <link href="https://www.v2ex.com/t/1002772#reply8"/>
+        <updated>2023-12-22T14:58:11.000Z</updated>
+        <summary type="html"><![CDATA[现在我的一些开发工作都从 windows 迁移到 debian 了，因为 debian 下可用的软件实在太多太多了，完全可以满足开发需要，特别是命令行的软件更是多如牛毛。
+不过这也带来了一些困扰，比如刚好今天安装了个很好用的命令行软件，用了几次，但是后面一段时间没用这个软件，等到想再用的时候，已经想不起这个软件的名字了，而命令行的软件也不会出现在开始菜单里。
+问了下 ai ，给的方法是用 apt list --installed 来查找，或者用 aptitude 查找。apt list 就只有软件名称，既然都想不起软件名称，也不知道要找哪个。aptitude 还有些简单的功能介绍，但是一个一个命令翻，这效率也太低了
+不知这种情况大家怎么处理？
+就是比如安装了一个很好用的命令行软件（没有 gui 的那种），用了几天暂时不用了，过了一段时间后想不起来这个命令的名字了，有什么好办法找到这个软件？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 快 2024 了， Wi-Fi 还要分频命名吗？同名时如何手动切换？]]></title>
-        <id>https://www.v2ex.com/t/1002424#reply3</id>
-        <link href="https://www.v2ex.com/t/1002424#reply3"/>
-        <updated>2023-12-21T13:30:36.000Z</updated>
-        <summary type="html"><![CDATA[2 个问题
-1. Wi-Fi 名还要分频命名吗？感觉不分频命名更省事，跟客人或者朋友分享的时候更方便些，能无脑连接。而且听说 Wi-Fi7 有同名兼容加持？
-2. 如果同名的话，如何切换到另一个频段？手机电脑各种平台都有此需求，有没有什么方法或者工具？]]></summary>
+        <title type="html"><![CDATA[[问与答] 电车的续航天冷了是真不行]]></title>
+        <id>https://www.v2ex.com/t/1002771#reply2</id>
+        <link href="https://www.v2ex.com/t/1002771#reply2"/>
+        <updated>2023-12-22T14:54:14.000Z</updated>
+        <summary type="html"><![CDATA[人在魔都，毛豆 Y 2.5 年了。平时开纯电的也还好，回老家 130 公里单程也基本没事，一般满电回去，在家开个 5 ，60KM 回上海还能剩个 100 多。基本不担心。
+这几天降温明显后发现电池明显不耐用了。这次回来全程不敢开空调，就这到家还剩 80 ，还好路上没堵车。
+不知道新出的那些纯电这几天表现如何？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 浏览器有[跳转回上一个标签页]的快捷键吗？]]></title>
-        <id>https://www.v2ex.com/t/1002423#reply4</id>
-        <link href="https://www.v2ex.com/t/1002423#reply4"/>
-        <updated>2023-12-21T13:30:34.000Z</updated>
-        <summary type="html"><![CDATA[类似于
-$ cd -
-跳回上一个路径的效果
-在不安装插件的情况下，有什么方法能实现吗？]]></summary>
+        <title type="html"><![CDATA[[程序员] 求推国内云服务器]]></title>
+        <id>https://www.v2ex.com/t/1002769#reply7</id>
+        <link href="https://www.v2ex.com/t/1002769#reply7"/>
+        <updated>2023-12-22T14:41:39.000Z</updated>
+        <summary type="html"><![CDATA[国内强制要求备案，因此有一个已经在腾讯云完成企业 ICP 备案的域名了。配置最好 2C2G ，宽带最好大一些，腾讯云一个月 55 的只有 4Mbps 服务器根本受不了]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 你每天编程多久？]]></title>
-        <id>https://www.v2ex.com/t/1002422#reply1</id>
-        <link href="https://www.v2ex.com/t/1002422#reply1"/>
-        <updated>2023-12-21T13:30:18.000Z</updated>
-        <summary type="html"><![CDATA[问与答 - @LittleDust - ![]( https://i.imgur.com/SBOVXs5.jpeg)]]></summary>
+        <title type="html"><![CDATA[[程序员] 打算做一个币圈公开或隐秘的发币项目， News 类还是论坛类会好点？]]></title>
+        <id>https://www.v2ex.com/t/1002768#reply0</id>
+        <link href="https://www.v2ex.com/t/1002768#reply0"/>
+        <updated>2023-12-22T14:38:17.000Z</updated>
+        <summary type="html"><![CDATA[请指点。]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[问与答] 各位大佬项目里写单元测试了吗？]]></title>
-        <id>https://www.v2ex.com/t/1002421#reply8</id>
-        <link href="https://www.v2ex.com/t/1002421#reply8"/>
-        <updated>2023-12-21T13:29:42.000Z</updated>
-        <summary type="html"><![CDATA[自己写了一个 app ，总是担心自己手动测试覆盖度不够会导致崩溃，所以一开始就接了 firebase 。
-看了下近一个月崩溃为 0 ，当然也是因为日活接近 0😂
-每次发版前也会点点点好久，功能复测好几种情况，但仍然在发布后会发现一些别的小问题。。。
-看某位大佬说他自己的项目，跑测试都要跑很久。之前工作中也从来没写过单元测试、集成测试等，现在也在看一些 flutter 的单元测试教程。bug 不可怕，就怕崩溃再也打不开 app ，修复都无法修复的那种。
-所以各位大佬会写一些单元测试集成测试吗？]]></summary>
+        <title type="html"><![CDATA[[路由器] TP 的路由一个 wan 口只能为一个子网提供 ipv6]]></title>
+        <id>https://www.v2ex.com/t/1002766#reply0</id>
+        <link href="https://www.v2ex.com/t/1002766#reply0"/>
+        <updated>2023-12-22T14:23:45.000Z</updated>
+        <summary type="html"><![CDATA[[贬义]TP 能把套皮 openwrt 做成这样还真是人才
+电信提供的地址是/56 或者/60 ，以前一直用软路由，没发现问题
+后面捡了 tp 的二手路由，一开始以为是设置错误，导致路由器只获取了/64 的地址
+今天问了客服，好家伙，一个 wan 口只能给一个子网开 ipv6]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Apple] 请教一个 appleID 的问题]]></title>
-        <id>https://www.v2ex.com/t/1002420#reply7</id>
-        <link href="https://www.v2ex.com/t/1002420#reply7"/>
-        <updated>2023-12-21T13:27:53.000Z</updated>
-        <summary type="html"><![CDATA[我有若干个苹果账号，现在想在常用的账号 A 邮箱切换为账号 B 的邮箱，账号 B 可以直接注销
-现有问题：
-AppleID 一旦注销了之后，其邮箱就无法再重新注册新的账号，但我这个是邮箱直接更改？不知道能不能绕过这个限制，广大 V 友是如何解决这个问题的？]]></summary>
+        <title type="html"><![CDATA[[问与答] 树莓派如何保证 usb 供电能稳定达到 5V 1A]]></title>
+        <id>https://www.v2ex.com/t/1002765#reply3</id>
+        <link href="https://www.v2ex.com/t/1002765#reply3"/>
+        <updated>2023-12-22T14:01:01.000Z</updated>
+        <summary type="html"><![CDATA[家里有树莓派从 1 代到 4 代，想在上面插一个 4G 的无线上网卡，但是这个卡需要稳定的 5V 1A 供电，如何让树莓派提供稳定的供电呢？]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[分享发现] 2023AI 元年即将过去，你用上 AI 了吗？都用 AI 来做什么？]]></title>
-        <id>https://www.v2ex.com/t/1002417#reply0</id>
-        <link href="https://www.v2ex.com/t/1002417#reply0"/>
-        <updated>2023-12-21T13:15:35.000Z</updated>
-        <summary type="html"><![CDATA[2023 年可以说是 AI 觉醒之年，ChatGPT 和 Midjourney 两大顶级 AI 工具横空出世，整个互联网的创新创作激情被重新点燃。作为一名计算机专业毕业生，业务编程爱好者，虽然没有从事互联网行业，多年前学习的编程技能一直没用上，但我意识到这是新一轮的创新浪潮。图灵测试的神话被打破了，大语音模型必定成为互联网领域乃至更多领域“蒸汽机”式的发明，必将重塑我们未来很多年的生活方式。
-    为了参与这场创新浪潮，我从搭建一个 AI 导航网站（ AI 未来城，www.linktoai.top ）入门 AI ，这个导航站聚合了我试验过的顶级 AI 工具。为了研究推广 AI ，又上线了一个聚合 ChatGPT 、Midjourney 的工具站（ AI 智研院，www.ai4you.top ）,并逐步学会了对接 GPT 、文心一言、讯飞星火、ChatGLM 等模型接口，使用多模型 api 分发系统，微信公众号开发、WordPress 模板建站。直到后面使用 ChatGPT 开发了 https://sai-art-generator.top 和 https://sgptcreator.top 两个网站，探索用 AI 运营今日头条、抖音视频、微信公众号等自媒体，我的生活中越来越多使用 AI 来创作、咨询和解答问题。在 AI 绘画中，我业在 AI 智研院接入了 Midjourney ，DALL-E3 ，用于创作令人惊叹的绘画。可以说，这一年在 AI 的帮助下，我做到了很多过去自己想都想不到的事情。
-    亲爱的朋友，你用上 AI 了吗？你都用 AI 来做什么事情，欢迎在评论区留下你的使用经验，一起探讨用 AI 提高自己的生产力，也欢迎使用我的免费无广告 AI 导航网站 AI 未来城 https://swww.linktoai.top 、AI 工具网站 AI 智研院 https://sys.ai4you.top 。]]></summary>
+        <title type="html"><![CDATA[[程序员] 开源 编译原理 pl/0 编译器 (rust 实现)]]></title>
+        <id>https://www.v2ex.com/t/1002764#reply0</id>
+        <link href="https://www.v2ex.com/t/1002764#reply0"/>
+        <updated>2023-12-22T13:59:50.000Z</updated>
+        <summary type="html"><![CDATA[开源一个本人用 rust 实现的 pl/0 编译器 (编译原理课设)
+GitHub Repository: GitHub - DrEden33773/pl_0: a simple pl/0 compiler implementation in rust.
+大概是第一批拿 rust 做编译原理课设的, 也算是小马过河
+编译器的大概架构是 词法分析器-[Tokens]-语法分析器-[AST]-语义分析+代码生成器-[PCode 三地址元组]-虚拟机/解释器 , 相比目前大部分的编译原理课设, 多了 AST 这个中介, 把语法分析和语义分析拆开, 让每个部分的实现都变得更加清晰简洁
+另外, 本人实现的这个编译器, 具有相当完善的 错误同步 机制, 避免了相当一部分课设 遇到一个编译错误, 报错后就停止执行 的问题
+默认实现中, 词法分析 / 语法分析 / 语义分析 / 代码生成 / 错误处理 / 解释执行 每个阶段都没有使用第三方自动化工具 (例如 pest / llvm) , 主打一个全过程参与
+如果你认为这个工程对你来说有参考价值的话, 可否动动手指, 给一颗 Star 呢? 不胜感激!]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[macOS] Safari 里面输入框输入一段文字无法在中间修改]]></title>
-        <id>https://www.v2ex.com/t/1002416#reply5</id>
-        <link href="https://www.v2ex.com/t/1002416#reply5"/>
-        <updated>2023-12-21T13:07:19.000Z</updated>
-        <summary type="html"><![CDATA[感觉这个问题已经存在好久了。症状是在 Safari 里打开页面，然后在输入框中敲字，这时候发现这句话中间想要加几个字，结果在中间输入的文字会强制地莫名其妙地变到句尾。如果是删除句中的一些字，光标也会莫名其妙地跳到句尾删除字符。
-发生频率：不定，时有时无。在推特上经常发生，在 GitHub 上时常发生。我现在在 V 站上发这篇帖子，暂时没有遇到这个问题。
-设备：Macbook Pro 13 2020 M1
-系统：Ventura 13.6.3
-Safari 版本：17.2
-请问大家有遇到相同或者类似的问题吗？大家的解决方案又是什么呢？
-（不会是换 Chrome 什么的吧……]]></summary>
+        <title type="html"><![CDATA[[Linux] Linux 怎么在不给 sudo 权限的情况下以别的用户身份执行命令]]></title>
+        <id>https://www.v2ex.com/t/1002763#reply5</id>
+        <link href="https://www.v2ex.com/t/1002763#reply5"/>
+        <updated>2023-12-22T13:57:40.000Z</updated>
+        <summary type="html"><![CDATA[装了个 gogs ，git 用户执行。想用 githook （非 webhook ）触发 git pull 。但是代码的用户是 www 。
+本来可以给 git 用户 sudo 权限，sudo -u www git -C pull 就行。但是不想给 git 用户 sudo 权限，给限死在 git 用户身份下，selinux 也限制死了只能操作 home/git 目录。
+有没有什么中间工具还是什么的么？比如有没有什么东西可以监控 git 的更新？然后这个东西是 www 用户身份啥的。]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Google] Google News Android primary 中文时有通知吗]]></title>
-        <id>https://www.v2ex.com/t/1002415#reply0</id>
-        <link href="https://www.v2ex.com/t/1002415#reply0"/>
-        <updated>2023-12-21T13:03:54.000Z</updated>
-        <summary type="html"><![CDATA[好像没收到过，Win 的 MSMS News 也是]]></summary>
+        <title type="html"><![CDATA[[程序员] 微软的 Microsoft Authenticator 到底要怎么样才可以 云备份&恢复？]]></title>
+        <id>https://www.v2ex.com/t/1002762#reply1</id>
+        <link href="https://www.v2ex.com/t/1002762#reply1"/>
+        <updated>2023-12-22T13:53:46.000Z</updated>
+        <summary type="html"><![CDATA[今天换了新手机，打算把老手机上的 Microsoft Authenticator 的内容先备份到云，再到新手机上面恢复。
+可是，老手机上面的备份，死活不成功。总是提示我， ’出现问题，请使用“发送日志”选项向我们发送日志‘。
+我试过开代理，香港的，美国的，或者不开代理，都是一样的错误。这咋整？总不至于，所有的都重新注册一遍吧，那可不是一般的费劲麻烦...... 
+都 2023 年了，MS 一点改进都没有了？
+p.s. 没办法，公司的相关服务，都是用的 Microsoft Authenticator ，我也不知道其它的 MFA 工具能否工作。
+p.s.2. 参考这个帖子最后一位兄弟的方法，也不行。
+我也遇到这个问题，解决方案：在旧手机上关闭备份，重新打开备份，然后到新手机上重新使用恢复功能，恢复成功]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[程序员] 突发奇想：大家有没有闲置的 App 项目，或许可以打包转让出售？]]></title>
-        <id>https://www.v2ex.com/t/1002414#reply4</id>
-        <link href="https://www.v2ex.com/t/1002414#reply4"/>
-        <updated>2023-12-21T12:56:51.000Z</updated>
-        <summary type="html"><![CDATA[这里的闲置项目指的是那种上架了 App Store ，但是却无暇维护的 App ，或许转让是一个好的归宿？
-可以聊聊，也可以发邮件 The6XStudio###gmail.com 或者私信我。]]></summary>
+        <title type="html"><![CDATA[[宽带症候群] 家庭网络固定公网 ip 似乎会导致严重的问题]]></title>
+        <id>https://www.v2ex.com/t/1002761#reply14</id>
+        <link href="https://www.v2ex.com/t/1002761#reply14"/>
+        <updated>2023-12-22T13:49:59.000Z</updated>
+        <summary type="html"><![CDATA[要了公网 ip 之后 ip 就没再变化，由于家里多个设备使用同一个 ip ，被很多 app 风控了，被认定为网络分享节点，例如 wx 小号全被封（没认证就是这样）。以前重启路由器就能得到新的 ip ，现在 ip 一直不变，购物软件也经常跳验证码。有办法既要公网连接但又不固定的方法吗]]></summary>
         <author>
             <name>V2EX</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[职场话题] 有一个晋升管理层的机会，要不要上？]]></title>
-        <id>https://www.v2ex.com/t/1002412#reply19</id>
-        <link href="https://www.v2ex.com/t/1002412#reply19"/>
-        <updated>2023-12-21T12:44:00.000Z</updated>
-        <summary type="html"><![CDATA[有一个晋升管理层的机会，要不要上？
-背景是这样，我们公司是 30 人规模的小公司，前端组前组长是 1 年前上任的，表示太累沟通能力差自闭难以胜任，想做回开发，向上司推荐让我来做这个位置。
-了解到情况后，上司电话我希望我来做，还没答应。
-目前了解到的内情有，公司股权似乎已经分过了，是没有前端组长的，我上任当然也没有；组长 100%加班牛马，估计还得写代码；]]></summary>
+        <title type="html"><![CDATA[[问与答] pve 加硬盘，分区出了问题，炸了，求助]]></title>
+        <id>https://www.v2ex.com/t/1002760#reply2</id>
+        <link href="https://www.v2ex.com/t/1002760#reply2"/>
+        <updated>2023-12-22T13:49:26.000Z</updated>
+        <summary type="html"><![CDATA[pve 稳定用了两三年了，装了好几个虚拟机，什么 openwrt 、softvpn 、dokcer 用的 ubuntu 之类的。几个机械盘也直通给了群晖。
+pve 宿主机系统盘当时买的 250G ，昨天不够用加了个 1T 的。
+pve 里有 local 和 local-lvm 两个存储空间，根据网上一些教程，我把这 1T 分给了他俩，（对 linux 的文件系统基本不了解，逻辑卷，物理卷也是操作的时候大概了解了一下）。
+炸的原因主要是，分配空间的时候 local 分多了，我就查了下教程，用 lvreduce 压缩了一下，压缩出来的空白卷分给了 local-lvm ，当时用 lvdisplay 查看了逻辑卷的大小没问题，但是 web 中显示有误，我就重启了一下 pve 宿主机，结果出问题了。
+现在只能 AIO 接 hdmi 才能看到错误，输入的地方是（ initramfs ），报错是
+/dev/mapper/pve-root:The filesystem size(according to the superblock) is 198705152 blocks 
+The physical size of the device is 67633152 blocks 
+Either the superblock or the partition table is likely to corrupt!
+查了下大概是逻辑卷大于物理卷的意思？
+看了网上一些教程，用了 fsck /dev/mapper/pve-root 一路 yes 下去，也没有用。
+resize2fs 命令好像没有预装，也用不了
+昨天有备份了下几个虚拟机，网上说路径在/etc/lib/vz/dump 下，但我在这个（ initramfs ）界面下没找到这个路径
+如果能把虚拟机备份弄出来，我就重装一下系统，恢复虚拟机。如果弄不出来我就只能重装 pve 了。
+求助大佬，可以把 filesystem size 和 physical size 调成一样的嘛？不能的话怎么获取到 pve 虚拟机的备份？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[编程] 现在大厂中对 UI 自动化测试有什么成熟的解决方案？]]></title>
+        <id>https://www.v2ex.com/t/1002759#reply0</id>
+        <link href="https://www.v2ex.com/t/1002759#reply0"/>
+        <updated>2023-12-22T13:47:55.000Z</updated>
+        <summary type="html"><![CDATA[1 、对于接口测试，单测、流量回放现在都比较成熟。
+2 、对于 UI 自动化投入人力比较多，收益名不太理想。其实大部分自动化也差不多，投入产出不成正比，主要还是集中在对业务功能的回归测试。在整个质量保障中起到作用不是很大，但还是不可或缺的。
+3 、不知道现在对 UI 自动化测试有什么好的解决方案？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[求职] 求职： Flutter 开发/ Python 后端岗位]]></title>
+        <id>https://www.v2ex.com/t/1002756#reply2</id>
+        <link href="https://www.v2ex.com/t/1002756#reply2"/>
+        <updated>2023-12-22T13:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Base 北京，211 本科，计算机，毕业十年（ 6 年非开发岗位+4 年没做成事但拾起来了开发）
+技术能力：
+iOS/Android - 基于 Flutter 做了一个经济数据库的 app （ app store：嘉林数据专业版）。
+Python 后端 - 基于 fastapi + mysql 为上述 app 提供后端 api 。
+数据库 - 基于 mysql 做了双主备份。
+devops - 基于 Proxmox 做了虚拟化。
+Linux - ubuntu
+新视野：
+AI - 基于 OpenAI/Python 做了个聊天机器人，嵌入了微信，运用了一些工具函数，下一步学习 langchain/llamaindex 。
+技术能力自我评价中等，数学/离散/图论之类的算法设计不擅长。但在程序开发中，运用什么数据结构，解耦/模块话的开发设计思想自我认为是有的。
+哪家可以收了我这位小弟，希望团队有一种坦诚的氛围。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Windows] 断开某个网络驱动器造成双击此电脑卡 10 几秒]]></title>
+        <id>https://www.v2ex.com/t/1002754#reply12</id>
+        <link href="https://www.v2ex.com/t/1002754#reply12"/>
+        <updated>2023-12-22T13:25:42.000Z</updated>
+        <summary type="html"><![CDATA[最近换了新电脑，安装了 WIN11 系统使用，家里 2 台 NAS 分别共享出 1 个 SAMBA 空间，在 WIN11 上分别映射网络驱动 Y 盘和 Z 盘。
+在使用期间发现，如果一个 NAS 关机，造成一个网络驱动器不可用，每次双击此电脑图标，都会转圈等待好久，推测系统资源管理器应该在后台重试连接那个网络驱动器，所以造成的卡。
+之前在 WIN10 上没有发现此问题，请问各位，需要修改注册表或者组策略哪里可以规避此问题？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[云计算] 阿里云问题请教：使用 LVS 与 Keepalived 实现集群的均衡和高可用]]></title>
+        <id>https://www.v2ex.com/t/1002751#reply6</id>
+        <link href="https://www.v2ex.com/t/1002751#reply6"/>
+        <updated>2023-12-22T13:07:46.000Z</updated>
+        <summary type="html"><![CDATA[在阿里云 ECS 服务器环境下，使用 LVS 与 Keepalived 实现集群的均衡和高可用。
+当前问题：DS 未向 RS 转发，标记路由未起作用，RS 直接向客户端发送响应。
+生产环境
+软件环境：CentOS7.9 、Keepalived1.3.5 、ipvsadm1.27
+DS1(MASTER)：10.7.8.176
+DS1(BACKUP)：10.7.8.177
+RS1：10.7.8.178
+RS1：10.7.8.179
+VIP：10.7.8.175
+                              |
+             +----------------+-----------------+
+             |                                  |
+   10.7.8.176|----     VIP:10.7.8.175       ----|10.7.8.177
+     +-------+--------+                +--------+-------+
+     | 	    DS1       |                |       DS2      |
+     | LVS+Keepalived |                | LVS+Keepalived |
+     +-------+--------+                +--------+-------+
+             |			                |
+             +----------------+-----------------+
+                              |
+  +------------+            …]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[杭州] 杭州房租比去年都涨了不少]]></title>
+        <id>https://www.v2ex.com/t/1002750#reply5</id>
+        <link href="https://www.v2ex.com/t/1002750#reply5"/>
+        <updated>2023-12-22T12:51:44.000Z</updated>
+        <summary type="html"><![CDATA[年后准备换房，昨天去大江东提前踩点看了几套房子，中介说今年比去年每个月大概涨了几百块钱（整租）！不过二手房价格倒是降了。这是啥原理？大家今年的房租是涨了还是降了呀？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[求职] 我还能不能去做技术工作， v 友看看我的 Python 代码，能找到一份什么级别的岗位。]]></title>
+        <id>https://www.v2ex.com/t/1002749#reply0</id>
+        <link href="https://www.v2ex.com/t/1002749#reply0"/>
+        <updated>2023-12-22T12:39:23.000Z</updated>
+        <summary type="html"><![CDATA[计算机毕业，毕业后就没做过开发工作。不知道我现在的代码水平，在什么层次。
+如果可以，我能找一份什么级别岗位的开发工作，
+目前情况：过去一年写了一个 fastapi + mysql 的后端 api ，最近两周，又写了个小项目，附在下面，v 友们给评判下，我是求助讨论哦，不是推广。
+附地址（最近写的一个 python 项目）： https://github.com/garinops/chat-E-AI]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] 搞了个在线交流阅读源码的平台，欢迎大佬们品鉴]]></title>
+        <id>https://www.v2ex.com/t/1002748#reply0</id>
+        <link href="https://www.v2ex.com/t/1002748#reply0"/>
+        <updated>2023-12-22T12:38:33.000Z</updated>
+        <summary type="html"><![CDATA[我的在线交流源码的平台终于上线了。
+codeyell.com
+功能：
+1 、可以将 github/gitee 的开源项目 clone 过来，针对每个文件每行代码发表注解，也可以查看其他人发表的注解。一起交流编码思想。
+2 、可以将代码 clone 到本地，然后通过 vscode 的插件查看和发表注解，使用 vscode 插件，可以支持查看定义、跳转引用等，阅读效率更高。
+欢迎大佬们体验，提供建议。
+谢谢]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Apple] 美区官网买 app store gift card 大家怎么填地址和个人信息？]]></title>
+        <id>https://www.v2ex.com/t/1002746#reply11</id>
+        <link href="https://www.v2ex.com/t/1002746#reply11"/>
+        <updated>2023-12-22T12:36:01.000Z</updated>
+        <summary type="html"><![CDATA[主要是想知道填免税州和非免税州也没有什么风险上的影响。
+还有就是卡的问题，用 revolut 的卡购买会有什么风险吗]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[旅行] 过完大年 30 然后自己去西藏]]></title>
+        <id>https://www.v2ex.com/t/1002745#reply17</id>
+        <link href="https://www.v2ex.com/t/1002745#reply17"/>
+        <updated>2023-12-22T12:34:41.000Z</updated>
+        <summary type="html"><![CDATA[我和朋友计划了很久去西藏 最终决定过完大年三十 正月初三出发 从山东菏泽开到成都，然后从成都直接上 318 国道 有去过的老哥 给点宝贵的建议和注意事项 小弟会积极的采纳 谢谢了🙏]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] 微信小程序一键清除手写体]]></title>
+        <id>https://www.v2ex.com/t/1002744#reply0</id>
+        <link href="https://www.v2ex.com/t/1002744#reply0"/>
+        <updated>2023-12-22T12:22:30.000Z</updated>
+        <summary type="html"><![CDATA[背景
+小盆友上学了，有家庭作业的时候有时候会遇到作业忘带的情况，这时候麻烦其他家长发过来的作业拍照经常会已经有了书写痕迹和答案。这个时候我们就需要有款软件能方便的擦除作业的手写体。
+市面上也有类似的工具比如 全能扫描王之类的，还有作业帮啥的，不过这玩意有些需要收费，有些交互做的很繁琐。于是我调研了一圈准备自己撸一个小程序来实现。
+初步方案
+一开始实现的思路也很简单，主要分四部步
+用户选择图片
+上传图片到服务端
+服务端调用 OCR 接口返回手写体的区域
+客户端擦除相关手写体
+于是就开始在各大云平台找相关 OCR 的 API ，主要是阿里云，腾讯云以及百度云。
+在调研试用了主流的三大云平台记录一下各个平台在 OCR 服务方面的一些个人体验
+腾讯云
+腾讯云在这次使用体验上表现较好，
+在 OCR 的调用方面有相关的在线试用平台https://cloud.tencent.com/product/ocr可以体验相关的 API
+相关的技术文档也比较健全 https://cloud.tencent.com/document/product/866/36212
+在文档里有一个比较关键的参数:
+
+Scene 选值: only_hw 表示只输出手写体识别结果过滤印刷体   ---有了这个参数我们就可以知道哪些是手写体，哪些是印刷体
+在实际调用的时候发现了问题： 在腾讯云的 OCR 手写体的接口里识别的区域不够准确，具体见下面的截图标黄的区域为根据腾讯云 OCR 识别后绘制，可以明显的看出有些误差的。不过在可接受范围内。
+免费额度：OCR 属于同一个共享资源包的接口共同享受 1,000 次/月的免费调用额度。
+阿里云
+阿里云识别手写体在这方面表现的比较差劲：
+阿里云 OCR 相关的服务 https://ai.aliyun.com/ocr/general,也有在线体验的示例，
+相关技术文档&在线接口调试
+
+但是--他没有参数区分是否只输出手写体--- 阿里云惨败
+免费额度：手写体识别享用 200 次/月的免费额度。
+百度云
+百度云的 OCR 识别 API 文档https://cloud.baidu.com/doc/OCR/s/hk3h7y2qq
+百度云在识别手写体方面表现比较普通，同样的他的手写体识别里也没有区分是否只标识手写体，印刷体和手写体识别没发区分。
+没有参数区分是否只输出手写体--- 百度云惨败
+免费额度：手写文字识别 ：500 次/月赠送；通用文字识别（标准版）：1000 次/月赠送  这块百度是区分开的，比较大方
+此方案的结论：
+只识别手写体然后前端手动擦除有点麻烦，没有想象中那么简单。作为备选方案。
+新的方案 --直接调用去除手写体的 API
+翻百度云的 API 的时候发现了 文档去手写 API
+使用了一下欣喜若狂，效果很好，官方的示例一目了然
+腾讯云与阿里云都没有类似的 API 。 唯一可惜的是这个 API 的免费额度是每个月 50 次。
+免费额度：50 次/月
+百度云这波好感倍增。
+有道智云
+于是继续搜刮其他云平台有没有相关的 API ，找到了有道智云有一个试卷擦除手写体
+有道智云的文档写的比较简单，官方有个 demo ，试用了一下，比百度云的略微逊色，但是也基本满足需要。
+有道智云的接口有个缺点就是返回的接口里也会返回原图的 base64 编码，没有参数选择只返回处理后图片的 base64 ，这样就比较浪费接口流量。
+免费额度：有道云会赠送 100 元的充值券，这个 API 调用一次是 0.1 元。(⊙o⊙)…。。。
+特别提醒
+需要注意的一点是
+此方案的结论：
+服务端接口封装，优先调用百度云的 API ，50 次额度用完后再调用有道云的 API
+正式的方案
+因为首先微信小程序作为前端开发，故直接使用了微信小程序的云服务器方案(免费 90 天) golang 作为服务端。顺便薅了腾讯云的 COS 存储的羊毛。
+微信云在 web 接口层面有个两个限制：
+post 数据不能超过 10K --对于一个 base64 的图片来说这个 size 基本上不可能。
+接口响应超时时间为 10S
+所有一通调研下来实际的落地方案如下：
+最终的实际效果
+
+大家可以扫码体验，或者微信搜索小程序: 番茄小能手 
+一些感想：
+做这个小工具功能比较简单，实际的开发中大量的时间消耗在调研各大应用平台的接口以及前后端联调上。整体体验因为是纯调用接口，最好的方案应该是把这些处理都放在前端来，OCR 模型识别啥的也下放到前端，不过暂时没找到合适的开源框架，大家有了解的可以评论区告诉我。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] 用 SwiftUI 做了个简易的找工作记录用的 App]]></title>
+        <id>https://www.v2ex.com/t/1002743#reply1</id>
+        <link href="https://www.v2ex.com/t/1002743#reply1"/>
+        <updated>2023-12-22T12:18:52.000Z</updated>
+        <summary type="html"><![CDATA[一开始的想法只是看到 Swift Charts 觉得很喜欢这种简洁又美观的图形效果，想用多层饼图的形式展现一些数据。
+正好是毕业后找工季，经常看到有人发 Sankey 图，感觉如果用多层饼图说不定会有新意而且也很漂亮。
+然后想着都做了这么多了要不干脆写个 app 出来。香蕉猴子森林了属于是。
+UI 还是蛮简陋的。上面那个导航条感觉也不太 Swifty 。之前有 v 友建议用 Sheet ，不过急着把功能先做完也就没顾得上了。感觉还是有很多东西需要重新考虑。
+自我评价的话感觉一个月弄完这东西，虽然比起 GitHub 上能搜到的竞品可能还是更完整，但还是有很多不足的地方。
+预览图如下：
+![]( )
+主要功能就是记录投递的岗位，更新状态然后可视化投递结果。好像也没什么值得说的东西。
+写这个东西之前对 SwiftUI 的了解仅限于「 Swift 的 lambda 挺强大，语言看起来有点像 Kotlin 」，写的时候遇到了一大堆问题，不过还好都解决了，主要的参考资料包括 Apple 的官方文档、Apple Developer 社区、StackOverflow 和 V2EX ，还有一些不同的技术 blog 例如 hackingwithswift 。
+代码以 GPL 协议开源在 GitHub 上。写得太搓了就不去 App Store 骗钱了（]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] idea 的编译真的是让人难受]]></title>
+        <id>https://www.v2ex.com/t/1002742#reply19</id>
+        <link href="https://www.v2ex.com/t/1002742#reply19"/>
+        <updated>2023-12-22T12:18:39.000Z</updated>
+        <summary type="html"><![CDATA[编译的时候老是提示堆内存不足，打开自动编译也报一堆错误，打开具体文件报错信息又消失了，让人捉摸不透，想彻底放弃 eclipse 不太可能了，编译还得是 eclipse]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] FastDFS 与 Minio 文件存储系统，大家一般用哪个比较多呢？]]></title>
+        <id>https://www.v2ex.com/t/1002740#reply5</id>
+        <link href="https://www.v2ex.com/t/1002740#reply5"/>
+        <updated>2023-12-22T11:53:59.000Z</updated>
+        <summary type="html"><![CDATA[请教一下：  FastDFS  与  Minio  文件存储系统，大家一般用哪个比较多呢？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] Win10 除了 CKS 还有别的办法加载自签名驱动么？]]></title>
+        <id>https://www.v2ex.com/t/1002739#reply0</id>
+        <link href="https://www.v2ex.com/t/1002739#reply0"/>
+        <updated>2023-12-22T11:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Custom Kernel Signers 要求 Secure Boot ，对双系统不友好。
+https://github.com/PIKACHUIM/FakeSign ）
+好像网上流出来的过期证书都被拉黑了。。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[问与答] 请教 IOS 自动化测试]]></title>
+        <id>https://www.v2ex.com/t/1002738#reply0</id>
+        <link href="https://www.v2ex.com/t/1002738#reply0"/>
+        <updated>2023-12-22T11:37:30.000Z</updated>
+        <summary type="html"><![CDATA[iOS 16.5 系统，WebDriverAgent.ipa 装上了，tidevice wdaproxy 启不来。
+tidevice xctest --debug 一大堆日志，感觉有用的信息就如下：
+'NSFilePath': '/var/containers/Bundle/Application/55B6B0AE-5416-4657-86B5-9EEC8B51F9D2/WebDriverAgentRunner-Runner.app/PlugIns/WebDriverAgentRunner.xctest/WebDriverAgentRunner',
+'NSLocalizedDescription': '未能载入软件包“WebDriverAgentRunner”。',
+'NSLocalizedFailureReason': '未能载入该软件包。',
+'NSLocalizedRecoverySuggestion': '请尝试重新安装软件包。'})})])
+
+折腾一两天了，换了好几个 ipa 都这样。
+由于没有 MAC 系统，WebDriverAgent.ipa 是我用别人分享的，然后用 Sideloadly 个人自签后安装，官方都没有提供 ipa ，都是教如何编译 ipa ，请问 WebDriverAgent.ipa 是必须自己用 XCode 编译安装吗？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Python] 大家最近新项目用什么 Web 框架？]]></title>
+        <id>https://www.v2ex.com/t/1002736#reply11</id>
+        <link href="https://www.v2ex.com/t/1002736#reply11"/>
+        <updated>2023-12-22T11:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Python - @inSpring -]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MacBook Pro] mac 外接 U2723QX 疑问求解]]></title>
+        <id>https://www.v2ex.com/t/1002735#reply4</id>
+        <link href="https://www.v2ex.com/t/1002735#reply4"/>
+        <updated>2023-12-22T11:00:59.000Z</updated>
+        <summary type="html"><![CDATA[刚购入 2723qx ，平时用来敲敲代码。我现在接的是有 90w 充电的口，有办法让这个接口不发挥供电的作用吗？或者是使用其他接口比较好。另外，使用同款显示器作为外接的用户们，你们使用哪个分辨率，默认还是缩放多少呢？]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[分享创造] 若依框架 懒人福利，一键安装启动即可快速访问使用]]></title>
+        <id>https://www.v2ex.com/t/1002734#reply0</id>
+        <link href="https://www.v2ex.com/t/1002734#reply0"/>
+        <updated>2023-12-22T10:59:23.000Z</updated>
+        <summary type="html"><![CDATA[精简版，只为服务 SpringBoot 管理，方便快捷
+先看安装成功后，各服务管理效果：
+
+再看登录成功效果：
+
+SCM 工具安装说明
+一键安装完成后，自带 JDK 、MySQL 、Nginx 、Redis 、BootSys （即 SpringBoot 的启动 Jar 包），只需要将各服务启动即可。
+里面自带若依框架-vue 版部署包，直接用~~~~~~~~~~~~~
+若想要部署自己的项目，可根据下面的方式使用：
+注意 SpringBoot 的 Jar 包放置目录为：
+
+开机自启动：
+设置为开机自启动时，当电脑或服务器重启：会自动启动服务（ SCM 要首先设置为开机自启动）。
+进程守护：
+当某服务不小心停止，无须人为操作，该服务会自动启动。
+目前是支持 Windows 、Windows Server 服务器、统信 UOS 等服务器版本
+Linux 、Mac 版本陆续更新中...
+感谢关注]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[宽带症候群] 这个 ipv6 问题真折磨，大佬帮我分析下]]></title>
+        <id>https://www.v2ex.com/t/1002732#reply5</id>
+        <link href="https://www.v2ex.com/t/1002732#reply5"/>
+        <updated>2023-12-22T10:58:18.000Z</updated>
+        <summary type="html"><![CDATA[上一个帖子IPv6 没问题，但夜间看不了 ipv6 源的电视。
+今天查看了一下问题，应该是 OpenWRT ipv6 的问题。具体表现在，每天凌晨一点多 OpenWRT 会执行自动重启，到白天 ipv6 都是 work 的，到了晚上连接它的客户端就无法访问 ipv6 地址了。研究了一会，发现重新连接一下 WAN6 这个网口(DHCPv6)后，就可以恢复正常，也就是用命令 (ifdown WAN6 && ifup WAN6)。
+在出问题的时候，客户端（手机）无法观看 IPV6 源的电视，电脑（ macOS ）使用命令执行ping6 2409:8087:1e03:21::2 无响应; 但是 ssh 进 OpenWRT 后执行 ping6 都是正常的。使用 traceroute6 命令也是一样，客户端(macOS)执行后只有一条 1  2408:8224:f27:cc71::1  4.568 ms  4.953 ms  3.863 ms, 但在 OW 内部则是正常有跳转的。
+即使出问题的时候，macOS 也是有 ipv6 地址的:
+en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+	options=6460<TSO4,TSO6,CHANNEL_IO,PARTIAL_CSUM,ZEROINVERT_CSUM>
+	ether 51:ed:3d:03:02:0c
+	inet6 fe80::1c00:7578:921:68c1%en0 prefixlen 64 secured scopeid 0xc
+	inet6 2408:8224:f27:cc71:cfd:83f:84d8:2748 prefixlen 64 autoconf secured
+	inet6 2408:8224:f27:cc71:740e:450:7753:f472 prefixlen 64 autoconf temporary
+	inet 192.168.11.109 netmask 0xffffff00 broadcast 192.168.11.255
+	inet6 2408:8224:f27:cc71::ea1 prefixlen 64 dynamic
+	inet6 fd72:53a3:521f:4e91:1003:46e:4ce2:710a prefixlen 64 autoconf secured
+
+使用 netstat -nr -f inet6 查看路由表也是没有用信息。
+仅仅重启了 WAN6 这个网口，没有重启 ipv4 的网口，防火墙也没有改变，所以应该不是防火墙问题。
+重启过路由器，也是没有影响。开关过 OpenClash ，也没影响。
+难道是租约到期了？但我不知道如何排查租约问题。不能每次挂掉后再登录 OW 重新连接 WAN6 吧。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[程序员] 公司准备研发物联网设备，请教一下大家通信协议选型问题]]></title>
+        <id>https://www.v2ex.com/t/1002731#reply8</id>
+        <link href="https://www.v2ex.com/t/1002731#reply8"/>
+        <updated>2023-12-22T10:55:39.000Z</updated>
+        <summary type="html"><![CDATA[设备量级：一套服务 20W 左右；
+通信方式：4G(优先，主要,占比为 90%),lora,zigbee,485 ；需要共用一套协议格式。
+请问用 mqtt json 好还是 TCP 字节流。]]></summary>
+        <author>
+            <name>V2EX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Android] 求助， iPhone 转安卓，如何把照片按照 iPhone 的相册顺序一样，同步到安卓手机上]]></title>
+        <id>https://www.v2ex.com/t/1002730#reply2</id>
+        <link href="https://www.v2ex.com/t/1002730#reply2"/>
+        <updated>2023-12-22T10:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Android - @sandMan9 -]]></summary>
         <author>
             <name>V2EX</name>
         </author>
